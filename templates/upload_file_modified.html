@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <title>Upload File Modified</title>
+  </head>
+  <body>
+      <div class = 'container mt-5'>
+      <h2>File Input</h2>
+        <form action = '/upload_file_modified' method ='POST' enctype="multipart/form-data">
+                <label for="formFile" class="form-label">Input a text file containing your questions</label>
+                <input class="form-control" type="file" id="formFile" name="file">
+                <br>
+                <br>
+    <!-- Optional JavaScript; choose one of the two! -->
+    <div class="container mt-5">
+      <fieldset>
+      <label for="topic">What topic do you want to choose?</label>
+      <label><input type="checkbox" name="topic" id="topic" value="Security">Security</label><br>
+      <label><input type="checkbox" name="topic" id="topic" value="Privacy">Privacy</label><br>
+      <label><input type="checkbox" name="topic" id="topic" value="Consistency">Consistency</label><br>
+    </fieldset>
+  <!--    <select name="topic" id="topic">
+        <option value="Security">Security</option>
+        <option value="Privacy">Privacy</option>
+      </select>  -->
+      <br><br>
+        <label for="counter">Enter the number of times you want to run the system.</label>
+        <input type="text" id="counter" class="form-control" aria-describedby="passwordHelpBlock" name = "counter">
+        <div id="passwordHelpBlock" class="form-text">Please enter numerical values.</div>
+        <br><br>
+          <button type='submit' class="btn btn-outline-dark">Submit</button>
+        </form>
+      </div>
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+    -->
+
+    <div class="container-fluid">
+      <a class="navbar-brand" href="/">Click to go back to home page</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      
+    </div>
+  </body>
+</html>
