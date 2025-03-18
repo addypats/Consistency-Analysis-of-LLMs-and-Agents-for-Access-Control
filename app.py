@@ -1,79 +1,59 @@
-from flask import Flask, render_template, request, redirect, url_for
-import requests
 import json
-import numpy as np
-import matplotlib.pyplot as plt
-from math import pi
-from result_processing import Result
-from results_answers_processing import Result_Answers
-from llm_model_process import Llm_Model_Process
-from get_spider_list import Spider_List
-from api import api
-from spider_charts import Spider_Charts
-from cross_valid_list import Cross_Valid_List
+from jsonstream import load
+from generate_response import *
+import os
+#Keeps track of whether we're generating or analyzing, maybe make interactive later.
+mode = 'generate'
+# mode = 'analyze'
+#Keeps track of all policies
+#Generate some number of responses for each LLM and save as JSON files
 
-
-# R = Result()
-# RA = Result_Answers()
-# LMP = Llm_Model_Process()
-# SL = Spider_List()
-API = api()
-# SPC = Spider_Charts()
-# CVL = Cross_Valid_List()
-
-
-app = Flask(__name__)
-
-@app.route('/', methods = ['GET', 'POST'])
-def home():
-    if request.method == 'POST':
-        answer = request.form.get('answer')
-        if answer == 'yes':
-            return redirect(url_for('upload_file_modified'))
-        elif answer == 'no':
-            return redirect(url_for('enter_question_modified'))
-    else:
-        return render_template('index.html')
-    
-    
-    # Template for the actual Flask code
-
-@app.route('/upload_file_modified', methods=['GET', 'POST'])
-def upload_file_modified():
-
-    # initializations
-    
-    if request.method == 'POST':
-
-        # get parameters from user
-        file = request.files['file']
-        # counter = request.form.get('counter')
-        # topic = request.form.get('topic')
-        
-        # read the file and get questions
-        lines = file.stream.readlines()
-        policy_descriptions = [line.decode('utf-8').strip() for line in lines]
-
-        policy_descriptions = API.process_policy_description(policy_descriptions, counter)
-
-        print("POLICY DESCRIPTIONS\n")
-        print(policy_descriptions)
-        
-        # data_dict_answers = API.process_answers(policy_descriptions, counter)  Redundant in this case
-
-       
-        
-        # no_of_questions = len(questions_list)   Not sure if we need this (most probably not - just keeping it here for reference (for what idk for now - will remove it later))
-
-        
-        
-        # return render_template('results.html', no_of_questions=no_of_questions, policy_descriptions=policy_descriptions)
-        return None
+if mode == 'generate':
+    #make more interactive later on, for now just pull all the prompts from prompt.json and generate responses
+    #In the future check it with a file that keeps track of prompts we've already generated responses for
+    policies = []
+    f = open("prompts.json", "r")
+    stream = load(f)
+    #How many iterations we generate for
+    iterations = 5
+    overwrite = False
+    cnt = 0
+    dirs = [name for name in os.listdir("./Responses") if os.path.isdir(os.path.join("./Responses", name))]
+    for p in stream:
+        policies.append(p)
+        prompt = "Generate me a /etc/security/pwquality.conf file with the following password policy rules (reply with just the file):\n" + p
+        for d in dirs:
+            #idk what to call the folders, so for now I'll just number them and store the prompt in a txt file inside
+            if not os.path.exists(f"./Responses/{d}/{cnt}/prompt.txt"):
+                os.makedirs(os.path.dirname(f"./Responses/{d}/{cnt}/"), exist_ok=True)
+                f = open(f"./Responses/{d}/{cnt}/prompt.txt", "w")
+                f.write(prompt)
+        #Generate and save
+        #Using files instead of storing it all in memory will help with fault tolerance
+        for i in range(iterations):
+            for d in dirs:
+                #Fault tolerance
+                if os.path.exists(f"./Responses/{d}/{cnt}/pwquality{i}.conf"):
+                    continue
+                resp = ""
+                #Don't have a nicer looking way of doing this rn
+                if d == 'Bloom':
+                    resp = generate_response_bloom(prompt)
+                elif d == 'Cohere':
+                    resp = generate_response_Cohere(prompt)
+                #In progress
+                # elif d == 'DeepSeek':
+                #     resp = generate_response_Cohere(prompt)
+                elif d == 'Gemini':
+                    resp = generate_response_gemini(prompt)
+                elif d == 'GPT 4o-Mini':
+                    resp = generate_response_chat4om(prompt)
+                elif d == 'GPT o3-Mini':
+                    resp = generate_response_chato3m(prompt)
+                elif d == 'Llama3':
+                    resp = generate_response_Llama(prompt)
+                f = open(f"./Responses/{d}/{cnt}/pwquality{i}.conf", "w")
+                f.write(resp)
 
             
-    else:
-        return render_template('upload_file_modified.html') 
-
-    
-if __name__ == "__main__":
-    app.run(host = '0.0.0.0', port=8000, debug = True)
+        cnt+=1
