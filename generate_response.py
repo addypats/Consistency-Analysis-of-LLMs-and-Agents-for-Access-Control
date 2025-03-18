@@ -53,6 +53,11 @@ def generate_response_chato3m(prompt):
 
 #     self.predicted = self.tokenizer.decode(self.outputs[0], skip_special_tokens=True)
 #     return self.predicted[(len(self.prompt) + 1):]
+
+
+
+
+
 # def generate_response_deepseek(self, prompt):
 #     messages = [{"role": "user", "content": "Who are you?"},]
 #     pipe = pipeline("text-generation", model="deepseek-ai/DeepSeek-V3", trust_remote_code=True)
@@ -134,6 +139,8 @@ def generate_response_Cohere(prompt):
 #     self.message = self.jsonfile['choices'][0]['message']['content']
     
 #     return self.message
+
+
 #Ran out of tokens, so running Llama3 locally with Ollama
 #Download Ollama and run ollama pull Llama3
 def generate_response_Llama(prompt):
