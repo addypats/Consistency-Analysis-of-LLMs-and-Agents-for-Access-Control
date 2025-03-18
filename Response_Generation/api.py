@@ -1,4 +1,4 @@
-from generate_response import Gen_Resp
+from Response_Generation.generate_response import Gen_Resp
 import sys
 
 GR = Gen_Resp()

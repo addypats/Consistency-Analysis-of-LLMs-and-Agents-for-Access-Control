@@ -4,13 +4,13 @@ import json
 import numpy as np
 import matplotlib.pyplot as plt
 from math import pi
-from result_processing import Result
+from Result_Processing.result_processing import Result
 from results_answers_processing import Result_Answers
-from llm_model_process import Llm_Model_Process
-from get_spider_list import Spider_List
-from api import api
-from spider_charts import Spider_Charts
-from cross_valid_list import Cross_Valid_List
+from modules.llm_model_process import Llm_Model_Process
+from modules.get_spider_list import Spider_List
+from Response_Generation.api import api
+from Result_Processing.spider_charts import Spider_Charts
+from modules.cross_valid_list import Cross_Valid_List
 
 
 # Class initializations from other python files

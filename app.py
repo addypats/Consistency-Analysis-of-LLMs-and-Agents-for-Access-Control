@@ -1,7 +1,7 @@
 import json
 from jsonstream import load
 # from generate_response import *    Importing a class is better
-from generate_response import Gen_Resp
+from Response_Generation.generate_response import Gen_Resp
 import os
 
 
