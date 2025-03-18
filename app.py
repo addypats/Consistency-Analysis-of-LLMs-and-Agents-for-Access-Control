@@ -13,13 +13,11 @@ from spider_charts import Spider_Charts
 from cross_valid_list import Cross_Valid_List
 
 
-# Class initializations from other python files
-
 # R = Result()
 # RA = Result_Answers()
 # LMP = Llm_Model_Process()
 # SL = Spider_List()
-# API = api()
+API = api()
 # SPC = Spider_Charts()
 # CVL = Cross_Valid_List()
 
@@ -44,33 +42,34 @@ def home():
 def upload_file_modified():
 
     # initializations
- 
+    
     if request.method == 'POST':
 
         # get parameters from user
         file = request.files['file']
-        # counter = request.form.get('counter')     # Not needed for now
+        # counter = request.form.get('counter')
         # topic = request.form.get('topic')
         
-        # read the file and get the descriptions
+        # read the file and get questions
         lines = file.stream.readlines()
-        questions_list = [line.decode('utf-8').strip() for line in lines]
+        policy_descriptions = [line.decode('utf-8').strip() for line in lines]
 
+        policy_descriptions = API.process_policy_description(policy_descriptions, counter)
 
-        # print("DATA_DICT_ANSWERS")
-        # print(data_dict_answers)
-
-        # f = open("log.txt", 'w')
-        # print(data_dict_questions, file=f)
-        # f.write("\n\n\n\n\n\n\n\n\n\n\n\n")
-        # print(data_dict_answers, file=f)
-        # f.close()
+        print("POLICY DESCRIPTIONS\n")
+        print(policy_descriptions)
         
-        # no_of_questions = len(questions_list)
+        # data_dict_answers = API.process_answers(policy_descriptions, counter)  Redundant in this case
+
+       
+        
+        # no_of_questions = len(questions_list)   Not sure if we need this (most probably not - just keeping it here for reference (for what idk for now - will remove it later))
 
         
-        # return render_template('results.html', questions_list=questions_list)
+        
+        # return render_template('results.html', no_of_questions=no_of_questions, policy_descriptions=policy_descriptions)
         return None
+
             
     else:
         return render_template('upload_file_modified.html') 
