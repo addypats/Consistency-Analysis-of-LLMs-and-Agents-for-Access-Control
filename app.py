@@ -1,11 +1,7 @@
 import json
 from jsonstream import load
-# from generate_response import *    Importing a class is better
-from Response_Generation.generate_response import Gen_Resp
+from Response_Generation.generate_response import *
 import os
-
-
-GR = Gen_Resp()
 #Keeps track of whether we're generating or analyzing, maybe make interactive later.
 
 mode = 'generate'
@@ -20,72 +16,71 @@ if mode == 'generate':
     #make more interactive later on, for now just pull all the prompts from prompt.json and generate responses
     
     #In the future check it with a file that keeps track of prompts we've already generated responses for
-    policy_file_cnt = 0
-    while os.path.exists(f"prompts_{policy_file_cnt}.json"):          # Added a loop for multiple prompts files
-        policies = []
-        f = open("prompts_0.json", "r")  # While using prompts_1.json, be sure to cite: "https://www.lumificyber.com/blog/successful-password-policies-for-organizations/" for the paper.
-        stream = load(f)                # Also be sure to cite the source for prompts_0.json. I don't know what source you've used for that.
+        #I guess multiple files is a little easier. Will revise
+    policies = []
+    
+    #How many iterations we generate for
+    
+    iterations = 5 
+    overwrite = False
+    cnt = 0
+    dirs = [name for name in os.listdir("./Responses") if os.path.isdir(os.path.join("./Responses", name))]
+    pfiles = [name for name in os.listdir("./Prompts")]
+    # print(pfiles)
+    # exit()
+    #Originally I'd store every prompt in one file. This would loop over everything. No need for an outer loop
+    #Will revise to read multiple files instead of using JsonStream
+    for fl in pfiles:
+        p = json.loads(f"./Prompts/{fl}")
+        policies.append(p)
+        prompt = "Generate me a /etc/security/pwquality.conf file with the following password policy rules (reply with just the file):\n" + p
+        for d in dirs:
+            
+            #idk what to call the folders, so for now I'll just number them and store the prompt in a txt file inside
+            #cnt refers to which policy. It'll be 0 for prompt_0, 1 for prompt_1, etc.
+            if not os.path.exists(f"./Responses/{d}/{cnt}/prompt.txt"):
+                os.makedirs(os.path.dirname(f"./Responses/{d}/{cnt}/"), exist_ok=True)
+                f = open(f"./Responses/{d}/{cnt}/prompt.txt", "w")
+                f.write(prompt)
+                
+        #Generate and save
+        #Using files instead of storing it all in memory will help with fault tolerance
         
-        #How many iterations we generate for
-        
-        iterations = 5                                      # Why are you generating 5 password files?
-                                                            # Are we doing self consistency checks?
-                                                            # If yes, then fine
-                                                            # If not, then why not generate one and compare it with the ones generated from diff ones? 
-        overwrite = False
-        cnt = 0
-        dirs = [name for name in os.listdir("./Responses") if os.path.isdir(os.path.join("./Responses", name))]
-        for p in stream:
-            policies.append(p)
-            prompt = "Generate me a /etc/security/pwquality.conf file with the following password policy rules (reply with just the file):\n" + p
+        for i in range(iterations):
             for d in dirs:
                 
-                #idk what to call the folders, so for now I'll just number them and store the prompt in a txt file inside
+                #Fault tolerance
                 
-                if not os.path.exists(f"./Responses/{d}/{cnt}/prompt_{policy_file_cnt}.txt"):
-                    os.makedirs(os.path.dirname(f"./Responses/{d}/{cnt}/"), exist_ok=True)
-                    f = open(f"./Responses/{d}/{cnt}/prompt.txt", "w")
-                    f.write(prompt)
+                if os.path.exists(f"./Responses/{d}/{cnt}/pwquality{i}.conf"):
+                    continue
+                resp = ""
+                
+                #Don't have a nicer looking way of doing this rn
+                
+                if d == 'Bloom':
+                    resp = generate_response_bloom(prompt)
+                elif d == 'Cohere':
+                    resp = generate_response_Cohere(prompt)
                     
-            #Generate and save
-            #Using files instead of storing it all in memory will help with fault tolerance
-            
-            for i in range(iterations):
-                for d in dirs:
+                #In progress
+                # elif d == 'DeepSeek':
+                #     resp = generate_response_deepseek(prompt)
+                
+                elif d == 'Gemini':
+                    resp = generate_response_gemini(prompt)
+                elif d == 'GPT 4o-Mini':
+                    resp = generate_response_chat4om(prompt)
+                elif d == 'GPT o3-Mini':
+                    resp = generate_response_chato3m(prompt)
+                elif d == 'Llama3':
+                    resp = generate_response_Llama(prompt)
                     
-                    #Fault tolerance
                     
-                    if os.path.exists(f"./Responses/{d}/{cnt}/pwquality{i}.conf"):
-                        continue
-                    resp = ""
-                    
-                    #Don't have a nicer looking way of doing this rn
-                    
-                    if d == 'Bloom':
-                        resp = GR.generate_response_bloom(prompt)
-                    elif d == 'Cohere':
-                        resp = GR.generate_response_Cohere(prompt)
-                        
-                    #In progress
-                    # elif d == 'DeepSeek':
-                    #     resp = generate_response_deepseek(prompt)
-                    
-                    elif d == 'Gemini':
-                        resp = GR.generate_response_gemini(prompt)
-                    elif d == 'GPT 4o-Mini':
-                        resp = GR.generate_response_chat4om(prompt)
-                    elif d == 'GPT o3-Mini':
-                        resp = GR.generate_response_chato3m(prompt)
-                    elif d == 'Llama3':
-                        resp = GR.generate_response_Llama(prompt)
-                        
-                        
-                    f = open(f"./Responses/{d}/{cnt}/prompt_{policy_file_cnt}_pwquality{i}.conf", "w")
-                    f.write(resp)
+                f = open(f"./Responses/{d}/{cnt}/pwquality{i}.conf", "w")
+                f.write(resp)
 
-                
-            cnt+=1
-        policy_file_cnt += 1    
+            
+        cnt+=1
         
     # In case, we are not doing self, (just removed the iteration factor, rest of the code is the same)
     # Delete later if necessary
