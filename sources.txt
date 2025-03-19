@@ -1,0 +1,4 @@
+Will use something cleaner in the future
+
+prompts_0: https://purplesec.us/resources/cyber-security-policy-templates/password-security/
+prompts_1: https://www.lumificyber.com/blog/successful-password-policies-for-organizations/
