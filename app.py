@@ -21,9 +21,9 @@ if mode == 'generate':
     
     #In the future check it with a file that keeps track of prompts we've already generated responses for
     policy_file_cnt = 0
-    while os.path.exists(f"prompts_{policy_file_cnt}.json"):          # Added a loop for multiple prompts files
+    while os.path.exists(f"./Input_Prompts/prompts_{policy_file_cnt}.json"):          # Added a loop for multiple prompt files
         policies = []
-        f = open("prompts_0.json", "r")  # While using prompts_1.json, be sure to cite: "https://www.lumificyber.com/blog/successful-password-policies-for-organizations/" for the paper.
+        f = open(f"./Input_Prompts/prompts_{policy_file_cnt}.json", "r")  # While using prompts_1.json, be sure to cite: "https://www.lumificyber.com/blog/successful-password-policies-for-organizations/" for the paper.
         stream = load(f)                # Also be sure to cite the source for prompts_0.json. I don't know what source you've used for that.
         
         #How many iterations we generate for
@@ -44,7 +44,7 @@ if mode == 'generate':
                 
                 if not os.path.exists(f"./Responses/{d}/{cnt}/prompt_{policy_file_cnt}.txt"):
                     os.makedirs(os.path.dirname(f"./Responses/{d}/{cnt}/"), exist_ok=True)
-                    f = open(f"./Responses/{d}/{cnt}/prompt.txt", "w")
+                    f = open(f"./Responses/{d}/{cnt}/prompt_{policy_file_cnt}.txt", "w")
                     f.write(prompt)
                     
             #Generate and save
@@ -55,7 +55,7 @@ if mode == 'generate':
                     
                     #Fault tolerance
                     
-                    if os.path.exists(f"./Responses/{d}/{cnt}/pwquality{i}.conf"):
+                    if os.path.exists(f"./Responses/{d}/{cnt}/prompt_{policy_file_cnt}_pwquality{i}.conf"):
                         continue
                     resp = ""
                     
