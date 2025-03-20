@@ -112,11 +112,13 @@ class ConfFileComparator:
                         config1 = self.parse_conf_file(file1)
                         config2 = self.parse_conf_file(file2)
                         mismatches, matches = self.compare_configs(config1, config2)
-                        metrics_result = CM.compare_configs(file1, file2)
+                        metrics_result = CM.compare_configs(file1, file2)                   # Only to be used if necessary
                         self.save_results(d, cnt, file1, file2, matches, mismatches)
 
                 cnt += 1
 
+    # Metrics result function to be used if necessary
+    # def save_results(self, d: str, cnt: int, file1: str, file2: str, matches: Dict[str, str], mismatches: Dict[str, Tuple[str, str]], metrics_result: Dict[str, float]):
     def save_results(self, d: str, cnt: int, file1: str, file2: str, matches: Dict[str, str], mismatches: Dict[str, Tuple[str, str]]):
         """
         Save comparison results to a JSON file mirroring the directory structure.
@@ -130,6 +132,7 @@ class ConfFileComparator:
             "match_percentage": match_percentage,
             "matches": matches,
             "mismatches": {key: {"file1": v1, "file2": v2} for key, (v1, v2) in mismatches.items()}
+            # "Enhanced Metrics": enhanced_metrics             Only to be used if necessary
         }
 
         output_dir = os.path.join("./Comparison_Results", d, str(cnt))
