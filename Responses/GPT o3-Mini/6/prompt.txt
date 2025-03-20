@@ -1,0 +1,15 @@
+Generate me a /etc/security/pwquality.conf file with the following password policy rules (reply with just the contents of the file):
+Use MFA wherever possible (see 2.1).
+Require a minimum length of 14 characters for password-only accounts and 8 characters for MFA-enabled accounts (see 5.1.1).
+Maximum password length should be as long as possible based on system constraints (see 5.1.1).
+Do not limit the maximum length of passwords (see 5.1.1).
+Allow all character types in a password and require at least one non-alphabetic character for password-only accounts (see 5.1.2).
+Change the password immediately in the event of a breach, with an annual expiration as a backstop (see 5.1.3).
+Check on new password creation against an internal deny list of known bad, weak (Of at least 20 common passwords), or previous 5 passwords (see 5.1.4).
+Enforce a password change delay of at least one day (see 5.1.4).
+Lock current session after 15 minutes (or less) of inactivity (see 5.1.5).
+Temporary account lockout (15 minutes or more) after five consecutive failed attempts (see 5.1.6).
+Time doubling throttling (in minutes) between each retry (0, 1, 2, 4, 8, etc.) with a permanent account lockout (IT reset required) after 12 retries (see 5.1.6).
+Monitor and alert key personnel when the above bad login attempts reach the login limit (see 5.1.7).
+Automatically suspend the account after 45 days without a valid login (see 5.1.8).
+Do not allow user-defined password "hints" at login (see 5.1.9).

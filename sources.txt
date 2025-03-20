@@ -3,3 +3,6 @@ Will use something cleaner in the future
 prompt_0: https://purplesec.us/resources/cyber-security-policy-templates/password-security/
 prompt_1: https://www.lumificyber.com/blog/successful-password-policies-for-organizations/
 prompt_3: System default
+prompts 4 to 6: https://www.securden.com/blog/top-10-password-policies.html
+prompt_4: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63b.pdf Very verbose and full of irrelevant info
+prompt_6: https://learn.cisecurity.org/cis-password-policy-guide-passphrases-monitoring-and-more
