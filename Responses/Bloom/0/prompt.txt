@@ -1,4 +1,4 @@
-Generate me a /etc/security/pwquality.conf file with the following password policy rules (reply with just the file):
+Generate me a /etc/security/pwquality.conf file with the following password policy rules (reply with just the contents of the file):
 Passwords must be changed every 90 days.
 Passwords must adhere to a minimum length of 10 characters.
 Passwords must contain a combination of alpha, numeric, and special characters, where the computing system permits (!@#$%^&*_+=?/~’;’,<>|\)

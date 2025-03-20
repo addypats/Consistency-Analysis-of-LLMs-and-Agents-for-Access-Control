@@ -9,27 +9,37 @@ from dotenv import load_dotenv
 import cohere
 from llamaapi import LlamaAPI
 import ollama
+from dotenv import load_dotenv
+load_dotenv()
 
-#ChatGPT 4o Mini
+
+#ChatGPT o3 Mini
 def generate_response_chato3m(prompt):
-    openai.api_key = os.getenv("Chat_GPT_API_Key")
-
-    model_engine = "o3-mini"
-    completions = openai.ChatCompletion.create(
-        model=model_engine,
+    Api_key = os.getenv("Chat_GPT_API_Key")
+    client = openai.OpenAI(api_key=Api_key)
+    completion = client.chat.completions.create(
+        model="o3-mini",
         messages=[
-        {"role": "system", "content": ""},
-        {"role": "user", "content": prompt.strip()},
-    ],
-        max_tokens=50,
-        n=1,
-        stop=None,
-        temperature=0.5,
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ]
     )
-    message = completions.choices[0].message.content.strip()
+    return completion.choices[0].message.content
 
+def generate_response_deepseek(prompt):
+    Api_key = os.getenv("DeepSeek_API_Key")
+    client = openai.OpenAI(api_key=Api_key, base_url="https://api.deepseek.com")
 
-    return message
+    response = client.chat.completions.create(
+    model="deepseek-chat",
+    messages=[
+        {"role": "system", "content": prompt}
+    ],
+    stream=False
+)
+    return response.choices[0].message.content
 
 #Meta OPT
 # def generate_response_meta(self, prompt):
@@ -75,7 +85,7 @@ def generate_response_bloom(prompt):
     outputs = model.generate(input, max_length=2500)
 
     message = tokenizer.decode(outputs[0])
-
+    # print(message)
     return message[(len(prompt) + 1):]
 
 #Gemini
@@ -91,31 +101,28 @@ def generate_response_gemini(prompt):
 
 #ChatGPT 4o Mini
 def generate_response_chat4om(prompt):
-    openai.api_key = os.getenv("Chat_GPT_API_Key")
-
-    model_engine = "gpt-4o-mini"
-
-    completions = openai.ChatCompletion.create(
-        model=model_engine,
+    Api_key = os.getenv("Chat_GPT_API_Key")
+    client = openai.OpenAI(api_key=Api_key)
+    completion = client.chat.completions.create(
+        model="o3-mini",
         messages=[
-        {"role": "system", "content": ""},
-        {"role": "user", "content": prompt.strip()},
-    ],
-        max_tokens=50,
-        n=1,
-        stop=None,
-        temperature=0.5,
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ]
     )
-    message = completions.choices[0].message.content.strip()
-    return message
+    return completion.choices[0].message.content
 
 def generate_response_Cohere(prompt):  
         Api_key = os.getenv("Cohere_API_Key")
-        co = cohere.Client(Api_key)
+        co = cohere.ClientV2(Api_key)
         response = co.chat(
-            message=prompt
+            model="command-r7b-12-2024",
+            messages=[{"role": "user", "content": prompt}]
         )
-        return response.text.strip()
+        print(response.message.content[0].text)
+        return response.message.content[0].text.strip()
 
 # def generate_response_Llama(self, prompt):
     

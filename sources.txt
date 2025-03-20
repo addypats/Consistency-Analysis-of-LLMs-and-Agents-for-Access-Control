@@ -1,4 +1,5 @@
 Will use something cleaner in the future
 
-prompts_0: https://purplesec.us/resources/cyber-security-policy-templates/password-security/
-prompts_1: https://www.lumificyber.com/blog/successful-password-policies-for-organizations/
+prompt_0: https://purplesec.us/resources/cyber-security-policy-templates/password-security/
+prompt_1: https://www.lumificyber.com/blog/successful-password-policies-for-organizations/
+prompt_3: System default

@@ -2,6 +2,8 @@ import json
 from jsonstream import load
 from Response_Generation.generate_response import *
 import os
+from dotenv import load_dotenv
+load_dotenv()
 #Keeps track of whether we're generating or analyzing, maybe make interactive later.
 
 mode = 'generate'
@@ -10,9 +12,7 @@ mode = 'generate'
 
 #Keeps track of all policies
 #Generate some number of responses for each LLM and save as JSON files
-
 if mode == 'generate':
-    
     #make more interactive later on, for now just pull all the prompts from prompt.json and generate responses
     
     #In the future check it with a file that keeps track of prompts we've already generated responses for
@@ -26,14 +26,16 @@ if mode == 'generate':
     cnt = 0
     dirs = [name for name in os.listdir("./Responses") if os.path.isdir(os.path.join("./Responses", name))]
     pfiles = [name for name in os.listdir("./Prompts")]
-    # print(pfiles)
-    # exit()
     #Originally I'd store every prompt in one file. This would loop over everything. No need for an outer loop
     #Will revise to read multiple files instead of using JsonStream
     for fl in pfiles:
-        p = json.loads(f"./Prompts/{fl}")
+        print(f"./Prompts/{fl}")
+        # p = json.loads(f"./Prompts/{fl}")
+        p = json.load(open(f"./Prompts/{fl}", "r", encoding="utf-8"))
+        # p = str(open(f"./Prompts/{fl}", 'r').read())
+        # print(p)
         policies.append(p)
-        prompt = "Generate me a /etc/security/pwquality.conf file with the following password policy rules (reply with just the file):\n" + p
+        prompt = "Generate me a /etc/security/pwquality.conf file with the following password policy rules (reply with just the contents of the file):\n" + p
         for d in dirs:
             
             #idk what to call the folders, so for now I'll just number them and store the prompt in a txt file inside
@@ -61,11 +63,8 @@ if mode == 'generate':
                     resp = generate_response_bloom(prompt)
                 elif d == 'Cohere':
                     resp = generate_response_Cohere(prompt)
-                    
-                #In progress
-                # elif d == 'DeepSeek':
-                #     resp = generate_response_deepseek(prompt)
-                
+                elif d == 'DeepSeek':
+                    resp = generate_response_deepseek(prompt)
                 elif d == 'Gemini':
                     resp = generate_response_gemini(prompt)
                 elif d == 'GPT 4o-Mini':
@@ -76,12 +75,11 @@ if mode == 'generate':
                     resp = generate_response_Llama(prompt)
                     
                     
-                f = open(f"./Responses/{d}/{cnt}/pwquality{i}.conf", "w")
+                f = open(f"./Responses/{d}/{cnt}/pwquality{i}.conf", "w", encoding="utf-8")
                 f.write(resp)
 
             
-        cnt+=1
-        
+        cnt+=1      
     # In case, we are not doing self, (just removed the iteration factor, rest of the code is the same)
     # Delete later if necessary
 
