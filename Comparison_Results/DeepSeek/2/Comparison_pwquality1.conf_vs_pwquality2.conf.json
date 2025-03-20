@@ -1,0 +1,32 @@
+{
+    "file1": "./Responses\\DeepSeek\\2\\pwquality1.conf",
+    "file2": "./Responses\\DeepSeek\\2\\pwquality2.conf",
+    "match_percentage": 63.63636363636363,
+    "matches": {
+        "dcredit": "-1",
+        "remember": null,
+        "minlen": "8",
+        "lcredit": "-1",
+        "usercheck": "1",
+        "gecoscheck": null,
+        "dictcheck": "1"
+    },
+    "mismatches": {
+        "minclass": {
+            "file1": "2",
+            "file2": ""
+        },
+        "maxrepeat": {
+            "file1": "90",
+            "file2": "2"
+        },
+        "ucredit": {
+            "file1": "0",
+            "file2": "-1"
+        },
+        "ocredit": {
+            "file1": "0",
+            "file2": "-1"
+        }
+    }
+}

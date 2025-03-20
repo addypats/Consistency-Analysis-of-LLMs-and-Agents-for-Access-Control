@@ -1,0 +1,21 @@
+{
+    "file1": "./Responses\\Cohere\\0\\pwquality1.conf",
+    "file2": "./Responses\\Cohere\\0\\pwquality2.conf",
+    "match_percentage": 88.88888888888889,
+    "matches": {
+        "dictionary_words": null,
+        "required_character_classes": "\"alpha numeric special\"",
+        "min_password_length": "10",
+        "acronyms": null,
+        "forbidden_patterns": null,
+        "password_expiration_period": "90",
+        "password_reuse_period": "365",
+        "forbidden_password_types": null
+    },
+    "mismatches": {
+        "forbidden_character_classes": {
+            "file1": "\"username social_security_number nickname relative_names birth_date\"",
+            "file2": "\"\""
+        }
+    }
+}

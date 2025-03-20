@@ -1,0 +1,36 @@
+{
+    "file1": "./Responses\\Gemini\\1\\pwquality3.conf",
+    "file2": "./Responses\\Gemini\\1\\pwquality4.conf",
+    "match_percentage": 73.33333333333333,
+    "matches": {
+        "maxlen": null,
+        "minlen_suggest": "15",
+        "minclass": "0",
+        "enforce_for_root": null,
+        "minlen": "8",
+        "remember_policy": null,
+        "try_crack": null,
+        "pwhistory": null,
+        "remember": null,
+        "remember_min": null,
+        "enforce_length": null
+    },
+    "mismatches": {
+        "dcredit": {
+            "file1": "-1",
+            "file2": "0"
+        },
+        "lcredit": {
+            "file1": "-1",
+            "file2": "0"
+        },
+        "ucredit": {
+            "file1": "-1",
+            "file2": "0"
+        },
+        "ocredit": {
+            "file1": "-1",
+            "file2": "0"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "file1": "./Responses\\Llama3\\3\\pwquality0.conf",
+    "file2": "./Responses\\Llama3\\3\\pwquality1.conf",
+    "match_percentage": 92.85714285714286,
+    "matches": {
+        "dcredit": null,
+        "minclass": "1",
+        "minpasses": null,
+        "dictpath": null,
+        "ocredit": null,
+        "usercheck": null,
+        "report_username": null,
+        "ucredit": null,
+        "maxsequence": null,
+        "ncrhackit": null,
+        "minlen": "8",
+        "dictionary": null,
+        "default_mode": null
+    },
+    "mismatches": {
+        "maxrepeat": {
+            "file1": "0",
+            "file2": "3"
+        }
+    }
+}

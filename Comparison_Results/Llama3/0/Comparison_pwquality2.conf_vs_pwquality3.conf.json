@@ -1,0 +1,20 @@
+{
+    "file1": "./Responses\\Llama3\\0\\pwquality2.conf",
+    "file2": "./Responses\\Llama3\\0\\pwquality3.conf",
+    "match_percentage": 100.0,
+    "matches": {
+        "expiredate": null,
+        "checkpass": null,
+        "dcredit": null,
+        "local_users_only": null,
+        "goodcount": null,
+        "dictionaries": null,
+        "ocredit": null,
+        "lcredit": null,
+        "badcount": null,
+        "ecredit": null,
+        "minlen": "10",
+        "default_mode": null
+    },
+    "mismatches": {}
+}

@@ -1,0 +1,25 @@
+{
+    "file1": "./Responses\\GPT o3-Mini\\0\\pwquality3.conf",
+    "file2": "./Responses\\GPT o3-Mini\\0\\pwquality4.conf",
+    "match_percentage": 57.14285714285714,
+    "matches": {
+        "dictcheck": "1",
+        "reject_username": "1",
+        "ucredit": null,
+        "minlen": "10"
+    },
+    "mismatches": {
+        "dcredit": {
+            "file1": "-1         # At least 1 digit required",
+            "file2": "-1"
+        },
+        "ocredit": {
+            "file1": "-1         # At least 1 non-alphanumeric (special) character required",
+            "file2": "-1"
+        },
+        "lcredit": {
+            "file1": "-1         # At least 1 lowercase letter required",
+            "file2": "-1"
+        }
+    }
+}

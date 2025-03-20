@@ -1,0 +1,22 @@
+{
+    "file1": "./Responses\\Llama3\\1\\pwquality0.conf",
+    "file2": "./Responses\\Llama3\\1\\pwquality1.conf",
+    "match_percentage": 100.0,
+    "matches": {
+        "maxlen": null,
+        "list": null,
+        "user": null,
+        "minclass": null,
+        "dictionaries_limit": null,
+        "min_unique": null,
+        "dictionary": null,
+        "arithmetic": null,
+        "file": null,
+        "badwords": null,
+        "minlen": "8",
+        "maxsequence": null,
+        "dictpath": null,
+        "sequential": null
+    },
+    "mismatches": {}
+}

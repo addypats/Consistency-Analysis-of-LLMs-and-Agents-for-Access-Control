@@ -1,0 +1,24 @@
+{
+    "file1": "./Responses\\GPT o3-Mini\\2\\pwquality3.conf",
+    "file2": "./Responses\\GPT o3-Mini\\2\\pwquality4.conf",
+    "match_percentage": 50.0,
+    "matches": {
+        "minclass": null,
+        "minlen": "8",
+        "lcredit": null
+    },
+    "mismatches": {
+        "dcredit": {
+            "file1": "-1        # At least one digit is required.",
+            "file2": "-1        # Require at least one numeric digit."
+        },
+        "dictcheck": {
+            "file1": "1       # Check against a dictionary of common words.",
+            "file2": "1       # Check against a dictionary of words."
+        },
+        "reject_username": {
+            "file1": "1 # Disallow passwords that contain the user name.",
+            "file2": "1 # Do not allow passwords that contain the username."
+        }
+    }
+}

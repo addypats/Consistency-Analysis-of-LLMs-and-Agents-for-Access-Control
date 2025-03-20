@@ -1,0 +1,28 @@
+{
+    "file1": "./Responses\\Cohere\\0\\pwquality3.conf",
+    "file2": "./Responses\\Cohere\\0\\pwquality4.conf",
+    "match_percentage": 84.61538461538461,
+    "matches": {
+        "forbidden_classes": "none",
+        "max_password_age": "90",
+        "forbidden_near_start_end": null,
+        "forbidden_words": null,
+        "forbidden_start_patterns": null,
+        "forbidden_in_middle": null,
+        "min_length": "10",
+        "password_reuse_limit": null,
+        "forbidden_near_start": null,
+        "forbidden_near_end": null,
+        "forbidden_end_patterns": null
+    },
+    "mismatches": {
+        "required_classes": {
+            "file1": "alnum special",
+            "file2": "alpha numeric special"
+        },
+        "forbidden_patterns": {
+            "file1": "(",
+            "file2": "username | social security number | birth date | \\"
+        }
+    }
+}

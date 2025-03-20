@@ -1,0 +1,46 @@
+{
+    "file1": "./Responses\\Llama3\\4\\pwquality2.conf",
+    "file2": "./Responses\\Llama3\\4\\pwquality3.conf",
+    "match_percentage": 93.54838709677419,
+    "matches": {
+        "maxlen": "64",
+        "failed_attempts": null,
+        "reject_username": null,
+        "truncate": null,
+        "enforce_complexity": null,
+        "accept_numeric": null,
+        "normalize": null,
+        "enable_meter": null,
+        "meters": null,
+        "enable_start_end_wordcheck": null,
+        "minlen": "8",
+        "class": null,
+        "failed_login_attemps": "5",
+        "memorable_maxlen": null,
+        "truncation": null,
+        "enable_scoring": null,
+        "reject_password": null,
+        "reject_common_words": null,
+        "dictfile": null,
+        "disallow_repeated_chars": null,
+        "ignore": null,
+        "blacklist_check": null,
+        "blacklist_file": null,
+        "reject_substrings": null,
+        "blacklists": null,
+        "memorable_minlen": null,
+        "badchars": null,
+        "normalize_unicode": null,
+        "normalize_method": null
+    },
+    "mismatches": {
+        "dictionaries": {
+            "file1": "/usr/share/dict/blacklist.txt",
+            "file2": "/path/to/blacklist.txt"
+        },
+        "lockout_time": {
+            "file1": "60",
+            "file2": "300"
+        }
+    }
+}

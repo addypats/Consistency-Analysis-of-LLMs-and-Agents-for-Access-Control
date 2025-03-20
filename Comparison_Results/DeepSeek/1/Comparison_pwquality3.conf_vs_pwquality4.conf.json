@@ -1,0 +1,32 @@
+{
+    "file1": "./Responses\\DeepSeek\\1\\pwquality3.conf",
+    "file2": "./Responses\\DeepSeek\\1\\pwquality4.conf",
+    "match_percentage": 88.23529411764706,
+    "matches": {
+        "maxlen": null,
+        "enforcing": "1",
+        "maxclassrepeat": null,
+        "lcredit": null,
+        "retry": null,
+        "ucredit": null,
+        "minlen": "8",
+        "ocredit": null,
+        "maxsequence": null,
+        "dcredit": null,
+        "minclass": "0",
+        "usercheck": "1",
+        "hints": "0",
+        "dictcheck": "1",
+        "difok": null
+    },
+    "mismatches": {
+        "maxrepeat": {
+            "file1": "64",
+            "file2": "2"
+        },
+        "badwords": {
+            "file1": "/path/to/compromised_passwords_list.txt",
+            "file2": "/etc/security/badwords.txt"
+        }
+    }
+}

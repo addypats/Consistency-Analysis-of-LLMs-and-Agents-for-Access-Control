@@ -1,0 +1,38 @@
+{
+    "file1": "./Responses\\Gemini\\3\\pwquality3.conf",
+    "file2": "./Responses\\Gemini\\3\\pwquality4.conf",
+    "match_percentage": 64.28571428571429,
+    "matches": {
+        "dcredit": "-1",
+        "minclass": null,
+        "maxrepeat": null,
+        "retries": null,
+        "enforce_for_root": null,
+        "enforce_for": null,
+        "minlen": "8",
+        "retry": null,
+        "difok": "1"
+    },
+    "mismatches": {
+        "lcredit": {
+            "file1": "-1",
+            "file2": "0"
+        },
+        "cracklib_dict": {
+            "file1": "/etc/cracklib/cracklib-small",
+            "file2": "/etc/cracklib/cracklib-dict"
+        },
+        "ucredit": {
+            "file1": "-1",
+            "file2": "0"
+        },
+        "remember": {
+            "file1": "5",
+            "file2": "0"
+        },
+        "ocredit": {
+            "file1": "-1",
+            "file2": "0"
+        }
+    }
+}

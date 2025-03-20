@@ -1,0 +1,43 @@
+{
+    "file1": "./Responses\\Llama3\\4\\pwquality3.conf",
+    "file2": "./Responses\\Llama3\\4\\pwquality4.conf",
+    "match_percentage": 92.85714285714286,
+    "matches": {
+        "maxlen": "64",
+        "enforce_hint": null,
+        "reject_username": null,
+        "lockout_time": "300",
+        "accept_numeric": null,
+        "enable_meter": null,
+        "lockout_max": null,
+        "0": null,
+        "enable_start_end_wordcheck": null,
+        "minlen": "8",
+        "enforce_password_strength_meter": null,
+        "failed_login_attemps": null,
+        "memorable_maxlen": null,
+        "truncation": null,
+        "minclass": null,
+        "reject_password": null,
+        "reject_common_words": null,
+        "disallow_repeated_chars": null,
+        "enable_special_chars": null,
+        "reject_substrings": null,
+        "blacklists": null,
+        "enable_numeric": null,
+        "memorable_minlen": null,
+        "normalize_unicode": null,
+        "enable_complex": null,
+        "normalize_method": null
+    },
+    "mismatches": {
+        "enforce_complexity": {
+            "file1": "0",
+            "file2": "no"
+        },
+        "dictionaries": {
+            "file1": "/path/to/blacklist.txt",
+            "file2": ""
+        }
+    }
+}

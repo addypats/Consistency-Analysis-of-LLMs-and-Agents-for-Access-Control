@@ -1,0 +1,37 @@
+{
+    "file1": "./Responses\\Gemini\\6\\pwquality3.conf",
+    "file2": "./Responses\\Gemini\\6\\pwquality4.conf",
+    "match_percentage": 90.9090909090909,
+    "matches": {
+        "maxlen": "0",
+        "try_first_change": null,
+        "hint": null,
+        "pwhint": null,
+        "retry_time": null,
+        "max_login_tries": null,
+        "retry": null,
+        "try_auth_time": null,
+        "inactivity": null,
+        "try_suspension": null,
+        "failed_login_attempts": null,
+        "try_delay": null,
+        "dictfile": null,
+        "try_doubling": null,
+        "try_max": null,
+        "inactive_days": null,
+        "inactive_time": null,
+        "remember": "5",
+        "auth_time": null,
+        "difok": null
+    },
+    "mismatches": {
+        "minlen": {
+            "file1": "8",
+            "file2": "14"
+        },
+        "dcredit": {
+            "file1": "1",
+            "file2": "-1"
+        }
+    }
+}

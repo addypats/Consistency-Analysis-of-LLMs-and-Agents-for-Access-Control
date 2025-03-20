@@ -1,0 +1,14 @@
+{
+    "file1": "./Responses\\DeepSeek\\3\\pwquality3.conf",
+    "file2": "./Responses\\DeepSeek\\3\\pwquality4.conf",
+    "match_percentage": 100.0,
+    "matches": {
+        "retry": "3",
+        "usercheck": "1",
+        "enforcing": null,
+        "minlen": "8",
+        "dictcheck": "1",
+        "difok": "1"
+    },
+    "mismatches": {}
+}

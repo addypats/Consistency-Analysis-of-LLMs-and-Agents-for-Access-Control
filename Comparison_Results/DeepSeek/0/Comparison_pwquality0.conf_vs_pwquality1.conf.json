@@ -1,0 +1,18 @@
+{
+    "file1": "./Responses\\DeepSeek\\0\\pwquality0.conf",
+    "file2": "./Responses\\DeepSeek\\0\\pwquality1.conf",
+    "match_percentage": 100.0,
+    "matches": {
+        "dcredit": "-1",
+        "minclass": "3",
+        "PASS_MAX_DAYS": "90",
+        "minlen": "10",
+        "lcredit": "-1",
+        "usercheck": "1",
+        "ucredit": "-1",
+        "remember": "12",
+        "ocredit": "-1",
+        "dictcheck": "1"
+    },
+    "mismatches": {}
+}

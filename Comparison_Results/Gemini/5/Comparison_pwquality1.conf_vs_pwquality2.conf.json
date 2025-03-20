@@ -1,0 +1,31 @@
+{
+    "file1": "./Responses\\Gemini\\5\\pwquality1.conf",
+    "file2": "./Responses\\Gemini\\5\\pwquality2.conf",
+    "match_percentage": 87.5,
+    "matches": {
+        "enforce_for_root": null,
+        "lcredit": "-1",
+        "retry": null,
+        "try_timeout": null,
+        "ucredit": "-1",
+        "minlen": "12",
+        "authfail_delay": null,
+        "try_last_pwd": null,
+        "ocredit": null,
+        "maxrepeat": null,
+        "idle_time": null,
+        "digits": null,
+        "try_max": null,
+        "enforce_for_all": null
+    },
+    "mismatches": {
+        "dcredit": {
+            "file1": "-1",
+            "file2": "2"
+        },
+        "remember": {
+            "file1": "90",
+            "file2": "4"
+        }
+    }
+}

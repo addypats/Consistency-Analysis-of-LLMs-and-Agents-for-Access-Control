@@ -1,0 +1,33 @@
+{
+    "file1": "./Responses\\DeepSeek\\5\\pwquality3.conf",
+    "file2": "./Responses\\DeepSeek\\5\\pwquality4.conf",
+    "match_percentage": 100.0,
+    "matches": {
+        "passwdqc_max": null,
+        "mindays": "1",
+        "enforcing": null,
+        "enforce_for_root": "1",
+        "lcredit": "-1",
+        "maxdays": "90",
+        "retry": "6",
+        "idle_timeout": null,
+        "ucredit": "-1",
+        "passwdqc_retry": null,
+        "ocredit": "-1",
+        "minlen": "12",
+        "unlock_time": "1800",
+        "maxsequence": null,
+        "dcredit": "-1",
+        "inactive": null,
+        "minclass": "2",
+        "maxrepeat": null,
+        "local_users_only": "1",
+        "passwdqc_min": null,
+        "usercheck": null,
+        "passwdqc_enabled": null,
+        "remember": "4",
+        "dictcheck": null,
+        "difok": "5"
+    },
+    "mismatches": {}
+}

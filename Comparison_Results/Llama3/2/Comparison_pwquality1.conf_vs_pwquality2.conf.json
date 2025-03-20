@@ -1,0 +1,24 @@
+{
+    "file1": "./Responses\\Llama3\\2\\pwquality1.conf",
+    "file2": "./Responses\\Llama3\\2\\pwquality2.conf",
+    "match_percentage": 100.0,
+    "matches": {
+        "enable_start_end_levels": null,
+        "user_password_change_interval": null,
+        "max_failures": null,
+        "enable": null,
+        "minlen": "8",
+        "maxsequence": null,
+        "dict_check_mode": null,
+        "enforce_ugeneraldict": null,
+        "minclass": "1",
+        "maxrepeat": null,
+        "lifetime": null,
+        "dict_check_enabled": null,
+        "min": null,
+        "credit": null,
+        "interval": null,
+        "level": null
+    },
+    "mismatches": {}
+}

@@ -1,0 +1,15 @@
+{
+    "file1": "./Responses\\GPT 4o-Mini\\1\\pwquality0.conf",
+    "file2": "./Responses\\GPT 4o-Mini\\1\\pwquality1.conf",
+    "match_percentage": 100.0,
+    "matches": {
+        "maxlen": "64",
+        "dcredit": "0",
+        "dictcheck": "1",
+        "ucredit": "0",
+        "minlen": "15",
+        "ocredit": "0",
+        "lcredit": "0"
+    },
+    "mismatches": {}
+}

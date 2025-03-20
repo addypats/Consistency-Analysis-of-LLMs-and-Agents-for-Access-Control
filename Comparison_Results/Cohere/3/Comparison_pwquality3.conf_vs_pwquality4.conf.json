@@ -1,0 +1,14 @@
+{
+    "file1": "./Responses\\Cohere\\3\\pwquality3.conf",
+    "file2": "./Responses\\Cohere\\3\\pwquality4.conf",
+    "match_percentage": 100.0,
+    "matches": {
+        "dcredit": null,
+        "ucredit": null,
+        "enforce_for_root": null,
+        "max_retry_count": null,
+        "ocredit": null,
+        "minlen": null
+    },
+    "mismatches": {}
+}

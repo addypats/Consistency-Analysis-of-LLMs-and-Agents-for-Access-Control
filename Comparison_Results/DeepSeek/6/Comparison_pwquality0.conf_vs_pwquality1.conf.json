@@ -1,0 +1,59 @@
+{
+    "file1": "./Responses\\DeepSeek\\6\\pwquality0.conf",
+    "file2": "./Responses\\DeepSeek\\6\\pwquality1.conf",
+    "match_percentage": 89.47368421052632,
+    "matches": {
+        "monitor": null,
+        "enforcing": "1",
+        "enforce_for_root": null,
+        "retry": "5",
+        "pass_max_days": null,
+        "idle_timeout": null,
+        "ucredit": null,
+        "ocredit": null,
+        "minlen": "14",
+        "unlock_time": "900",
+        "lockout_time_double": null,
+        "minlen_mfa": "8",
+        "alert_key_personnel": null,
+        "min_days": null,
+        "lockout_attempts": null,
+        "deny": "5",
+        "hints": null,
+        "dictcheck": "1",
+        "maxlen": "0",
+        "time_doubling": null,
+        "lcredit": null,
+        "permanent_lockout_retries": null,
+        "pass_min_days": null,
+        "monitor_login_attempts": null,
+        "maxsequence": null,
+        "password_hints": null,
+        "dcredit": null,
+        "pass_warn_age": null,
+        "maxrepeat": null,
+        "local_users_only": null,
+        "suspend_days": null,
+        "usercheck": "1",
+        "remember": null,
+        "difok": "5"
+    },
+    "mismatches": {
+        "inactive": {
+            "file1": "900",
+            "file2": "45"
+        },
+        "lockout_time": {
+            "file1": "900",
+            "file2": "0"
+        },
+        "fail_interval": {
+            "file1": "900",
+            "file2": "60"
+        },
+        "minclass": {
+            "file1": "3",
+            "file2": "1"
+        }
+    }
+}

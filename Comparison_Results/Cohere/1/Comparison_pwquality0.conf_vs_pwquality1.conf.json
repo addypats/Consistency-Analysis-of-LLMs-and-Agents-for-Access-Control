@@ -1,0 +1,18 @@
+{
+    "file1": "./Responses\\Cohere\\1\\pwquality0.conf",
+    "file2": "./Responses\\Cohere\\1\\pwquality1.conf",
+    "match_percentage": 100.0,
+    "matches": {
+        "maxlen": null,
+        "mfa_enabled": null,
+        "reject_breached": null,
+        "disallow_workstations": null,
+        "breached_passwords_file": null,
+        "risk_based_auth": null,
+        "disallow_workstations_message": null,
+        "reject_common": null,
+        "minlen": "15",
+        "reject_pattern": null
+    },
+    "mismatches": {}
+}

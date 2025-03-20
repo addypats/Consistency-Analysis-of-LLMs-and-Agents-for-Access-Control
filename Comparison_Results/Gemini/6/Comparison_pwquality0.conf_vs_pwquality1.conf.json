@@ -1,0 +1,52 @@
+{
+    "file1": "./Responses\\Gemini\\6\\pwquality0.conf",
+    "file2": "./Responses\\Gemini\\6\\pwquality1.conf",
+    "match_percentage": 82.14285714285714,
+    "matches": {
+        "lock_time": null,
+        "session_lockout_time": null,
+        "retry_delay": null,
+        "reuse": null,
+        "lcredit": null,
+        "pwhint": null,
+        "specialchars": null,
+        "retry_time": null,
+        "lchars": null,
+        "ucredit": null,
+        "ocredit": null,
+        "uchars": null,
+        "maxclass": null,
+        "password_change_delay": null,
+        "try_count": null,
+        "enforce_for": null,
+        "inactive_days": null,
+        "max_tries": null,
+        "digits": null,
+        "failon": null,
+        "pwhistory": null,
+        "expiredays": null,
+        "try_first_pass": null
+    },
+    "mismatches": {
+        "maxlen": {
+            "file1": "999999  # Effectively unlimited",
+            "file2": "unlimited #System will determine the maximum length based on its constraints"
+        },
+        "minlen": {
+            "file1": "8 # Default for MFA accounts;  Policy should handle enforcement of 14 for password-only accounts separately outside pwquality",
+            "file2": "14  #Default for password-only accounts.  MFA accounts will use a lower minimum."
+        },
+        "dcredit": {
+            "file1": "-1  # No specific digit requirement.  MFA accounts may allow passwords to consist of all alpha characters",
+            "file2": "1 # Require at least one non-alphabetic character for password-only accounts."
+        },
+        "minclass": {
+            "file1": "1 # requires at least one type of character (alpha, digit, special)",
+            "file2": "0"
+        },
+        "remember": {
+            "file1": "5  # Remember the last 5 passwords",
+            "file2": "5"
+        }
+    }
+}

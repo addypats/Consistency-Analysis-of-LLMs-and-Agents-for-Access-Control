@@ -1,0 +1,22 @@
+{
+    "file1": "./Responses\\Llama3\\3\\pwquality1.conf",
+    "file2": "./Responses\\Llama3\\3\\pwquality2.conf",
+    "match_percentage": 100.0,
+    "matches": {
+        "default_mode": null,
+        "min_age": null,
+        "dict_check.enable": null,
+        "minclass": "1",
+        "maxrepeat": null,
+        "dictionaries": null,
+        "usercheck": null,
+        "recheck_module": null,
+        "words_file": null,
+        "enable": null,
+        "minpasses": null,
+        "minlen": "8",
+        "maxsequence": null,
+        "dictpath": null
+    },
+    "mismatches": {}
+}

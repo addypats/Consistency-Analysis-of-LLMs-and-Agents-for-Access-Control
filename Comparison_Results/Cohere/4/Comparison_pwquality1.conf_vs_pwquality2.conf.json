@@ -1,0 +1,22 @@
+{
+    "file1": "./Responses\\Cohere\\4\\pwquality1.conf",
+    "file2": "./Responses\\Cohere\\4\\pwquality2.conf",
+    "match_percentage": 90.0,
+    "matches": {
+        "maxlen": null,
+        "lock_time": null,
+        "failed_attempts": null,
+        "breach_corpus": null,
+        "contextual": null,
+        "normalize": null,
+        "strength_meter": null,
+        "use_unicode": null,
+        "dictionary": null
+    },
+    "mismatches": {
+        "minlen": {
+            "file1": "6",
+            "file2": "8"
+        }
+    }
+}

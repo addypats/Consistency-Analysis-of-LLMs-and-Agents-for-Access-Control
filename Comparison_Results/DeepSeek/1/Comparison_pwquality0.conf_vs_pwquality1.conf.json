@@ -1,0 +1,22 @@
+{
+    "file1": "./Responses\\DeepSeek\\1\\pwquality0.conf",
+    "file2": "./Responses\\DeepSeek\\1\\pwquality1.conf",
+    "match_percentage": 90.0,
+    "matches": {
+        "minclass": "0",
+        "maxrepeat": "64",
+        "enforcing": "1",
+        "maxclassrepeat": null,
+        "hints": "0",
+        "usercheck": "1",
+        "minlen": "8",
+        "maxsequence": null,
+        "dictcheck": "1"
+    },
+    "mismatches": {
+        "badwords": {
+            "file1": "/path/to/breached_passwords_list.txt",
+            "file2": "/path/to/compromised_passwords_list.txt"
+        }
+    }
+}

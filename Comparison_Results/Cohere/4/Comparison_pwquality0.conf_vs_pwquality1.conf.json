@@ -1,0 +1,31 @@
+{
+    "file1": "./Responses\\Cohere\\4\\pwquality0.conf",
+    "file2": "./Responses\\Cohere\\4\\pwquality1.conf",
+    "match_percentage": 94.73684210526315,
+    "matches": {
+        "maxlen": null,
+        "checkmaxlen": null,
+        "show": null,
+        "fail_delay": null,
+        "max_failures": null,
+        "lcredit": null,
+        "ucredit": null,
+        "special": null,
+        "ocredit": null,
+        "digit": null,
+        "dcredit": null,
+        "maxclass": null,
+        "checkclass": null,
+        "minclass": null,
+        "upper": null,
+        "checkminlen": null,
+        "common": null,
+        "lower": null
+    },
+    "mismatches": {
+        "minlen": {
+            "file1": "8",
+            "file2": "6"
+        }
+    }
+}

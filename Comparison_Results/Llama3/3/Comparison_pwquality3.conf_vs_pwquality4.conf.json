@@ -1,0 +1,25 @@
+{
+    "file1": "./Responses\\Llama3\\3\\pwquality3.conf",
+    "file2": "./Responses\\Llama3\\3\\pwquality4.conf",
+    "match_percentage": 92.3076923076923,
+    "matches": {
+        "minclass": "1",
+        "dictionaries": null,
+        "max_failures": null,
+        "off_by_one_login": null,
+        "sequence_length": null,
+        "enable_startend": null,
+        "min": null,
+        "username_max_length": null,
+        "characters": null,
+        "check_userpass": null,
+        "minudigest": null,
+        "minlen": "8"
+    },
+    "mismatches": {
+        "maxsequence": {
+            "file1": "1",
+            "file2": "0"
+        }
+    }
+}

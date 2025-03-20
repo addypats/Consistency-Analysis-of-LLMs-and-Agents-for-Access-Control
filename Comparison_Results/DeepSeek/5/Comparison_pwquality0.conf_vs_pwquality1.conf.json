@@ -1,0 +1,36 @@
+{
+    "file1": "./Responses\\DeepSeek\\5\\pwquality0.conf",
+    "file2": "./Responses\\DeepSeek\\5\\pwquality1.conf",
+    "match_percentage": 95.83333333333334,
+    "matches": {
+        "difok": null,
+        "mindays": null,
+        "maxclassrepeat": null,
+        "lcredit": "-1",
+        "force_first_pass_change": "yes",
+        "maxdays": null,
+        "pass_max_days": null,
+        "password_history": null,
+        "password_change_on_compromise": null,
+        "idle_timeout": "900",
+        "ucredit": "-1",
+        "retry": null,
+        "pass_min_days": null,
+        "minlen": "12",
+        "unlock_time": "1800",
+        "dcredit": "-1",
+        "pass_warn_age": null,
+        "minclass": "2",
+        "maxrepeat": null,
+        "remember": "4",
+        "no_hardcoded_passwords": "yes",
+        "deny": null,
+        "mfa_enforcement": null
+    },
+    "mismatches": {
+        "ocredit": {
+            "file1": "0",
+            "file2": "-1"
+        }
+    }
+}

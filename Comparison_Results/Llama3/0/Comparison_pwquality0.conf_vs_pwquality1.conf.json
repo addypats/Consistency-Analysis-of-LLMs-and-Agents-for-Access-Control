@@ -1,0 +1,33 @@
+{
+    "file1": "./Responses\\Llama3\\0\\pwquality0.conf",
+    "file2": "./Responses\\Llama3\\0\\pwquality1.conf",
+    "match_percentage": 95.23809523809523,
+    "matches": {
+        "warn_max_failures": null,
+        "max_failures": null,
+        "lcredit": null,
+        "min_symbol": null,
+        "ucredit": null,
+        "minlen": "10",
+        "ocredit": null,
+        "fb_limit": null,
+        "default_mode": null,
+        "dictpath": null,
+        "maxsequence": null,
+        "dcredit": null,
+        "minclass": null,
+        "dict_check": null,
+        "min_special": null,
+        "min_number": null,
+        "expire": null,
+        "badwords": null,
+        "badchars": null,
+        "min_upper": null
+    },
+    "mismatches": {
+        "maxrepeat": {
+            "file1": "1",
+            "file2": "0"
+        }
+    }
+}

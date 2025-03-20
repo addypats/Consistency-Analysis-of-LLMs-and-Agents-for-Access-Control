@@ -1,0 +1,28 @@
+{
+    "file1": "./Responses\\Llama3\\5\\pwquality2.conf",
+    "file2": "./Responses\\Llama3\\5\\pwquality3.conf",
+    "match_percentage": 100.0,
+    "matches": {
+        "multi_max": null,
+        "max_denied": null,
+        "check_passwords": null,
+        "dictionaries": null,
+        "dictionairy_name": null,
+        "fail_interval": null,
+        "max_age": null,
+        "badpasses": null,
+        "minlen": "12",
+        "maxsequence": null,
+        "minsequence": null,
+        "max_fails": null,
+        "badwordsfile": null,
+        "failtime": null,
+        "passwords_changed": null,
+        "max_sequence_length": null,
+        "deny_time": null,
+        "mfa_level": null,
+        "prompt": null,
+        "max_denial": null
+    },
+    "mismatches": {}
+}

@@ -1,0 +1,23 @@
+{
+    "file1": "./Responses\\Gemini\\1\\pwquality1.conf",
+    "file2": "./Responses\\Gemini\\1\\pwquality2.conf",
+    "match_percentage": 90.9090909090909,
+    "matches": {
+        "maxlen": "64",
+        "enforce_for_root": null,
+        "ocredit": null,
+        "lcredit": null,
+        "minhint": null,
+        "minlen_recommended": null,
+        "minlen_warn": null,
+        "ucredit": null,
+        "remember": "5",
+        "minlen": "8"
+    },
+    "mismatches": {
+        "dcredit": {
+            "file1": "-1  #Enable dictionary check",
+            "file2": "0"
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "file1": "./Responses\\Gemini\\6\\pwquality1.conf",
+    "file2": "./Responses\\Gemini\\6\\pwquality2.conf",
+    "match_percentage": 73.33333333333333,
+    "matches": {
+        "session_lockout_time": null,
+        "retry_delay": null,
+        "reuse": null,
+        "faillog": null,
+        "retry_time_double": null,
+        "specialchars": null,
+        "max_try": null,
+        "retry_time": null,
+        "lchars": null,
+        "unlock_time": null,
+        "uchars": null,
+        "maxclass": null,
+        "password_change_delay": null,
+        "session_time": null,
+        "enforce_for": null,
+        "inactive_days": null,
+        "max_tries": null,
+        "inactive_time": null,
+        "digits": null,
+        "failon": null,
+        "pwhistory": null,
+        "expiredays": null
+    },
+    "mismatches": {
+        "maxlen": {
+            "file1": "unlimited #System will determine the maximum length based on its constraints",
+            "file2": "0  # 0 means unlimited length."
+        },
+        "lock_time": {
+            "file1": "900 #Lockout for 15 minutes",
+            "file2": "900 #Lock for 15 minutes"
+        },
+        "pwhint": {
+            "file1": "0 # Disable password hints.",
+            "file2": "0  # Disable password hints"
+        },
+        "minlen": {
+            "file1": "14  #Default for password-only accounts.  MFA accounts will use a lower minimum.",
+            "file2": "8  # Minimum length for MFA-enabled accounts. 14 for password only is enforced through separate mechanism/policy, not pwquality."
+        },
+        "dcredit": {
+            "file1": "1 # Require at least one non-alphabetic character for password-only accounts.",
+            "file2": "1  # Require at least one non-alphabetic character for password-only accounts. This is enforced through separate mechanism/policy, not pwquality."
+        },
+        "minclass": {
+            "file1": "0",
+            "file2": "1  #This would be set higher for password only accounts, but handled through separate mechanism."
+        },
+        "remember": {
+            "file1": "5",
+            "file2": "5  # Remember the last 5 passwords"
+        },
+        "try_first_pass": {
+            "file1": "0",
+            "file2": "20 #Denylist of at least 20 common passwords"
+        }
+    }
+}

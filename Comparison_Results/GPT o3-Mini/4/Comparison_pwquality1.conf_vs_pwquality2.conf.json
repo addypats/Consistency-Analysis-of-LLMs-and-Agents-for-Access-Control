@@ -1,0 +1,17 @@
+{
+    "file1": "./Responses\\GPT o3-Mini\\4\\pwquality1.conf",
+    "file2": "./Responses\\GPT o3-Mini\\4\\pwquality2.conf",
+    "match_percentage": 100.0,
+    "matches": {
+        "dcredit": "0",
+        "reject_username": null,
+        "minclass": null,
+        "maxrepeat": null,
+        "minlen": "8",
+        "lcredit": "0",
+        "ucredit": "0",
+        "ocredit": "0",
+        "dictcheck": "1"
+    },
+    "mismatches": {}
+}

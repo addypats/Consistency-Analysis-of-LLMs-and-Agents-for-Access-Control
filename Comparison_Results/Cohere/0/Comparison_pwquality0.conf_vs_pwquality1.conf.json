@@ -1,0 +1,20 @@
+{
+    "file1": "./Responses\\Cohere\\0\\pwquality0.conf",
+    "file2": "./Responses\\Cohere\\0\\pwquality1.conf",
+    "match_percentage": 100.0,
+    "matches": {
+        "forbidden_classes": null,
+        "max_password_age": null,
+        "required_character_classes": null,
+        "forbidden_character_classes": null,
+        "min_password_length": null,
+        "min_length": null,
+        "required_classes": null,
+        "forbidden_patterns": null,
+        "password_expiration_period": null,
+        "forbidden_words": null,
+        "password_reuse_period": null,
+        "forbidden_password_types": null
+    },
+    "mismatches": {}
+}
