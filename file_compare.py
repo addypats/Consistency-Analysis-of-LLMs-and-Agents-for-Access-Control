@@ -2,6 +2,9 @@ import os
 import re
 import json
 from typing import Dict, Tuple, List
+from compare_metrics import Compare_Metrics
+
+CM = Compare_Metrics()
 
 
 class ConfFileComparator:
@@ -109,6 +112,7 @@ class ConfFileComparator:
                         config1 = self.parse_conf_file(file1)
                         config2 = self.parse_conf_file(file2)
                         mismatches, matches = self.compare_configs(config1, config2)
+                        metrics_result = CM.compare_configs(file1, file2)
                         self.save_results(d, cnt, file1, file2, matches, mismatches)
 
                 cnt += 1
