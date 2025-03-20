@@ -44,6 +44,9 @@ if mode == 'generate':
                 os.makedirs(os.path.dirname(f"./Responses/{d}/{cnt}/"), exist_ok=True)
                 f = open(f"./Responses/{d}/{cnt}/prompt.txt", "w")
                 f.write(prompt)
+            if overwrite:
+                f = open(f"./Responses/{d}/{cnt}/prompt.txt", "w")
+                f.write(prompt)
                 
         #Generate and save
         #Using files instead of storing it all in memory will help with fault tolerance
@@ -53,7 +56,7 @@ if mode == 'generate':
                 
                 #Fault tolerance
                 
-                if os.path.exists(f"./Responses/{d}/{cnt}/pwquality{i}.conf"):
+                if os.path.exists(f"./Responses/{d}/{cnt}/pwquality{i}.conf") and overwrite == False:
                     continue
                 resp = ""
                 
