@@ -5,7 +5,7 @@ def compare(path1, path2):
     f1 = open(path1, 'r', encoding='utf-8')
     f2 = open(path1, 'r', encoding='utf-8')
     #LLM can hallucinate params that don't exist, this keeps track of which ones do
-    params = []
+    params = set()
     #Cache default so I don't have to read the whole file every time
     if not os.path.exists(f"./Comparison_Results/def_pwquality.conf.json"):
         d = {}
@@ -24,9 +24,7 @@ def compare(path1, path2):
             json.dump(d, fp)
     d1 = json.load(open(f"./Comparison_Results/def_pwquality.conf.json", "r", encoding="utf-8"))
     d2 = json.load(open(f"./Comparison_Results/def_pwquality.conf.json", "r", encoding="utf-8"))
-    #In case list(d1.keys()) doesn't make a deep copy
-    for k in list(d1.keys()):
-        params.append(k)
+    params = set(d1.keys())
     with open(path1, 'r', encoding='utf-8') as f:
         for line in f:
             line = line.strip()
@@ -50,7 +48,13 @@ def compare(path1, path2):
                 key, value = match.groups()
                 d2[key] = value
     s = 0
-    for p in params:
+    hal = 0
+    cnt = 0
+    for p in list(d1.keys()):
         if d1[p] == d2[p]:
             s += 1
-    return s/len(params)
+        if p not in params:
+            hal += 1
+        cnt+=1
+    return [hal, s, s/cnt, (s-hal)/(cnt-hal)]
+    #[num hallucinations, num same, percentage same, percentage same excluding hallucinations]
