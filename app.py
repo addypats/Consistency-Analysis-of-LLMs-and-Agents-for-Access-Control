@@ -162,5 +162,30 @@ elif mode == 'analyze':
                 print([fin[0]/(2*sm), fin[1]/sm, fin[2]/sm, fin[3]/sm], file=f)
                 f.close()
 
+            #Correctness
+            if not os.path.exists(f"./Analysis_Results/{d}/{cnt}/correctness_summary.txt") or overwrite:
+                f = open(f"./Analysis_Results/{d}/{cnt}/correctness_results.txt", 'w')
+                f.close()
+                f = open(f"./Analysis_Results/{d}/{cnt}/correctness_results.txt", 'a')
+                fin = [0, 0, 0, 0]
+                for i in range(len(files)):
+                    temp = compare(f"./Supervision_Benchmarks/pwquality_{cnt}.conf", f"./Responses/{d}/{cnt}/pwquality{i}.conf")
+                    f.write(f"./Supervision_Benchmarks/pwquality_{cnt}.conf")
+                    f.write(f"./Responses/{d}/{cnt}/pwquality{i}.conf")
+                    print(fin, file=f)
+                    # f.write(fin)
+                    f.write("---------------------------------------")
+                    f.write("\n")
+                    fin[0] += temp[0]
+                    fin[1] += temp[1]
+                    fin[2] += temp[2]
+                    fin[3] += temp[3]
+                f.close()
+                f = open(f"./Analysis_Results/{d}/{cnt}/correctness_summary.txt", 'w')
+                sm = len(files)
+                print([fin[0]/sm, fin[1]/sm, fin[2]/sm, fin[3]/sm], file=f)
+                f.close()
+
+
         cnt += 1
             

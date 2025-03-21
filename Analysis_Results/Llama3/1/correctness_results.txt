@@ -1,0 +1,10 @@
+./Supervision_Benchmarks/pwquality_1.conf./Responses/Llama3/1/pwquality0.conf[0, 0, 0, 0]
+---------------------------------------
+./Supervision_Benchmarks/pwquality_1.conf./Responses/Llama3/1/pwquality1.conf[5, 16, 0.8421052631578947, 0.8421052631578947]
+---------------------------------------
+./Supervision_Benchmarks/pwquality_1.conf./Responses/Llama3/1/pwquality2.conf[10, 35, 1.8421052631578947, 1.8421052631578947]
+---------------------------------------
+./Supervision_Benchmarks/pwquality_1.conf./Responses/Llama3/1/pwquality3.conf[17, 51, 2.6842105263157894, 2.6842105263157894]
+---------------------------------------
+./Supervision_Benchmarks/pwquality_1.conf./Responses/Llama3/1/pwquality4.conf[26, 69, 3.631578947368421, 3.631578947368421]
+---------------------------------------

@@ -1,0 +1,10 @@
+./Supervision_Benchmarks/pwquality_6.conf./Responses/Cohere/6/pwquality0.conf[0, 0, 0, 0]
+---------------------------------------
+./Supervision_Benchmarks/pwquality_6.conf./Responses/Cohere/6/pwquality1.conf[20, 17, 0.8947368421052632, 0.8947368421052632]
+---------------------------------------
+./Supervision_Benchmarks/pwquality_6.conf./Responses/Cohere/6/pwquality2.conf[41, 34, 1.7894736842105263, 1.7894736842105263]
+---------------------------------------
+./Supervision_Benchmarks/pwquality_6.conf./Responses/Cohere/6/pwquality3.conf[61, 51, 2.6842105263157894, 2.6842105263157894]
+---------------------------------------
+./Supervision_Benchmarks/pwquality_6.conf./Responses/Cohere/6/pwquality4.conf[82, 68, 3.5789473684210527, 3.5789473684210527]
+---------------------------------------

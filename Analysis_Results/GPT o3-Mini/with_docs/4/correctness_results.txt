@@ -1,0 +1,10 @@
+./Supervision_Benchmarks/pwquality_4.conf./Responses/GPT o3-Mini/with_docs/4/pwquality0.conf[0, 0, 0, 0]
+---------------------------------------
+./Supervision_Benchmarks/pwquality_4.conf./Responses/GPT o3-Mini/with_docs/4/pwquality1.conf[0, 18, 0.9473684210526315, 0.9473684210526315]
+---------------------------------------
+./Supervision_Benchmarks/pwquality_4.conf./Responses/GPT o3-Mini/with_docs/4/pwquality2.conf[0, 37, 1.9473684210526314, 1.9473684210526314]
+---------------------------------------
+./Supervision_Benchmarks/pwquality_4.conf./Responses/GPT o3-Mini/with_docs/4/pwquality3.conf[0, 56, 2.9473684210526314, 2.9473684210526314]
+---------------------------------------
+./Supervision_Benchmarks/pwquality_4.conf./Responses/GPT o3-Mini/with_docs/4/pwquality4.conf[0, 75, 3.9473684210526314, 3.9473684210526314]
+---------------------------------------

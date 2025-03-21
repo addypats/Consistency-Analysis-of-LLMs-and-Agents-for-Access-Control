@@ -1,0 +1,10 @@
+./Supervision_Benchmarks/pwquality_1.conf./Responses/Gemini/1/pwquality0.conf[0, 0, 0, 0]
+---------------------------------------
+./Supervision_Benchmarks/pwquality_1.conf./Responses/Gemini/1/pwquality1.conf[6, 12, 0.631578947368421, 0.631578947368421]
+---------------------------------------
+./Supervision_Benchmarks/pwquality_1.conf./Responses/Gemini/1/pwquality2.conf[9, 30, 1.5789473684210527, 1.5789473684210527]
+---------------------------------------
+./Supervision_Benchmarks/pwquality_1.conf./Responses/Gemini/1/pwquality3.conf[13, 48, 2.526315789473684, 2.526315789473684]
+---------------------------------------
+./Supervision_Benchmarks/pwquality_1.conf./Responses/Gemini/1/pwquality4.conf[17, 62, 3.263157894736842, 3.263157894736842]
+---------------------------------------

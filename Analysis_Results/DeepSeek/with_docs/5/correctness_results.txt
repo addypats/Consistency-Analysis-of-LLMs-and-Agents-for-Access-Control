@@ -1,0 +1,10 @@
+./Supervision_Benchmarks/pwquality_5.conf./Responses/DeepSeek/with_docs/5/pwquality0.conf[0, 0, 0, 0]
+---------------------------------------
+./Supervision_Benchmarks/pwquality_5.conf./Responses/DeepSeek/with_docs/5/pwquality1.conf[12, 9, 0.47368421052631576, 0.47368421052631576]
+---------------------------------------
+./Supervision_Benchmarks/pwquality_5.conf./Responses/DeepSeek/with_docs/5/pwquality2.conf[13, 17, 0.894736842105263, 0.894736842105263]
+---------------------------------------
+./Supervision_Benchmarks/pwquality_5.conf./Responses/DeepSeek/with_docs/5/pwquality3.conf[20, 32, 1.6842105263157894, 1.6842105263157894]
+---------------------------------------
+./Supervision_Benchmarks/pwquality_5.conf./Responses/DeepSeek/with_docs/5/pwquality4.conf[25, 44, 2.3157894736842106, 2.3157894736842106]
+---------------------------------------
