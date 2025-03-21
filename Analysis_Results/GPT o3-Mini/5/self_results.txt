@@ -1,0 +1,20 @@
+./Responses/GPT o3-Mini/5/pwquality0.conf./Responses/GPT o3-Mini/5/pwquality1.conf[0, 0, 0, 0]
+---------------------------------------
+./Responses/GPT o3-Mini/5/pwquality0.conf./Responses/GPT o3-Mini/5/pwquality2.conf[0, 16, 0.8421052631578947, 0.8421052631578947]
+---------------------------------------
+./Responses/GPT o3-Mini/5/pwquality0.conf./Responses/GPT o3-Mini/5/pwquality3.conf[0, 34, 1.789473684210526, 1.789473684210526]
+---------------------------------------
+./Responses/GPT o3-Mini/5/pwquality0.conf./Responses/GPT o3-Mini/5/pwquality4.conf[0, 50, 2.631578947368421, 2.631578947368421]
+---------------------------------------
+./Responses/GPT o3-Mini/5/pwquality1.conf./Responses/GPT o3-Mini/5/pwquality2.conf[0, 67, 3.526315789473684, 3.526315789473684]
+---------------------------------------
+./Responses/GPT o3-Mini/5/pwquality1.conf./Responses/GPT o3-Mini/5/pwquality3.conf[1, 84, 4.376315789473684, 4.421052631578947]
+---------------------------------------
+./Responses/GPT o3-Mini/5/pwquality1.conf./Responses/GPT o3-Mini/5/pwquality4.conf[2, 103, 5.326315789473684, 5.421052631578947]
+---------------------------------------
+./Responses/GPT o3-Mini/5/pwquality2.conf./Responses/GPT o3-Mini/5/pwquality3.conf[3, 121, 6.226315789473684, 6.368421052631579]
+---------------------------------------
+./Responses/GPT o3-Mini/5/pwquality2.conf./Responses/GPT o3-Mini/5/pwquality4.conf[3, 138, 7.121052631578947, 7.263157894736842]
+---------------------------------------
+./Responses/GPT o3-Mini/5/pwquality3.conf./Responses/GPT o3-Mini/5/pwquality4.conf[3, 156, 8.068421052631578, 8.210526315789473]
+---------------------------------------

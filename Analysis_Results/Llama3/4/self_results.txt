@@ -1,0 +1,20 @@
+./Responses/Llama3/4/pwquality0.conf./Responses/Llama3/4/pwquality1.conf[0, 0, 0, 0]
+---------------------------------------
+./Responses/Llama3/4/pwquality0.conf./Responses/Llama3/4/pwquality2.conf[7, 18, 0.6923076923076923, 0.8947368421052632]
+---------------------------------------
+./Responses/Llama3/4/pwquality0.conf./Responses/Llama3/4/pwquality3.conf[14, 36, 1.3846153846153846, 1.7894736842105263]
+---------------------------------------
+./Responses/Llama3/4/pwquality0.conf./Responses/Llama3/4/pwquality4.conf[21, 54, 2.0769230769230766, 2.6842105263157894]
+---------------------------------------
+./Responses/Llama3/4/pwquality1.conf./Responses/Llama3/4/pwquality2.conf[28, 71, 2.7307692307692304, 3.526315789473684]
+---------------------------------------
+./Responses/Llama3/4/pwquality1.conf./Responses/Llama3/4/pwquality3.conf[38, 91, 3.4204244031830235, 4.526315789473684]
+---------------------------------------
+./Responses/Llama3/4/pwquality1.conf./Responses/Llama3/4/pwquality4.conf[48, 111, 4.110079575596817, 5.526315789473684]
+---------------------------------------
+./Responses/Llama3/4/pwquality2.conf./Responses/Llama3/4/pwquality3.conf[58, 130, 4.76525198938992, 6.473684210526316]
+---------------------------------------
+./Responses/Llama3/4/pwquality2.conf./Responses/Llama3/4/pwquality4.conf[73, 151, 5.382899048213449, 7.473684210526316]
+---------------------------------------
+./Responses/Llama3/4/pwquality3.conf./Responses/Llama3/4/pwquality4.conf[88, 170, 5.941722577625214, 8.421052631578947]
+---------------------------------------

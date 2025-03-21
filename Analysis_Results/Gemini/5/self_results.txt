@@ -1,0 +1,20 @@
+./Responses/Gemini/5/pwquality0.conf./Responses/Gemini/5/pwquality1.conf[0, 0, 0, 0]
+---------------------------------------
+./Responses/Gemini/5/pwquality0.conf./Responses/Gemini/5/pwquality2.conf[7, 13, 0.5, 0.6842105263157895]
+---------------------------------------
+./Responses/Gemini/5/pwquality0.conf./Responses/Gemini/5/pwquality3.conf[14, 28, 1.0769230769230769, 1.4210526315789473]
+---------------------------------------
+./Responses/Gemini/5/pwquality0.conf./Responses/Gemini/5/pwquality4.conf[21, 45, 1.7307692307692308, 2.2105263157894735]
+---------------------------------------
+./Responses/Gemini/5/pwquality1.conf./Responses/Gemini/5/pwquality2.conf[28, 62, 2.3846153846153846, 3.052631578947368]
+---------------------------------------
+./Responses/Gemini/5/pwquality1.conf./Responses/Gemini/5/pwquality3.conf[32, 76, 2.9933110367892977, 3.789473684210526]
+---------------------------------------
+./Responses/Gemini/5/pwquality1.conf./Responses/Gemini/5/pwquality4.conf[36, 89, 3.5585284280936453, 4.473684210526316]
+---------------------------------------
+./Responses/Gemini/5/pwquality2.conf./Responses/Gemini/5/pwquality3.conf[40, 101, 4.080267558528428, 5.105263157894737]
+---------------------------------------
+./Responses/Gemini/5/pwquality2.conf./Responses/Gemini/5/pwquality4.conf[45, 116, 4.705267558528428, 5.7894736842105265]
+---------------------------------------
+./Responses/Gemini/5/pwquality3.conf./Responses/Gemini/5/pwquality4.conf[50, 131, 5.330267558528428, 6.526315789473684]
+---------------------------------------

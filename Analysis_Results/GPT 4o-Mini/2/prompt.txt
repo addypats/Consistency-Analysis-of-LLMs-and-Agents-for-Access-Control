@@ -1,0 +1,5 @@
+All passwords (e.g., email, web, computer, etc.) must be changed at least every 90 days.
+Passwords must not be inserted into email messages or other forms of electronic communication and should not be shared with anyone, including via email or phone conversations.
+Passwords should not be written down or stored electronically without encryption.
+All passwords must be at least 8 characters long, contain at least 1 alpha and 1 numeric character, should not be based on a dictionary word, and not be part of your name or user name.
+You can only change your password once every two days

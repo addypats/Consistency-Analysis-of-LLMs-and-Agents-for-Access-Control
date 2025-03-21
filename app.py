@@ -1,14 +1,18 @@
 import json
 from jsonstream import load
 from Response_Generation.generate_response import *
+from file_compare import *
 import os
 from dotenv import load_dotenv
 load_dotenv()
 #Keeps track of whether we're generating or analyzing, maybe make interactive later.
 
-mode = 'generate'
+# mode = 'generate'
 
-# mode = 'analyze'
+mode = 'analyze'
+overwrite = False
+dirs = [name for name in os.listdir("./Responses") if os.path.isdir(os.path.join("./Responses", name))]
+pfiles = [name for name in os.listdir("./Prompts")]
 
 #Keeps track of all policies
 #Generate some number of responses for each LLM and save as JSON files
@@ -22,10 +26,7 @@ if mode == 'generate':
     #How many iterations we generate for
     
     iterations = 5 
-    overwrite = False
     cnt = 0
-    dirs = [name for name in os.listdir("./Responses") if os.path.isdir(os.path.join("./Responses", name))]
-    pfiles = [name for name in os.listdir("./Prompts")]
     #Originally I'd store every prompt in one file. This would loop over everything. No need for an outer loop
     #Will revise to read multiple files instead of using JsonStream
     for fl in pfiles:
@@ -44,9 +45,11 @@ if mode == 'generate':
                 os.makedirs(os.path.dirname(f"./Responses/{d}/{cnt}/"), exist_ok=True)
                 f = open(f"./Responses/{d}/{cnt}/prompt.txt", "w")
                 f.write(prompt)
+                f.close()
             if overwrite:
                 f = open(f"./Responses/{d}/{cnt}/prompt.txt", "w")
                 f.write(prompt)
+                f.close()
                 
         #Generate and save
         #Using files instead of storing it all in memory will help with fault tolerance
@@ -80,79 +83,55 @@ if mode == 'generate':
                     
                 f = open(f"./Responses/{d}/{cnt}/pwquality{i}.conf", "w", encoding="utf-8")
                 f.write(resp)
+                f.close()
+        cnt+=1
 
+#Lets focus on self for now.
+#Compare every combination of files and write the results.
+#LLM/num/self, LLM/num/cross
+#Have a results.txt and a summary.txt
+#Results will post the raw results of every comparison
+#Comparison will post an average of everything, this is more important
+elif mode == 'analyze':
+    # print(compare("./Responses/GPT o3-Mini/0/pwquality0.conf", "./Responses/GPT o3-Mini/0/pwquality1.conf"))
+    cnt = 0
+    for fl in pfiles:
+        for d in dirs:
+            if not os.path.exists(f"./Analysis_Results/{d}/{cnt}/prompt.txt"):
+                os.makedirs(os.path.dirname(f"./Analysis_Results/{d}/{cnt}/"), exist_ok=True)
+                f = open(f"./Analysis_Results/{d}/{cnt}/prompt.txt", "w")
+                f.write(json.load(open(f"./Prompts/{fl}", "r", encoding="utf-8")))
+                f.close()
+            if overwrite:
+                f = open(f"./Analysis_Results/{d}/{cnt}/prompt.txt", "w")
+                f.write(json.load(open(f"./Prompts/{fl}", "r", encoding="utf-8")))
+                f.close()
+            #Self consistency
+            if not os.path.exists(f"./Analysis_Results/{d}/{cnt}/self_summary.txt") or overwrite:
+                files = [name for name in os.listdir(f"./Responses/{d}/{cnt}") if name != "prompt.txt"]
+                f = open(f"./Analysis_Results/{d}/{cnt}/self_results.txt", 'w')
+                f.close()
+                f = open(f"./Analysis_Results/{d}/{cnt}/self_results.txt", 'a')
+                fin = [0, 0, 0, 0]
+                for i in range(len(files)):
+                    for j in range(i + 1, len(files)):
+                        temp = compare(f"./Responses/{d}/{cnt}/pwquality{i}.conf", f"./Responses/{d}/{cnt}/pwquality{j}.conf")
+                        f.write(f"./Responses/{d}/{cnt}/pwquality{i}.conf")
+                        f.write(f"./Responses/{d}/{cnt}/pwquality{j}.conf")
+                        print(fin, file=f)
+                        # f.write(fin)
+                        f.write("---------------------------------------")
+                        f.write("\n")
+                        fin[0] += temp[0]
+                        fin[1] += temp[1]
+                        fin[2] += temp[2]
+                        fin[3] += temp[3]
+                f.close()
+                f = open(f"./Analysis_Results/{d}/{cnt}/self_summary.txt", 'w')
+                sm = len(files)*((len(files)-1)/2)
+                print([fin[0]/(2*sm), fin[1]/sm, fin[2]/sm, fin[3]/sm], file=f)
+                f.close()
             
-        cnt+=1      
-    # In case, we are not doing self, (just removed the iteration factor, rest of the code is the same)
-    # Delete later if necessary
-
-    #Unnecessary for cross comparison, we'll just use the already generated responses
-    #If we end up doing validation will uncomment later
-    
-# if mode == 'generate':
-    
-    
-#     #make more interactive later on, for now just pull all the prompts from prompt.json and generate responses
-    
-#     #In the future check it with a file that keeps track of prompts we've already generated responses for
-    
-#     policies = []
-#     f = open("prompts.json", "r")
-#     stream = load(f)
-    
-    
-#     #How many iterations we generate for
-#     iterations = 5          
-#     overwrite = False
-#     cnt = 0
-#     dirs = [name for name in os.listdir("./Responses") if os.path.isdir(os.path.join("./Responses", name))]
-#     for p in stream:
-#         policies.append(p)
-#         prompt = "Generate me a /etc/security/pwquality.conf file with the following password policy rules (reply with just the file):\n" + p
-#         for d in dirs:
+            #Cross consistency
+        cnt += 1
             
-#             #idk what to call the folders, so for now I'll just number them and store the prompt in a txt file inside
-            
-#             if not os.path.exists(f"./Responses/{d}/{cnt}/prompt.txt"):
-#                 os.makedirs(os.path.dirname(f"./Responses/{d}/{cnt}/"), exist_ok=True)
-#                 f = open(f"./Responses/{d}/{cnt}/prompt.txt", "w")
-#                 f.write(prompt)
-                
-#         #Generate and save
-#         #Using files instead of storing it all in memory will help with fault tolerance
-        
-#         for d in dirs:
-            
-#             #Fault tolerance
-                
-#             if os.path.exists(f"./Responses/{d}/{cnt}/pwquality{i}.conf"):
-#                 continue
-#             resp = ""
-                
-#             #Don't have a nicer looking way of doing this rn
-#             # Don't need a nicer way, just need it to work
-                
-#             if d == 'Bloom':
-#                 resp = GR.generate_response_bloom(prompt)
-#             elif d == 'Cohere':
-#                 resp = GR.generate_response_Cohere(prompt)
-                    
-#                 #In progress
-#                 # elif d == 'DeepSeek':
-#                 #     resp = generate_response_deepseek(prompt)
-                
-#             elif d == 'Gemini':
-#                 resp = GR.generate_response_gemini(prompt)
-#             elif d == 'GPT 4o-Mini':
-#                 resp = GR.generate_response_chat4om(prompt)
-#             elif d == 'GPT o3-Mini':
-#                 resp = GR.generate_response_chato3m(prompt)
-#             elif d == 'Llama3':
-#                 resp = GR.generate_response_Llama(prompt)
-                    
-                    
-#             f = open(f"./Responses/{d}/{cnt}/pwquality{i}.conf", "w")
-#             f.write(resp)
-
-            
-#         cnt+=1

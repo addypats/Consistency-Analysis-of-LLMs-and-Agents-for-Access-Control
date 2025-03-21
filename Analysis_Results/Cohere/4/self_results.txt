@@ -1,0 +1,20 @@
+./Responses/Cohere/4/pwquality0.conf./Responses/Cohere/4/pwquality1.conf[0, 0, 0, 0]
+---------------------------------------
+./Responses/Cohere/4/pwquality0.conf./Responses/Cohere/4/pwquality2.conf[13, 18, 0.5625, 0.9473684210526315]
+---------------------------------------
+./Responses/Cohere/4/pwquality0.conf./Responses/Cohere/4/pwquality3.conf[26, 37, 1.15625, 1.9473684210526314]
+---------------------------------------
+./Responses/Cohere/4/pwquality0.conf./Responses/Cohere/4/pwquality4.conf[39, 55, 1.71875, 2.894736842105263]
+---------------------------------------
+./Responses/Cohere/4/pwquality1.conf./Responses/Cohere/4/pwquality2.conf[52, 74, 2.3125, 3.894736842105263]
+---------------------------------------
+./Responses/Cohere/4/pwquality1.conf./Responses/Cohere/4/pwquality3.conf[52, 92, 3.2598684210526314, 4.842105263157895]
+---------------------------------------
+./Responses/Cohere/4/pwquality1.conf./Responses/Cohere/4/pwquality4.conf[52, 111, 4.259868421052632, 5.842105263157895]
+---------------------------------------
+./Responses/Cohere/4/pwquality2.conf./Responses/Cohere/4/pwquality3.conf[52, 129, 5.207236842105264, 6.7894736842105265]
+---------------------------------------
+./Responses/Cohere/4/pwquality2.conf./Responses/Cohere/4/pwquality4.conf[61, 147, 5.850093984962407, 7.736842105263158]
+---------------------------------------
+./Responses/Cohere/4/pwquality3.conf./Responses/Cohere/4/pwquality4.conf[70, 175, 6.850093984962407, 8.736842105263158]
+---------------------------------------

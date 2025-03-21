@@ -1,0 +1,20 @@
+./Responses/Bloom/2/pwquality0.conf./Responses/Bloom/2/pwquality1.conf[0, 0, 0, 0]
+---------------------------------------
+./Responses/Bloom/2/pwquality0.conf./Responses/Bloom/2/pwquality2.conf[0, 19, 1.0, 1.0]
+---------------------------------------
+./Responses/Bloom/2/pwquality0.conf./Responses/Bloom/2/pwquality3.conf[0, 38, 2.0, 2.0]
+---------------------------------------
+./Responses/Bloom/2/pwquality0.conf./Responses/Bloom/2/pwquality4.conf[0, 57, 3.0, 3.0]
+---------------------------------------
+./Responses/Bloom/2/pwquality1.conf./Responses/Bloom/2/pwquality2.conf[0, 76, 4.0, 4.0]
+---------------------------------------
+./Responses/Bloom/2/pwquality1.conf./Responses/Bloom/2/pwquality3.conf[0, 95, 5.0, 5.0]
+---------------------------------------
+./Responses/Bloom/2/pwquality1.conf./Responses/Bloom/2/pwquality4.conf[0, 114, 6.0, 6.0]
+---------------------------------------
+./Responses/Bloom/2/pwquality2.conf./Responses/Bloom/2/pwquality3.conf[0, 133, 7.0, 7.0]
+---------------------------------------
+./Responses/Bloom/2/pwquality2.conf./Responses/Bloom/2/pwquality4.conf[0, 152, 8.0, 8.0]
+---------------------------------------
+./Responses/Bloom/2/pwquality3.conf./Responses/Bloom/2/pwquality4.conf[0, 171, 9.0, 9.0]
+---------------------------------------

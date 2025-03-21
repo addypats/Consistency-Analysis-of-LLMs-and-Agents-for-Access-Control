@@ -1,0 +1,6 @@
+Passwords must be changed every 90 days.
+Passwords must adhere to a minimum length of 10 characters.
+Passwords must contain a combination of alpha, numeric, and special characters, where the computing system permits (!@#$%^&*_+=?/~’;’,<>|\)
+Passwords must not be easily tied back to the account owner such as: Username, social security number, nickname, relative’s names, birth date, etc.
+Passwords must not be dictionary words or acronyms.
+Passwords cannot be reused for 1 year.
