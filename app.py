@@ -106,9 +106,9 @@ elif mode == 'analyze':
                 f = open(f"./Analysis_Results/{d}/{cnt}/prompt.txt", "w")
                 f.write(json.load(open(f"./Prompts/{fl}", "r", encoding="utf-8")))
                 f.close()
+            files = [name for name in os.listdir(f"./Responses/{d}/{cnt}") if name != "prompt.txt"]
             #Self consistency
             if not os.path.exists(f"./Analysis_Results/{d}/{cnt}/self_summary.txt") or overwrite:
-                files = [name for name in os.listdir(f"./Responses/{d}/{cnt}") if name != "prompt.txt"]
                 f = open(f"./Analysis_Results/{d}/{cnt}/self_results.txt", 'w')
                 f.close()
                 f = open(f"./Analysis_Results/{d}/{cnt}/self_results.txt", 'a')
@@ -133,5 +133,32 @@ elif mode == 'analyze':
                 f.close()
             
             #Cross consistency
+            #Will take a decent bit longer
+            if not os.path.exists(f"./Analysis_Results/{d}/{cnt}/cross_summary.txt") or overwrite:
+                f = open(f"./Analysis_Results/{d}/{cnt}/cross_results.txt", 'w')
+                f.close()
+                f = open(f"./Analysis_Results/{d}/{cnt}/cross_results.txt", 'a')
+                fin = [0, 0, 0, 0]
+                
+                for i in range(len(files)):
+                    for nd in dirs:
+                        for j in range(len(files)):
+                            temp = compare(f"./Responses/{d}/{cnt}/pwquality{i}.conf", f"./Responses/{nd}/{cnt}/pwquality{j}.conf")
+                            f.write(f"./Responses/{d}/{cnt}/pwquality{i}.conf")
+                            f.write(f"./Responses/{nd}/{cnt}/pwquality{j}.conf")
+                            print(fin, file=f)
+                            # f.write(fin)
+                            f.write("---------------------------------------")
+                            f.write("\n")
+                            fin[0] += temp[0]
+                            fin[1] += temp[1]
+                            fin[2] += temp[2]
+                            fin[3] += temp[3]
+                f.close()
+                f = open(f"./Analysis_Results/{d}/{cnt}/cross_summary.txt", 'w')
+                sm = len(files)*len(dirs)*len(files)
+                print([fin[0]/(2*sm), fin[1]/sm, fin[2]/sm, fin[3]/sm], file=f)
+                f.close()
+
         cnt += 1
             

@@ -1,0 +1,350 @@
+./Responses/Gemini/2/pwquality0.conf./Responses/Bloom/2/pwquality0.conf[0, 0, 0, 0]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/Bloom/2/pwquality1.conf[3, 14, 0.6363636363636364, 0.7368421052631579]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/Bloom/2/pwquality2.conf[6, 28, 1.2727272727272727, 1.4736842105263157]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/Bloom/2/pwquality3.conf[9, 42, 1.9090909090909092, 2.2105263157894735]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/Bloom/2/pwquality4.conf[12, 56, 2.5454545454545454, 2.9473684210526314]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/Cohere/2/pwquality0.conf[15, 70, 3.1818181818181817, 3.6842105263157894]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/Cohere/2/pwquality1.conf[23, 84, 3.818181818181818, 4.421052631578947]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/Cohere/2/pwquality2.conf[31, 98, 4.454545454545454, 5.157894736842104]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/Cohere/2/pwquality3.conf[39, 112, 5.090909090909091, 5.894736842105262]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/Cohere/2/pwquality4.conf[54, 126, 5.7272727272727275, 6.6315789473684195]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/DeepSeek/2/pwquality0.conf[74, 140, 6.363636363636364, 7.368421052631577]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/DeepSeek/2/pwquality1.conf[78, 152, 6.90909090909091, 7.999999999999998]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/DeepSeek/2/pwquality2.conf[81, 167, 7.590909090909092, 8.789473684210524]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/DeepSeek/2/pwquality3.conf[84, 184, 8.363636363636365, 9.684210526315788]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/DeepSeek/2/pwquality4.conf[87, 201, 9.136363636363638, 10.578947368421051]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/Gemini/2/pwquality0.conf[90, 218, 9.909090909090912, 11.473684210526315]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/Gemini/2/pwquality1.conf[93, 240, 10.909090909090912, 12.473684210526315]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/Gemini/2/pwquality2.conf[96, 253, 11.500000000000004, 13.157894736842104]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/Gemini/2/pwquality3.conf[102, 266, 12.090909090909095, 13.842105263157894]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/Gemini/2/pwquality4.conf[107, 284, 12.909090909090914, 14.789473684210526]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/GPT 4o-Mini/2/pwquality0.conf[110, 304, 13.818181818181822, 15.789473684210526]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/GPT 4o-Mini/2/pwquality1.conf[114, 320, 14.545454545454549, 16.63157894736842]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/GPT 4o-Mini/2/pwquality2.conf[118, 333, 15.13636363636364, 17.315789473684212]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/GPT 4o-Mini/2/pwquality3.conf[122, 349, 15.863636363636367, 18.157894736842106]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/GPT 4o-Mini/2/pwquality4.conf[126, 365, 16.590909090909093, 19.0]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/GPT o3-Mini/2/pwquality0.conf[130, 381, 17.31818181818182, 19.842105263157894]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/GPT o3-Mini/2/pwquality1.conf[133, 397, 18.045454545454547, 20.684210526315788]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/GPT o3-Mini/2/pwquality2.conf[137, 413, 18.772727272727273, 21.52631578947368]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/GPT o3-Mini/2/pwquality3.conf[140, 429, 19.5, 22.368421052631575]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/GPT o3-Mini/2/pwquality4.conf[144, 442, 20.09090909090909, 23.052631578947366]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/Llama3/2/pwquality0.conf[148, 455, 20.68181818181818, 23.736842105263158]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/Llama3/2/pwquality1.conf[159, 466, 21.18181818181818, 24.31578947368421]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/Llama3/2/pwquality2.conf[167, 480, 21.818181818181817, 25.052631578947366]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/Llama3/2/pwquality3.conf[177, 493, 22.409090909090907, 25.736842105263158]
+---------------------------------------
+./Responses/Gemini/2/pwquality0.conf./Responses/Llama3/2/pwquality4.conf[187, 506, 22.999999999999996, 26.42105263157895]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/Bloom/2/pwquality0.conf[197, 520, 23.636363636363633, 27.157894736842106]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/Bloom/2/pwquality1.conf[199, 537, 24.445887445887443, 28.05263157894737]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/Bloom/2/pwquality2.conf[201, 554, 25.255411255411254, 28.947368421052634]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/Bloom/2/pwquality3.conf[203, 571, 26.064935064935064, 29.842105263157897]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/Bloom/2/pwquality4.conf[205, 588, 26.874458874458874, 30.73684210526316]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/Cohere/2/pwquality0.conf[207, 605, 27.683982683982684, 31.631578947368425]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/Cohere/2/pwquality1.conf[214, 622, 28.493506493506494, 32.526315789473685]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/Cohere/2/pwquality2.conf[221, 639, 29.303030303030305, 33.421052631578945]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/Cohere/2/pwquality3.conf[228, 656, 30.112554112554115, 34.315789473684205]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/Cohere/2/pwquality4.conf[242, 673, 30.922077922077925, 35.210526315789465]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/DeepSeek/2/pwquality0.conf[261, 690, 31.731601731601735, 36.105263157894726]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/DeepSeek/2/pwquality1.conf[264, 700, 32.20779220779221, 36.63157894736841]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/DeepSeek/2/pwquality2.conf[266, 714, 32.874458874458874, 37.3157894736842]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/DeepSeek/2/pwquality3.conf[268, 726, 33.44588744588744, 37.947368421052616]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/DeepSeek/2/pwquality4.conf[270, 738, 34.01731601731601, 38.52631578947367]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/Gemini/2/pwquality0.conf[272, 749, 34.54112554112554, 39.105263157894726]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/Gemini/2/pwquality1.conf[275, 762, 35.16017316017316, 39.78947368421051]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/Gemini/2/pwquality2.conf[277, 783, 36.16017316017316, 40.78947368421051]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/Gemini/2/pwquality3.conf[283, 797, 36.82683982683982, 41.52631578947367]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/Gemini/2/pwquality4.conf[287, 809, 37.39826839826839, 42.15789473684209]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/GPT 4o-Mini/2/pwquality0.conf[290, 822, 38.01731601731601, 42.842105263157876]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/GPT 4o-Mini/2/pwquality1.conf[293, 838, 38.77922077922077, 43.68421052631577]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/GPT 4o-Mini/2/pwquality2.conf[296, 853, 39.49350649350649, 44.4736842105263]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/GPT 4o-Mini/2/pwquality3.conf[299, 869, 40.255411255411246, 45.3157894736842]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/GPT 4o-Mini/2/pwquality4.conf[302, 885, 41.017316017316006, 46.157894736842096]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/GPT o3-Mini/2/pwquality0.conf[305, 901, 41.779220779220765, 46.99999999999999]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/GPT o3-Mini/2/pwquality1.conf[307, 917, 42.541125541125524, 47.84210526315789]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/GPT o3-Mini/2/pwquality2.conf[310, 933, 43.30303030303028, 48.68421052631579]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/GPT o3-Mini/2/pwquality3.conf[312, 949, 44.06493506493504, 49.526315789473685]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/GPT o3-Mini/2/pwquality4.conf[315, 964, 44.77922077922076, 50.31578947368421]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/Llama3/2/pwquality0.conf[318, 979, 45.49350649350647, 51.10526315789474]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/Llama3/2/pwquality1.conf[328, 993, 46.16017316017314, 51.8421052631579]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/Llama3/2/pwquality2.conf[335, 1009, 46.9220779220779, 52.684210526315795]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/Llama3/2/pwquality3.conf[344, 1024, 47.63636363636361, 53.47368421052632]
+---------------------------------------
+./Responses/Gemini/2/pwquality1.conf./Responses/Llama3/2/pwquality4.conf[353, 1039, 48.35064935064933, 54.26315789473685]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/Bloom/2/pwquality0.conf[362, 1056, 49.16017316017314, 55.15789473684211]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/Bloom/2/pwquality1.conf[367, 1070, 49.74350649350647, 55.89473684210527]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/Bloom/2/pwquality2.conf[372, 1084, 50.32683982683981, 56.631578947368425]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/Bloom/2/pwquality3.conf[377, 1098, 50.910173160173144, 57.36842105263158]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/Bloom/2/pwquality4.conf[382, 1112, 51.49350649350648, 58.10526315789474]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/Cohere/2/pwquality0.conf[387, 1126, 52.076839826839816, 58.8421052631579]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/Cohere/2/pwquality1.conf[397, 1140, 52.66017316017315, 59.578947368421055]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/Cohere/2/pwquality2.conf[407, 1154, 53.24350649350649, 60.31578947368421]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/Cohere/2/pwquality3.conf[417, 1168, 53.82683982683982, 61.05263157894737]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/Cohere/2/pwquality4.conf[434, 1182, 54.41017316017316, 61.78947368421053]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/DeepSeek/2/pwquality0.conf[456, 1196, 54.993506493506494, 62.526315789473685]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/DeepSeek/2/pwquality1.conf[462, 1204, 55.32683982683983, 62.94736842105263]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/DeepSeek/2/pwquality2.conf[467, 1215, 55.785173160173166, 63.526315789473685]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/DeepSeek/2/pwquality3.conf[472, 1227, 56.285173160173166, 64.15789473684211]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/DeepSeek/2/pwquality4.conf[477, 1238, 56.7435064935065, 64.73684210526316]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/Gemini/2/pwquality0.conf[482, 1249, 57.20183982683984, 65.31578947368422]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/Gemini/2/pwquality1.conf[488, 1262, 57.7435064935065, 66.00000000000001]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/Gemini/2/pwquality2.conf[494, 1276, 58.32683982683984, 66.73684210526318]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/Gemini/2/pwquality3.conf[499, 1300, 59.32683982683984, 67.73684210526318]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/Gemini/2/pwquality4.conf[507, 1312, 59.82683982683984, 68.3684210526316]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/GPT 4o-Mini/2/pwquality0.conf[512, 1325, 60.3685064935065, 69.0526315789474]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/GPT 4o-Mini/2/pwquality1.conf[518, 1338, 60.910173160173166, 69.7368421052632]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/GPT 4o-Mini/2/pwquality2.conf[524, 1351, 61.45183982683983, 70.42105263157899]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/GPT 4o-Mini/2/pwquality3.conf[530, 1364, 61.993506493506494, 71.10526315789478]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/GPT 4o-Mini/2/pwquality4.conf[536, 1378, 62.57683982683983, 71.84210526315795]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/GPT o3-Mini/2/pwquality0.conf[542, 1392, 63.160173160173166, 72.57894736842111]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/GPT o3-Mini/2/pwquality1.conf[547, 1405, 63.70183982683983, 73.2631578947369]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/GPT o3-Mini/2/pwquality2.conf[553, 1418, 64.2435064935065, 73.9473684210527]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/GPT o3-Mini/2/pwquality3.conf[558, 1431, 64.78517316017317, 74.6315789473685]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/GPT o3-Mini/2/pwquality4.conf[564, 1443, 65.28517316017317, 75.26315789473692]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/Llama3/2/pwquality0.conf[570, 1456, 65.82683982683984, 75.94736842105272]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/Llama3/2/pwquality1.conf[583, 1467, 66.28517316017317, 76.52631578947377]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/Llama3/2/pwquality2.conf[593, 1480, 66.82683982683984, 77.21052631578956]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/Llama3/2/pwquality3.conf[605, 1492, 67.32683982683984, 77.84210526315799]
+---------------------------------------
+./Responses/Gemini/2/pwquality2.conf./Responses/Llama3/2/pwquality4.conf[617, 1504, 67.82683982683984, 78.47368421052641]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/Bloom/2/pwquality0.conf[629, 1518, 68.41017316017317, 79.21052631578958]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/Bloom/2/pwquality1.conf[633, 1531, 68.97539055147752, 79.89473684210537]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/Bloom/2/pwquality2.conf[637, 1544, 69.54060794278186, 80.57894736842117]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/Bloom/2/pwquality3.conf[641, 1557, 70.1058253340862, 81.26315789473696]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/Bloom/2/pwquality4.conf[645, 1570, 70.67104272539055, 81.94736842105276]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/Cohere/2/pwquality0.conf[649, 1583, 71.2362601166949, 82.63157894736855]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/Cohere/2/pwquality1.conf[658, 1596, 71.80147750799924, 83.31578947368435]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/Cohere/2/pwquality2.conf[667, 1609, 72.36669489930358, 84.00000000000014]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/Cohere/2/pwquality3.conf[676, 1622, 72.93191229060793, 84.68421052631594]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/Cohere/2/pwquality4.conf[692, 1635, 73.49712968191227, 85.36842105263173]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/DeepSeek/2/pwquality0.conf[713, 1648, 74.06234707321661, 86.05263157894753]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/DeepSeek/2/pwquality1.conf[718, 1659, 74.54060794278183, 86.63157894736858]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/DeepSeek/2/pwquality2.conf[722, 1673, 75.14930359495574, 87.36842105263175]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/DeepSeek/2/pwquality3.conf[726, 1689, 75.84495576886879, 88.21052631578964]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/DeepSeek/2/pwquality4.conf[730, 1705, 76.54060794278183, 89.05263157894753]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/Gemini/2/pwquality0.conf[734, 1722, 77.27973837756444, 89.94736842105279]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/Gemini/2/pwquality1.conf[739, 1740, 78.06234707321661, 90.89473684210542]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/Gemini/2/pwquality2.conf[743, 1752, 78.5840862036514, 91.52631578947384]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/Gemini/2/pwquality3.conf[751, 1764, 79.10582533408618, 92.15789473684227]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/Gemini/2/pwquality4.conf[755, 1787, 80.10582533408618, 93.15789473684227]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/GPT 4o-Mini/2/pwquality0.conf[760, 1805, 80.88843402973835, 94.1052631578949]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/GPT 4o-Mini/2/pwquality1.conf[765, 1820, 81.54060794278183, 94.89473684210542]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/GPT 4o-Mini/2/pwquality2.conf[770, 1832, 82.06234707321661, 95.52631578947384]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/GPT 4o-Mini/2/pwquality3.conf[775, 1847, 82.7145209862601, 96.31578947368436]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/GPT 4o-Mini/2/pwquality4.conf[780, 1862, 83.36669489930358, 97.10526315789488]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/GPT o3-Mini/2/pwquality0.conf[785, 1877, 84.01886881234707, 97.8947368421054]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/GPT o3-Mini/2/pwquality1.conf[789, 1892, 84.67104272539055, 98.68421052631592]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/GPT o3-Mini/2/pwquality2.conf[794, 1907, 85.32321663843403, 99.47368421052644]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/GPT o3-Mini/2/pwquality3.conf[798, 1922, 85.97539055147752, 100.26315789473696]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/GPT o3-Mini/2/pwquality4.conf[803, 1934, 86.4971296819123, 100.89473684210539]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/Llama3/2/pwquality0.conf[808, 1946, 87.01886881234708, 101.52631578947381]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/Llama3/2/pwquality1.conf[820, 1956, 87.45365142104274, 102.0526315789475]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/Llama3/2/pwquality2.conf[829, 1969, 88.01886881234708, 102.73684210526329]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/Llama3/2/pwquality3.conf[840, 1981, 88.54060794278186, 103.36842105263172]
+---------------------------------------
+./Responses/Gemini/2/pwquality3.conf./Responses/Llama3/2/pwquality4.conf[851, 1993, 89.06234707321664, 104.00000000000014]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/Bloom/2/pwquality0.conf[862, 2006, 89.62756446452099, 104.68421052631594]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/Bloom/2/pwquality1.conf[864, 2020, 90.29423113118766, 105.4210526315791]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/Bloom/2/pwquality2.conf[866, 2034, 90.96089779785433, 106.15789473684227]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/Bloom/2/pwquality3.conf[868, 2048, 91.627564464521, 106.89473684210543]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/Bloom/2/pwquality4.conf[870, 2062, 92.29423113118767, 107.6315789473686]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/Cohere/2/pwquality0.conf[872, 2076, 92.96089779785434, 108.36842105263176]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/Cohere/2/pwquality1.conf[879, 2090, 93.62756446452101, 109.10526315789492]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/Cohere/2/pwquality2.conf[886, 2104, 94.29423113118769, 109.84210526315809]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/Cohere/2/pwquality3.conf[893, 2118, 94.96089779785436, 110.57894736842125]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/Cohere/2/pwquality4.conf[907, 2132, 95.62756446452103, 111.31578947368442]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/DeepSeek/2/pwquality0.conf[926, 2146, 96.2942311311877, 112.05263157894758]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/DeepSeek/2/pwquality1.conf[929, 2158, 96.86565970261627, 112.68421052631601]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/DeepSeek/2/pwquality2.conf[931, 2173, 97.57994541690198, 113.47368421052653]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/DeepSeek/2/pwquality3.conf[933, 2190, 98.38946922642579, 114.36842105263179]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/DeepSeek/2/pwquality4.conf[935, 2207, 99.1989930359496, 115.26315789473705]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/Gemini/2/pwquality0.conf[937, 2224, 100.00851684547341, 116.15789473684231]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/Gemini/2/pwquality1.conf[940, 2244, 100.96089779785436, 117.15789473684231]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/Gemini/2/pwquality2.conf[943, 2257, 101.57994541690198, 117.8421052631581]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/Gemini/2/pwquality3.conf[948, 2270, 102.1989930359496, 118.5263157894739]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/Gemini/2/pwquality4.conf[953, 2288, 103.05613589309246, 119.47368421052653]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/GPT 4o-Mini/2/pwquality0.conf[955, 2309, 104.05613589309246, 120.47368421052653]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/GPT 4o-Mini/2/pwquality1.conf[958, 2325, 104.81804065499722, 121.31578947368442]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/GPT 4o-Mini/2/pwquality2.conf[961, 2338, 105.43708827404484, 122.00000000000021]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/GPT 4o-Mini/2/pwquality3.conf[964, 2354, 106.1989930359496, 122.8421052631581]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/GPT 4o-Mini/2/pwquality4.conf[967, 2370, 106.96089779785436, 123.684210526316]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/GPT o3-Mini/2/pwquality0.conf[970, 2386, 107.72280255975912, 124.52631578947388]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/GPT o3-Mini/2/pwquality1.conf[972, 2402, 108.48470732166388, 125.36842105263177]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/GPT o3-Mini/2/pwquality2.conf[975, 2418, 109.24661208356864, 126.21052631578966]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/GPT o3-Mini/2/pwquality3.conf[977, 2434, 110.0085168454734, 127.05263157894755]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/GPT o3-Mini/2/pwquality4.conf[980, 2447, 110.62756446452101, 127.73684210526335]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/Llama3/2/pwquality0.conf[983, 2460, 111.24661208356864, 128.42105263157913]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/Llama3/2/pwquality1.conf[993, 2471, 111.77042160737815, 129.00000000000017]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/Llama3/2/pwquality2.conf[1000, 2485, 112.43708827404483, 129.73684210526332]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/Llama3/2/pwquality3.conf[1009, 2498, 113.05613589309245, 130.4210526315791]
+---------------------------------------
+./Responses/Gemini/2/pwquality4.conf./Responses/Llama3/2/pwquality4.conf[1018, 2511, 113.67518351214007, 131.10526315789488]
+---------------------------------------

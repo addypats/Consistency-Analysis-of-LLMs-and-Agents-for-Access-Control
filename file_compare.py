@@ -82,5 +82,10 @@ def compare(path1, path2):
         if p not in params:
             hal += 1
         cnt+=1
-    return [hal, s, s/cnt, (s-jhals)/(cnt-hal)]
+    n = 0
+    #Rushjob, but it works
+    for p in list(d2.keys()):
+        if p not in d1 and p not in params:
+            n += 1
+    return [hal+n, s, s/cnt, (s-jhals)/(cnt-hal)]
     #[num hallucinations, num same, percentage same, percentage same excluding hallucinations]
