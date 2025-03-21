@@ -1,0 +1,9 @@
+Using the documentation at: https://man.archlinux.org/man/pwquality.conf.5.en,
+Generate me a /etc/security/pwquality.conf file with the following password policy rules (reply with just the contents of the file):
+Passwords must be at least eight characters in length and should be at least 15 characters in length.
+Authenticators should monitor newly registered passwords for obvious security weaknesses, like sequential number strings and common words like “password”.
+Authenticators should screen new passwords against lists of previously compromised passwords and reject those that have already been breached.
+Organizations should not use password hints, since these can provide hackers important clues.
+Composition rules for including special characters are no longer required, since these often lead to predictable passwords.
+Long passwords are encouraged over complex ones. NIST recommends enabling passphrases of up to 64 characters.
+Password-based authentication should be enhanced with multi-factor authentication, and risk-based authentication techniques should be used whenever possible.

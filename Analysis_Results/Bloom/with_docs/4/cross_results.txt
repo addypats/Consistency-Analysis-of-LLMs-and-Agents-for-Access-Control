@@ -1,0 +1,350 @@
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/Bloom/with_docs/4/pwquality0.conf[0, 0, 0, 0]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/Bloom/with_docs/4/pwquality1.conf[0, 19, 1.0, 1.0]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/Bloom/with_docs/4/pwquality2.conf[0, 38, 2.0, 2.0]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/Bloom/with_docs/4/pwquality3.conf[0, 57, 3.0, 3.0]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/Bloom/with_docs/4/pwquality4.conf[0, 76, 4.0, 4.0]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/Cohere/with_docs/4/pwquality0.conf[0, 95, 5.0, 5.0]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/Cohere/with_docs/4/pwquality1.conf[2, 114, 6.0, 6.0]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/Cohere/with_docs/4/pwquality2.conf[4, 133, 7.0, 7.0]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/Cohere/with_docs/4/pwquality3.conf[6, 152, 8.0, 8.0]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/Cohere/with_docs/4/pwquality4.conf[10, 171, 9.0, 9.0]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/DeepSeek/with_docs/4/pwquality0.conf[17, 190, 10.0, 10.0]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/DeepSeek/with_docs/4/pwquality1.conf[22, 202, 10.631578947368421, 10.631578947368421]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/DeepSeek/with_docs/4/pwquality2.conf[23, 221, 11.631578947368421, 11.631578947368421]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/DeepSeek/with_docs/4/pwquality3.conf[32, 236, 12.421052631578947, 12.421052631578947]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/DeepSeek/with_docs/4/pwquality4.conf[33, 249, 13.105263157894736, 13.105263157894736]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/Gemini/with_docs/4/pwquality0.conf[35, 268, 14.105263157894736, 14.105263157894736]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/Gemini/with_docs/4/pwquality1.conf[35, 283, 14.894736842105262, 14.894736842105262]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/Gemini/with_docs/4/pwquality2.conf[37, 301, 15.842105263157894, 15.842105263157894]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/Gemini/with_docs/4/pwquality3.conf[41, 316, 16.63157894736842, 16.63157894736842]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/Gemini/with_docs/4/pwquality4.conf[41, 331, 17.42105263157895, 17.42105263157895]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/GPT 4o-Mini/with_docs/4/pwquality0.conf[44, 350, 18.42105263157895, 18.42105263157895]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/GPT 4o-Mini/with_docs/4/pwquality1.conf[44, 369, 19.42105263157895, 19.42105263157895]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/GPT 4o-Mini/with_docs/4/pwquality2.conf[45, 388, 20.42105263157895, 20.42105263157895]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/GPT 4o-Mini/with_docs/4/pwquality3.conf[45, 405, 21.315789473684212, 21.315789473684212]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/GPT 4o-Mini/with_docs/4/pwquality4.conf[45, 424, 22.315789473684212, 22.315789473684212]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/GPT o3-Mini/with_docs/4/pwquality0.conf[45, 443, 23.315789473684212, 23.315789473684212]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/GPT o3-Mini/with_docs/4/pwquality1.conf[45, 461, 24.263157894736842, 24.263157894736842]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/GPT o3-Mini/with_docs/4/pwquality2.conf[45, 480, 25.263157894736842, 25.263157894736842]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/GPT o3-Mini/with_docs/4/pwquality3.conf[45, 499, 26.263157894736842, 26.263157894736842]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/GPT o3-Mini/with_docs/4/pwquality4.conf[45, 518, 27.263157894736842, 27.263157894736842]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/Llama3/with_docs/4/pwquality0.conf[47, 537, 28.263157894736842, 28.263157894736842]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/Llama3/with_docs/4/pwquality1.conf[55, 556, 29.263157894736842, 29.263157894736842]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/Llama3/with_docs/4/pwquality2.conf[59, 572, 30.105263157894736, 30.105263157894736]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/Llama3/with_docs/4/pwquality3.conf[67, 590, 31.052631578947366, 31.052631578947366]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality0.conf./Responses/Llama3/with_docs/4/pwquality4.conf[81, 609, 32.05263157894737, 32.05263157894737]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/Bloom/with_docs/4/pwquality0.conf[88, 625, 32.89473684210527, 32.89473684210527]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/Bloom/with_docs/4/pwquality1.conf[88, 644, 33.89473684210527, 33.89473684210527]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/Bloom/with_docs/4/pwquality2.conf[88, 663, 34.89473684210527, 34.89473684210527]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/Bloom/with_docs/4/pwquality3.conf[88, 682, 35.89473684210527, 35.89473684210527]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/Bloom/with_docs/4/pwquality4.conf[88, 701, 36.89473684210527, 36.89473684210527]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/Cohere/with_docs/4/pwquality0.conf[88, 720, 37.89473684210527, 37.89473684210527]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/Cohere/with_docs/4/pwquality1.conf[90, 739, 38.89473684210527, 38.89473684210527]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/Cohere/with_docs/4/pwquality2.conf[92, 758, 39.89473684210527, 39.89473684210527]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/Cohere/with_docs/4/pwquality3.conf[94, 777, 40.89473684210527, 40.89473684210527]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/Cohere/with_docs/4/pwquality4.conf[98, 796, 41.89473684210527, 41.89473684210527]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/DeepSeek/with_docs/4/pwquality0.conf[105, 815, 42.89473684210527, 42.89473684210527]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/DeepSeek/with_docs/4/pwquality1.conf[110, 827, 43.526315789473685, 43.526315789473685]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/DeepSeek/with_docs/4/pwquality2.conf[111, 846, 44.526315789473685, 44.526315789473685]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/DeepSeek/with_docs/4/pwquality3.conf[120, 861, 45.31578947368421, 45.31578947368421]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/DeepSeek/with_docs/4/pwquality4.conf[121, 874, 46.0, 46.0]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/Gemini/with_docs/4/pwquality0.conf[123, 893, 47.0, 47.0]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/Gemini/with_docs/4/pwquality1.conf[123, 908, 47.78947368421053, 47.78947368421053]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/Gemini/with_docs/4/pwquality2.conf[125, 926, 48.73684210526316, 48.73684210526316]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/Gemini/with_docs/4/pwquality3.conf[129, 941, 49.526315789473685, 49.526315789473685]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/Gemini/with_docs/4/pwquality4.conf[129, 956, 50.31578947368421, 50.31578947368421]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/GPT 4o-Mini/with_docs/4/pwquality0.conf[132, 975, 51.31578947368421, 51.31578947368421]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/GPT 4o-Mini/with_docs/4/pwquality1.conf[132, 994, 52.31578947368421, 52.31578947368421]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/GPT 4o-Mini/with_docs/4/pwquality2.conf[133, 1013, 53.31578947368421, 53.31578947368421]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/GPT 4o-Mini/with_docs/4/pwquality3.conf[133, 1030, 54.21052631578947, 54.21052631578947]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/GPT 4o-Mini/with_docs/4/pwquality4.conf[133, 1049, 55.21052631578947, 55.21052631578947]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/GPT o3-Mini/with_docs/4/pwquality0.conf[133, 1068, 56.21052631578947, 56.21052631578947]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/GPT o3-Mini/with_docs/4/pwquality1.conf[133, 1086, 57.1578947368421, 57.1578947368421]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/GPT o3-Mini/with_docs/4/pwquality2.conf[133, 1105, 58.1578947368421, 58.1578947368421]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/GPT o3-Mini/with_docs/4/pwquality3.conf[133, 1124, 59.1578947368421, 59.1578947368421]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/GPT o3-Mini/with_docs/4/pwquality4.conf[133, 1143, 60.1578947368421, 60.1578947368421]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/Llama3/with_docs/4/pwquality0.conf[135, 1162, 61.1578947368421, 61.1578947368421]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/Llama3/with_docs/4/pwquality1.conf[143, 1181, 62.1578947368421, 62.1578947368421]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/Llama3/with_docs/4/pwquality2.conf[147, 1197, 63.0, 63.0]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/Llama3/with_docs/4/pwquality3.conf[155, 1215, 63.94736842105263, 63.94736842105263]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality1.conf./Responses/Llama3/with_docs/4/pwquality4.conf[169, 1234, 64.94736842105263, 64.94736842105263]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/Bloom/with_docs/4/pwquality0.conf[176, 1250, 65.78947368421052, 65.78947368421052]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/Bloom/with_docs/4/pwquality1.conf[176, 1269, 66.78947368421052, 66.78947368421052]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/Bloom/with_docs/4/pwquality2.conf[176, 1288, 67.78947368421052, 67.78947368421052]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/Bloom/with_docs/4/pwquality3.conf[176, 1307, 68.78947368421052, 68.78947368421052]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/Bloom/with_docs/4/pwquality4.conf[176, 1326, 69.78947368421052, 69.78947368421052]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/Cohere/with_docs/4/pwquality0.conf[176, 1345, 70.78947368421052, 70.78947368421052]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/Cohere/with_docs/4/pwquality1.conf[178, 1364, 71.78947368421052, 71.78947368421052]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/Cohere/with_docs/4/pwquality2.conf[180, 1383, 72.78947368421052, 72.78947368421052]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/Cohere/with_docs/4/pwquality3.conf[182, 1402, 73.78947368421052, 73.78947368421052]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/Cohere/with_docs/4/pwquality4.conf[186, 1421, 74.78947368421052, 74.78947368421052]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/DeepSeek/with_docs/4/pwquality0.conf[193, 1440, 75.78947368421052, 75.78947368421052]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/DeepSeek/with_docs/4/pwquality1.conf[198, 1452, 76.42105263157895, 76.42105263157895]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/DeepSeek/with_docs/4/pwquality2.conf[199, 1471, 77.42105263157895, 77.42105263157895]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/DeepSeek/with_docs/4/pwquality3.conf[208, 1486, 78.21052631578947, 78.21052631578947]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/DeepSeek/with_docs/4/pwquality4.conf[209, 1499, 78.89473684210526, 78.89473684210526]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/Gemini/with_docs/4/pwquality0.conf[211, 1518, 79.89473684210526, 79.89473684210526]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/Gemini/with_docs/4/pwquality1.conf[211, 1533, 80.68421052631578, 80.68421052631578]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/Gemini/with_docs/4/pwquality2.conf[213, 1551, 81.63157894736841, 81.63157894736841]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/Gemini/with_docs/4/pwquality3.conf[217, 1566, 82.42105263157893, 82.42105263157893]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/Gemini/with_docs/4/pwquality4.conf[217, 1581, 83.21052631578945, 83.21052631578945]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/GPT 4o-Mini/with_docs/4/pwquality0.conf[220, 1600, 84.21052631578945, 84.21052631578945]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/GPT 4o-Mini/with_docs/4/pwquality1.conf[220, 1619, 85.21052631578945, 85.21052631578945]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/GPT 4o-Mini/with_docs/4/pwquality2.conf[221, 1638, 86.21052631578945, 86.21052631578945]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/GPT 4o-Mini/with_docs/4/pwquality3.conf[221, 1655, 87.10526315789471, 87.10526315789471]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/GPT 4o-Mini/with_docs/4/pwquality4.conf[221, 1674, 88.10526315789471, 88.10526315789471]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/GPT o3-Mini/with_docs/4/pwquality0.conf[221, 1693, 89.10526315789471, 89.10526315789471]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/GPT o3-Mini/with_docs/4/pwquality1.conf[221, 1711, 90.05263157894734, 90.05263157894734]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/GPT o3-Mini/with_docs/4/pwquality2.conf[221, 1730, 91.05263157894734, 91.05263157894734]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/GPT o3-Mini/with_docs/4/pwquality3.conf[221, 1749, 92.05263157894734, 92.05263157894734]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/GPT o3-Mini/with_docs/4/pwquality4.conf[221, 1768, 93.05263157894734, 93.05263157894734]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/Llama3/with_docs/4/pwquality0.conf[223, 1787, 94.05263157894734, 94.05263157894734]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/Llama3/with_docs/4/pwquality1.conf[231, 1806, 95.05263157894734, 95.05263157894734]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/Llama3/with_docs/4/pwquality2.conf[235, 1822, 95.89473684210523, 95.89473684210523]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/Llama3/with_docs/4/pwquality3.conf[243, 1840, 96.84210526315786, 96.84210526315786]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality2.conf./Responses/Llama3/with_docs/4/pwquality4.conf[257, 1859, 97.84210526315786, 97.84210526315786]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/Bloom/with_docs/4/pwquality0.conf[264, 1875, 98.68421052631575, 98.68421052631575]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/Bloom/with_docs/4/pwquality1.conf[264, 1894, 99.68421052631575, 99.68421052631575]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/Bloom/with_docs/4/pwquality2.conf[264, 1913, 100.68421052631575, 100.68421052631575]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/Bloom/with_docs/4/pwquality3.conf[264, 1932, 101.68421052631575, 101.68421052631575]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/Bloom/with_docs/4/pwquality4.conf[264, 1951, 102.68421052631575, 102.68421052631575]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/Cohere/with_docs/4/pwquality0.conf[264, 1970, 103.68421052631575, 103.68421052631575]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/Cohere/with_docs/4/pwquality1.conf[266, 1989, 104.68421052631575, 104.68421052631575]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/Cohere/with_docs/4/pwquality2.conf[268, 2008, 105.68421052631575, 105.68421052631575]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/Cohere/with_docs/4/pwquality3.conf[270, 2027, 106.68421052631575, 106.68421052631575]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/Cohere/with_docs/4/pwquality4.conf[274, 2046, 107.68421052631575, 107.68421052631575]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/DeepSeek/with_docs/4/pwquality0.conf[281, 2065, 108.68421052631575, 108.68421052631575]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/DeepSeek/with_docs/4/pwquality1.conf[286, 2077, 109.31578947368418, 109.31578947368418]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/DeepSeek/with_docs/4/pwquality2.conf[287, 2096, 110.31578947368418, 110.31578947368418]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/DeepSeek/with_docs/4/pwquality3.conf[296, 2111, 111.1052631578947, 111.1052631578947]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/DeepSeek/with_docs/4/pwquality4.conf[297, 2124, 111.78947368421049, 111.78947368421049]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/Gemini/with_docs/4/pwquality0.conf[299, 2143, 112.78947368421049, 112.78947368421049]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/Gemini/with_docs/4/pwquality1.conf[299, 2158, 113.57894736842101, 113.57894736842101]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/Gemini/with_docs/4/pwquality2.conf[301, 2176, 114.52631578947364, 114.52631578947364]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/Gemini/with_docs/4/pwquality3.conf[305, 2191, 115.31578947368416, 115.31578947368416]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/Gemini/with_docs/4/pwquality4.conf[305, 2206, 116.10526315789468, 116.10526315789468]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/GPT 4o-Mini/with_docs/4/pwquality0.conf[308, 2225, 117.10526315789468, 117.10526315789468]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/GPT 4o-Mini/with_docs/4/pwquality1.conf[308, 2244, 118.10526315789468, 118.10526315789468]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/GPT 4o-Mini/with_docs/4/pwquality2.conf[309, 2263, 119.10526315789468, 119.10526315789468]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/GPT 4o-Mini/with_docs/4/pwquality3.conf[309, 2280, 119.99999999999994, 119.99999999999994]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/GPT 4o-Mini/with_docs/4/pwquality4.conf[309, 2299, 120.99999999999994, 120.99999999999994]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/GPT o3-Mini/with_docs/4/pwquality0.conf[309, 2318, 121.99999999999994, 121.99999999999994]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/GPT o3-Mini/with_docs/4/pwquality1.conf[309, 2336, 122.94736842105257, 122.94736842105257]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/GPT o3-Mini/with_docs/4/pwquality2.conf[309, 2355, 123.94736842105257, 123.94736842105257]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/GPT o3-Mini/with_docs/4/pwquality3.conf[309, 2374, 124.94736842105257, 124.94736842105257]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/GPT o3-Mini/with_docs/4/pwquality4.conf[309, 2393, 125.94736842105257, 125.94736842105257]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/Llama3/with_docs/4/pwquality0.conf[311, 2412, 126.94736842105257, 126.94736842105257]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/Llama3/with_docs/4/pwquality1.conf[319, 2431, 127.94736842105257, 127.94736842105257]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/Llama3/with_docs/4/pwquality2.conf[323, 2447, 128.78947368421046, 128.78947368421046]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/Llama3/with_docs/4/pwquality3.conf[331, 2465, 129.7368421052631, 129.7368421052631]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality3.conf./Responses/Llama3/with_docs/4/pwquality4.conf[345, 2484, 130.7368421052631, 130.7368421052631]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/Bloom/with_docs/4/pwquality0.conf[352, 2500, 131.57894736842098, 131.57894736842098]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/Bloom/with_docs/4/pwquality1.conf[352, 2519, 132.57894736842098, 132.57894736842098]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/Bloom/with_docs/4/pwquality2.conf[352, 2538, 133.57894736842098, 133.57894736842098]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/Bloom/with_docs/4/pwquality3.conf[352, 2557, 134.57894736842098, 134.57894736842098]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/Bloom/with_docs/4/pwquality4.conf[352, 2576, 135.57894736842098, 135.57894736842098]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/Cohere/with_docs/4/pwquality0.conf[352, 2595, 136.57894736842098, 136.57894736842098]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/Cohere/with_docs/4/pwquality1.conf[354, 2614, 137.57894736842098, 137.57894736842098]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/Cohere/with_docs/4/pwquality2.conf[356, 2633, 138.57894736842098, 138.57894736842098]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/Cohere/with_docs/4/pwquality3.conf[358, 2652, 139.57894736842098, 139.57894736842098]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/Cohere/with_docs/4/pwquality4.conf[362, 2671, 140.57894736842098, 140.57894736842098]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/DeepSeek/with_docs/4/pwquality0.conf[369, 2690, 141.57894736842098, 141.57894736842098]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/DeepSeek/with_docs/4/pwquality1.conf[374, 2702, 142.2105263157894, 142.2105263157894]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/DeepSeek/with_docs/4/pwquality2.conf[375, 2721, 143.2105263157894, 143.2105263157894]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/DeepSeek/with_docs/4/pwquality3.conf[384, 2736, 143.99999999999991, 143.99999999999991]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/DeepSeek/with_docs/4/pwquality4.conf[385, 2749, 144.6842105263157, 144.6842105263157]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/Gemini/with_docs/4/pwquality0.conf[387, 2768, 145.6842105263157, 145.6842105263157]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/Gemini/with_docs/4/pwquality1.conf[387, 2783, 146.47368421052622, 146.47368421052622]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/Gemini/with_docs/4/pwquality2.conf[389, 2801, 147.42105263157885, 147.42105263157885]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/Gemini/with_docs/4/pwquality3.conf[393, 2816, 148.21052631578937, 148.21052631578937]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/Gemini/with_docs/4/pwquality4.conf[393, 2831, 148.9999999999999, 148.9999999999999]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/GPT 4o-Mini/with_docs/4/pwquality0.conf[396, 2850, 149.9999999999999, 149.9999999999999]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/GPT 4o-Mini/with_docs/4/pwquality1.conf[396, 2869, 150.9999999999999, 150.9999999999999]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/GPT 4o-Mini/with_docs/4/pwquality2.conf[397, 2888, 151.9999999999999, 151.9999999999999]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/GPT 4o-Mini/with_docs/4/pwquality3.conf[397, 2905, 152.89473684210515, 152.89473684210515]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/GPT 4o-Mini/with_docs/4/pwquality4.conf[397, 2924, 153.89473684210515, 153.89473684210515]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/GPT o3-Mini/with_docs/4/pwquality0.conf[397, 2943, 154.89473684210515, 154.89473684210515]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/GPT o3-Mini/with_docs/4/pwquality1.conf[397, 2961, 155.84210526315778, 155.84210526315778]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/GPT o3-Mini/with_docs/4/pwquality2.conf[397, 2980, 156.84210526315778, 156.84210526315778]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/GPT o3-Mini/with_docs/4/pwquality3.conf[397, 2999, 157.84210526315778, 157.84210526315778]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/GPT o3-Mini/with_docs/4/pwquality4.conf[397, 3018, 158.84210526315778, 158.84210526315778]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/Llama3/with_docs/4/pwquality0.conf[399, 3037, 159.84210526315778, 159.84210526315778]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/Llama3/with_docs/4/pwquality1.conf[407, 3056, 160.84210526315778, 160.84210526315778]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/Llama3/with_docs/4/pwquality2.conf[411, 3072, 161.68421052631567, 161.68421052631567]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/Llama3/with_docs/4/pwquality3.conf[419, 3090, 162.6315789473683, 162.6315789473683]
+---------------------------------------
+./Responses/Bloom/with_docs/4/pwquality4.conf./Responses/Llama3/with_docs/4/pwquality4.conf[433, 3109, 163.6315789473683, 163.6315789473683]
+---------------------------------------

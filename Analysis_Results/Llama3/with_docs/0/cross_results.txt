@@ -1,0 +1,350 @@
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/Bloom/with_docs/0/pwquality0.conf[0, 0, 0, 0]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/Bloom/with_docs/0/pwquality1.conf[5, 17, 0.7083333333333334, 0.8947368421052632]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/Bloom/with_docs/0/pwquality2.conf[10, 34, 1.4166666666666667, 1.7894736842105263]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/Bloom/with_docs/0/pwquality3.conf[15, 51, 2.125, 2.6842105263157894]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/Bloom/with_docs/0/pwquality4.conf[20, 68, 2.8333333333333335, 3.5789473684210527]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/Cohere/with_docs/0/pwquality0.conf[25, 85, 3.541666666666667, 4.473684210526316]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/Cohere/with_docs/0/pwquality1.conf[38, 103, 4.291666666666667, 5.421052631578948]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/Cohere/with_docs/0/pwquality2.conf[48, 121, 5.041666666666667, 6.36842105263158]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/Cohere/with_docs/0/pwquality3.conf[53, 138, 5.75, 7.2631578947368425]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/Cohere/with_docs/0/pwquality4.conf[63, 156, 6.5, 8.210526315789474]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/DeepSeek/with_docs/0/pwquality0.conf[75, 174, 7.25, 9.157894736842106]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/DeepSeek/with_docs/0/pwquality1.conf[82, 187, 7.791666666666667, 9.842105263157896]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/DeepSeek/with_docs/0/pwquality2.conf[89, 204, 8.5, 10.73684210526316]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/DeepSeek/with_docs/0/pwquality3.conf[97, 216, 9.0, 11.36842105263158]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/DeepSeek/with_docs/0/pwquality4.conf[105, 228, 9.5, 12.000000000000002]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/Gemini/with_docs/0/pwquality0.conf[112, 241, 10.041666666666666, 12.684210526315791]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/Gemini/with_docs/0/pwquality1.conf[119, 254, 10.583333333333332, 13.36842105263158]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/Gemini/with_docs/0/pwquality2.conf[127, 267, 11.124999999999998, 14.05263157894737]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/Gemini/with_docs/0/pwquality3.conf[135, 279, 11.624999999999998, 14.684210526315791]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/Gemini/with_docs/0/pwquality4.conf[142, 291, 12.124999999999998, 15.315789473684212]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/GPT 4o-Mini/with_docs/0/pwquality0.conf[149, 305, 12.708333333333332, 16.05263157894737]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/GPT 4o-Mini/with_docs/0/pwquality1.conf[155, 320, 13.333333333333332, 16.842105263157897]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/GPT 4o-Mini/with_docs/0/pwquality2.conf[162, 335, 13.958333333333332, 17.631578947368425]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/GPT 4o-Mini/with_docs/0/pwquality3.conf[168, 348, 14.499999999999998, 18.315789473684216]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/GPT 4o-Mini/with_docs/0/pwquality4.conf[174, 363, 15.124999999999998, 19.105263157894743]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/GPT o3-Mini/with_docs/0/pwquality0.conf[180, 378, 15.749999999999998, 19.89473684210527]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/GPT o3-Mini/with_docs/0/pwquality1.conf[186, 393, 16.375, 20.6842105263158]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/GPT o3-Mini/with_docs/0/pwquality2.conf[192, 409, 17.041666666666668, 21.526315789473692]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/GPT o3-Mini/with_docs/0/pwquality3.conf[199, 424, 17.666666666666668, 22.31578947368422]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/GPT o3-Mini/with_docs/0/pwquality4.conf[206, 439, 18.291666666666668, 23.105263157894747]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/Llama3/with_docs/0/pwquality0.conf[212, 453, 18.875, 23.842105263157904]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/Llama3/with_docs/0/pwquality1.conf[217, 477, 19.875, 24.842105263157904]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/Llama3/with_docs/0/pwquality2.conf[225, 492, 20.5, 25.631578947368432]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/Llama3/with_docs/0/pwquality3.conf[241, 509, 21.208333333333332, 26.526315789473696]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality0.conf./Responses/Llama3/with_docs/0/pwquality4.conf[248, 527, 21.958333333333332, 27.473684210526326]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/Bloom/with_docs/0/pwquality0.conf[260, 544, 22.666666666666664, 28.36842105263159]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/Bloom/with_docs/0/pwquality1.conf[263, 559, 23.348484848484848, 29.157894736842117]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/Bloom/with_docs/0/pwquality2.conf[266, 574, 24.03030303030303, 29.947368421052644]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/Bloom/with_docs/0/pwquality3.conf[269, 589, 24.712121212121215, 30.73684210526317]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/Bloom/with_docs/0/pwquality4.conf[272, 604, 25.393939393939398, 31.5263157894737]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/Cohere/with_docs/0/pwquality0.conf[275, 619, 26.07575757575758, 32.31578947368423]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/Cohere/with_docs/0/pwquality1.conf[286, 635, 26.803030303030308, 33.157894736842124]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/Cohere/with_docs/0/pwquality2.conf[294, 651, 27.530303030303035, 34.00000000000002]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/Cohere/with_docs/0/pwquality3.conf[297, 666, 28.212121212121218, 34.78947368421055]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/Cohere/with_docs/0/pwquality4.conf[305, 682, 28.939393939393945, 35.631578947368446]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/DeepSeek/with_docs/0/pwquality0.conf[315, 698, 29.66666666666667, 36.47368421052634]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/DeepSeek/with_docs/0/pwquality1.conf[320, 708, 30.121212121212125, 37.00000000000003]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/DeepSeek/with_docs/0/pwquality2.conf[325, 723, 30.803030303030308, 37.789473684210556]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/DeepSeek/with_docs/0/pwquality3.conf[331, 732, 31.212121212121218, 38.26315789473687]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/DeepSeek/with_docs/0/pwquality4.conf[337, 745, 31.803030303030308, 38.94736842105266]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/Gemini/with_docs/0/pwquality0.conf[342, 758, 32.3939393939394, 39.631578947368446]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/Gemini/with_docs/0/pwquality1.conf[347, 772, 33.03030303030303, 40.368421052631604]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/Gemini/with_docs/0/pwquality2.conf[353, 786, 33.666666666666664, 41.10526315789476]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/Gemini/with_docs/0/pwquality3.conf[359, 797, 34.166666666666664, 41.684210526315816]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/Gemini/with_docs/0/pwquality4.conf[364, 810, 34.75757575757576, 42.368421052631604]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/GPT 4o-Mini/with_docs/0/pwquality0.conf[369, 828, 35.57575757575758, 43.315789473684234]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/GPT 4o-Mini/with_docs/0/pwquality1.conf[373, 842, 36.21212121212121, 44.05263157894739]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/GPT 4o-Mini/with_docs/0/pwquality2.conf[378, 857, 36.89393939393939, 44.84210526315792]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/GPT 4o-Mini/with_docs/0/pwquality3.conf[382, 871, 37.530303030303024, 45.578947368421076]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/GPT 4o-Mini/with_docs/0/pwquality4.conf[386, 885, 38.16666666666666, 46.315789473684234]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/GPT o3-Mini/with_docs/0/pwquality0.conf[390, 899, 38.80303030303029, 47.05263157894739]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/GPT o3-Mini/with_docs/0/pwquality1.conf[394, 913, 39.43939393939392, 47.78947368421055]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/GPT o3-Mini/with_docs/0/pwquality2.conf[398, 928, 40.1212121212121, 48.578947368421076]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/GPT o3-Mini/with_docs/0/pwquality3.conf[403, 942, 40.75757575757574, 49.315789473684234]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/GPT o3-Mini/with_docs/0/pwquality4.conf[408, 956, 41.39393939393937, 50.05263157894739]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/Llama3/with_docs/0/pwquality0.conf[412, 970, 42.030303030303, 50.78947368421055]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/Llama3/with_docs/0/pwquality1.conf[420, 985, 42.71212121212118, 51.578947368421076]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/Llama3/with_docs/0/pwquality2.conf[423, 1007, 43.71212121212118, 52.578947368421076]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/Llama3/with_docs/0/pwquality3.conf[435, 1023, 44.43939393939391, 53.368421052631604]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality1.conf./Responses/Llama3/with_docs/0/pwquality4.conf[440, 1039, 45.166666666666636, 54.2105263157895]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/Bloom/with_docs/0/pwquality0.conf[449, 1055, 45.89393939393936, 55.00000000000003]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/Bloom/with_docs/0/pwquality1.conf[460, 1074, 46.527272727272695, 56.00000000000003]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/Bloom/with_docs/0/pwquality2.conf[471, 1093, 47.16060606060603, 57.00000000000003]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/Bloom/with_docs/0/pwquality3.conf[482, 1112, 47.79393939393936, 58.00000000000003]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/Bloom/with_docs/0/pwquality4.conf[493, 1131, 48.427272727272694, 59.00000000000003]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/Cohere/with_docs/0/pwquality0.conf[504, 1150, 49.06060606060603, 60.00000000000003]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/Cohere/with_docs/0/pwquality1.conf[523, 1168, 49.66060606060603, 60.94736842105266]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/Cohere/with_docs/0/pwquality2.conf[539, 1186, 50.26060606060603, 61.89473684210529]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/Cohere/with_docs/0/pwquality3.conf[550, 1205, 50.89393939393936, 62.89473684210529]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/Cohere/with_docs/0/pwquality4.conf[566, 1223, 51.493939393939364, 63.84210526315792]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/DeepSeek/with_docs/0/pwquality0.conf[584, 1241, 52.093939393939365, 64.78947368421055]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/DeepSeek/with_docs/0/pwquality1.conf[597, 1253, 52.493939393939364, 65.42105263157897]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/DeepSeek/with_docs/0/pwquality2.conf[610, 1270, 53.060606060606034, 66.31578947368423]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/DeepSeek/with_docs/0/pwquality3.conf[624, 1281, 53.4272727272727, 66.89473684210529]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/DeepSeek/with_docs/0/pwquality4.conf[638, 1293, 53.8272727272727, 67.52631578947371]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/Gemini/with_docs/0/pwquality0.conf[651, 1305, 54.2272727272727, 68.15789473684214]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/Gemini/with_docs/0/pwquality1.conf[664, 1318, 54.66060606060603, 68.84210526315793]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/Gemini/with_docs/0/pwquality2.conf[678, 1331, 55.09393939393936, 69.52631578947373]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/Gemini/with_docs/0/pwquality3.conf[692, 1341, 55.427272727272694, 70.05263157894741]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/Gemini/with_docs/0/pwquality4.conf[705, 1353, 55.82727272727269, 70.68421052631584]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/GPT 4o-Mini/with_docs/0/pwquality0.conf[718, 1367, 56.29393939393936, 71.421052631579]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/GPT 4o-Mini/with_docs/0/pwquality1.conf[730, 1382, 56.79393939393936, 72.21052631578952]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/GPT 4o-Mini/with_docs/0/pwquality2.conf[743, 1397, 57.29393939393936, 73.00000000000004]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/GPT 4o-Mini/with_docs/0/pwquality3.conf[755, 1410, 57.72727272727269, 73.68421052631584]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/GPT 4o-Mini/with_docs/0/pwquality4.conf[767, 1425, 58.22727272727269, 74.47368421052636]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/GPT o3-Mini/with_docs/0/pwquality0.conf[779, 1440, 58.72727272727269, 75.26315789473688]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/GPT o3-Mini/with_docs/0/pwquality1.conf[791, 1455, 59.22727272727269, 76.0526315789474]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/GPT o3-Mini/with_docs/0/pwquality2.conf[803, 1471, 59.76060606060602, 76.89473684210529]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/GPT o3-Mini/with_docs/0/pwquality3.conf[816, 1486, 60.26060606060602, 77.68421052631581]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/GPT o3-Mini/with_docs/0/pwquality4.conf[829, 1501, 60.76060606060602, 78.47368421052633]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/Llama3/with_docs/0/pwquality0.conf[841, 1515, 61.22727272727269, 79.2105263157895]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/Llama3/with_docs/0/pwquality1.conf[857, 1532, 61.79393939393936, 80.10526315789475]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/Llama3/with_docs/0/pwquality2.conf[869, 1548, 62.32727272727269, 80.89473684210527]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/Llama3/with_docs/0/pwquality3.conf[880, 1578, 63.32727272727269, 81.89473684210527]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality2.conf./Responses/Llama3/with_docs/0/pwquality4.conf[893, 1596, 63.927272727272694, 82.8421052631579]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/Bloom/with_docs/0/pwquality0.conf[910, 1615, 64.56060606060603, 83.78947368421053]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/Bloom/with_docs/0/pwquality1.conf[912, 1633, 65.4177489177489, 84.73684210526316]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/Bloom/with_docs/0/pwquality2.conf[914, 1651, 66.27489177489176, 85.6842105263158]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/Bloom/with_docs/0/pwquality3.conf[916, 1669, 67.13203463203462, 86.63157894736842]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/Bloom/with_docs/0/pwquality4.conf[918, 1687, 67.98917748917748, 87.57894736842105]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/Cohere/with_docs/0/pwquality0.conf[920, 1705, 68.84632034632034, 88.52631578947368]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/Cohere/with_docs/0/pwquality1.conf[930, 1724, 69.75108225108224, 89.52631578947368]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/Cohere/with_docs/0/pwquality2.conf[937, 1743, 70.65584415584414, 90.52631578947368]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/Cohere/with_docs/0/pwquality3.conf[939, 1761, 71.512987012987, 91.47368421052632]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/Cohere/with_docs/0/pwquality4.conf[946, 1780, 72.4177489177489, 92.47368421052632]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/DeepSeek/with_docs/0/pwquality0.conf[955, 1799, 73.3225108225108, 93.47368421052632]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/DeepSeek/with_docs/0/pwquality1.conf[959, 1812, 73.94155844155841, 94.15789473684211]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/DeepSeek/with_docs/0/pwquality2.conf[963, 1830, 74.79870129870127, 95.10526315789474]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/DeepSeek/with_docs/0/pwquality3.conf[968, 1842, 75.37012987012984, 95.73684210526316]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/DeepSeek/with_docs/0/pwquality4.conf[973, 1855, 75.98917748917746, 96.42105263157896]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/Gemini/with_docs/0/pwquality0.conf[977, 1868, 76.60822510822508, 97.10526315789475]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/Gemini/with_docs/0/pwquality1.conf[981, 1882, 77.27489177489176, 97.84210526315792]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/Gemini/with_docs/0/pwquality2.conf[986, 1896, 77.94155844155843, 98.57894736842108]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/Gemini/with_docs/0/pwquality3.conf[991, 1907, 78.46536796536795, 99.15789473684214]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/Gemini/with_docs/0/pwquality4.conf[995, 1920, 79.08441558441557, 99.84210526315793]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/GPT 4o-Mini/with_docs/0/pwquality0.conf[999, 1935, 79.79870129870127, 100.63157894736845]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/GPT 4o-Mini/with_docs/0/pwquality1.conf[1002, 1951, 80.56060606060603, 101.47368421052634]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/GPT 4o-Mini/with_docs/0/pwquality2.conf[1006, 1967, 81.3225108225108, 102.31578947368423]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/GPT 4o-Mini/with_docs/0/pwquality3.conf[1009, 1981, 81.98917748917746, 103.0526315789474]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/GPT 4o-Mini/with_docs/0/pwquality4.conf[1012, 1997, 82.75108225108222, 103.89473684210529]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/GPT o3-Mini/with_docs/0/pwquality0.conf[1015, 2013, 83.51298701298698, 104.73684210526318]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/GPT o3-Mini/with_docs/0/pwquality1.conf[1018, 2029, 84.27489177489174, 105.57894736842107]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/GPT o3-Mini/with_docs/0/pwquality2.conf[1021, 2046, 85.08441558441555, 106.47368421052633]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/GPT o3-Mini/with_docs/0/pwquality3.conf[1025, 2062, 85.84632034632031, 107.31578947368422]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/GPT o3-Mini/with_docs/0/pwquality4.conf[1029, 2078, 86.60822510822507, 108.15789473684211]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/Llama3/with_docs/0/pwquality0.conf[1032, 2093, 87.32251082251078, 108.94736842105263]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/Llama3/with_docs/0/pwquality1.conf[1039, 2111, 88.17965367965364, 109.89473684210526]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/Llama3/with_docs/0/pwquality2.conf[1044, 2127, 88.9415584415584, 110.73684210526315]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/Llama3/with_docs/0/pwquality3.conf[1057, 2145, 89.79870129870126, 111.68421052631578]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality3.conf./Responses/Llama3/with_docs/0/pwquality4.conf[1059, 2166, 90.79870129870126, 112.68421052631578]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/Bloom/with_docs/0/pwquality0.conf[1068, 2184, 91.65584415584412, 113.63157894736841]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/Bloom/with_docs/0/pwquality1.conf[1075, 2202, 92.34815184815182, 114.57894736842104]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/Bloom/with_docs/0/pwquality2.conf[1082, 2220, 93.04045954045951, 115.52631578947367]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/Bloom/with_docs/0/pwquality3.conf[1089, 2238, 93.7327672327672, 116.4736842105263]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/Bloom/with_docs/0/pwquality4.conf[1096, 2256, 94.4250749250749, 117.42105263157893]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/Cohere/with_docs/0/pwquality0.conf[1103, 2274, 95.11738261738259, 118.36842105263156]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/Cohere/with_docs/0/pwquality1.conf[1118, 2292, 95.80969030969028, 119.31578947368419]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/Cohere/with_docs/0/pwquality2.conf[1130, 2310, 96.50199800199798, 120.26315789473682]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/Cohere/with_docs/0/pwquality3.conf[1137, 2328, 97.19430569430567, 121.21052631578945]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/Cohere/with_docs/0/pwquality4.conf[1149, 2346, 97.88661338661336, 122.15789473684208]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/DeepSeek/with_docs/0/pwquality0.conf[1163, 2364, 98.57892107892106, 123.10526315789471]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/DeepSeek/with_docs/0/pwquality1.conf[1172, 2376, 99.04045954045952, 123.73684210526314]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/DeepSeek/with_docs/0/pwquality2.conf[1181, 2393, 99.69430569430568, 124.6315789473684]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/DeepSeek/with_docs/0/pwquality3.conf[1191, 2404, 100.1173826173826, 125.21052631578945]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/DeepSeek/with_docs/0/pwquality4.conf[1201, 2416, 100.57892107892107, 125.84210526315788]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/Gemini/with_docs/0/pwquality0.conf[1210, 2428, 101.04045954045954, 126.4736842105263]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/Gemini/with_docs/0/pwquality1.conf[1219, 2441, 101.54045954045954, 127.1578947368421]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/Gemini/with_docs/0/pwquality2.conf[1229, 2454, 102.04045954045954, 127.84210526315789]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/Gemini/with_docs/0/pwquality3.conf[1239, 2464, 102.42507492507492, 128.36842105263156]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/Gemini/with_docs/0/pwquality4.conf[1248, 2476, 102.88661338661339, 128.99999999999997]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/GPT 4o-Mini/with_docs/0/pwquality0.conf[1257, 2490, 103.42507492507492, 129.73684210526312]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/GPT 4o-Mini/with_docs/0/pwquality1.conf[1264, 2506, 104.04045954045954, 130.52631578947364]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/GPT 4o-Mini/with_docs/0/pwquality2.conf[1272, 2522, 104.65584415584415, 131.31578947368416]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/GPT 4o-Mini/with_docs/0/pwquality3.conf[1279, 2536, 105.19430569430568, 131.99999999999994]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/GPT 4o-Mini/with_docs/0/pwquality4.conf[1287, 2551, 105.77122877122876, 132.78947368421046]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/GPT o3-Mini/with_docs/0/pwquality0.conf[1294, 2567, 106.38661338661338, 133.57894736842098]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/GPT o3-Mini/with_docs/0/pwquality1.conf[1301, 2583, 107.00199800199799, 134.3684210526315]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/GPT o3-Mini/with_docs/0/pwquality2.conf[1308, 2600, 107.65584415584415, 135.2105263157894]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/GPT o3-Mini/with_docs/0/pwquality3.conf[1316, 2616, 108.27122877122876, 135.99999999999991]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/GPT o3-Mini/with_docs/0/pwquality4.conf[1324, 2632, 108.88661338661338, 136.78947368421044]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/Llama3/with_docs/0/pwquality0.conf[1331, 2647, 109.46353646353646, 137.52631578947359]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/Llama3/with_docs/0/pwquality1.conf[1343, 2664, 110.11738261738262, 138.42105263157885]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/Llama3/with_docs/0/pwquality2.conf[1352, 2680, 110.73276723276723, 139.21052631578937]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/Llama3/with_docs/0/pwquality3.conf[1369, 2699, 111.46353646353646, 140.157894736842]
+---------------------------------------
+./Responses/Llama3/with_docs/0/pwquality4.conf./Responses/Llama3/with_docs/0/pwquality4.conf[1378, 2717, 112.15584415584415, 141.10526315789463]
+---------------------------------------

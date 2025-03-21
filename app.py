@@ -8,8 +8,8 @@ load_dotenv()
 #Keeps track of whether we're generating or analyzing, maybe make interactive later.
 
 # mode = 'generate'
-
 mode = 'analyze'
+
 overwrite = False
 dirs = [name for name in os.listdir("./Responses") if os.path.isdir(os.path.join("./Responses", name))]
 pfiles = [name for name in os.listdir("./Prompts")]
@@ -27,8 +27,8 @@ if mode == 'generate':
     
     iterations = 5 
     cnt = 0
-    #Originally I'd store every prompt in one file. This would loop over everything. No need for an outer loop
-    #Will revise to read multiple files instead of using JsonStream
+    #Regular stored under /Responses/LLM/num/
+    #In context learning stored under /Responses/LLM/with_docs/num
     for fl in pfiles:
         print(f"./Prompts/{fl}")
         # p = json.loads(f"./Prompts/{fl}")
@@ -36,18 +36,20 @@ if mode == 'generate':
         # p = str(open(f"./Prompts/{fl}", 'r').read())
         # print(p)
         policies.append(p)
-        prompt = "Generate me a /etc/security/pwquality.conf file with the following password policy rules (reply with just the contents of the file):\n" + p
+        # prompt = "Generate me a /etc/security/pwquality.conf file with the following password policy rules (reply with just the contents of the file):\n" + p
+        prompt = "Using the documentation at: https://man.archlinux.org/man/pwquality.conf.5.en,\nGenerate me a /etc/security/pwquality.conf file with the following password policy rules (reply with just the contents of the file):\n" + p
         for d in dirs:
             
             #idk what to call the folders, so for now I'll just number them and store the prompt in a txt file inside
             #cnt refers to which policy. It'll be 0 for prompt_0, 1 for prompt_1, etc.
-            if not os.path.exists(f"./Responses/{d}/{cnt}/prompt.txt"):
-                os.makedirs(os.path.dirname(f"./Responses/{d}/{cnt}/"), exist_ok=True)
-                f = open(f"./Responses/{d}/{cnt}/prompt.txt", "w")
+            #Next time I should store the path in some kind of variable so I don't have to keep writing it/modify many lines
+            if not os.path.exists(f"./Responses/{d}/with_docs/{cnt}/prompt.txt"):
+                os.makedirs(os.path.dirname(f"./Responses/{d}/with_docs/{cnt}/"), exist_ok=True)
+                f = open(f"./Responses/{d}/with_docs/{cnt}/prompt.txt", "w")
                 f.write(prompt)
                 f.close()
             if overwrite:
-                f = open(f"./Responses/{d}/{cnt}/prompt.txt", "w")
+                f = open(f"./Responses/{d}/with_docs/{cnt}/prompt.txt", "w")
                 f.write(prompt)
                 f.close()
                 
@@ -59,7 +61,7 @@ if mode == 'generate':
                 
                 #Fault tolerance
                 
-                if os.path.exists(f"./Responses/{d}/{cnt}/pwquality{i}.conf") and overwrite == False:
+                if os.path.exists(f"./Responses/{d}/with_docs/{cnt}/pwquality{i}.conf") and overwrite == False:
                     continue
                 resp = ""
                 
@@ -81,7 +83,7 @@ if mode == 'generate':
                     resp = generate_response_Llama(prompt)
                     
                     
-                f = open(f"./Responses/{d}/{cnt}/pwquality{i}.conf", "w", encoding="utf-8")
+                f = open(f"./Responses/{d}/with_docs/{cnt}/pwquality{i}.conf", "w", encoding="utf-8")
                 f.write(resp)
                 f.close()
         cnt+=1
@@ -97,27 +99,27 @@ elif mode == 'analyze':
     cnt = 0
     for fl in pfiles:
         for d in dirs:
-            if not os.path.exists(f"./Analysis_Results/{d}/{cnt}/prompt.txt"):
-                os.makedirs(os.path.dirname(f"./Analysis_Results/{d}/{cnt}/"), exist_ok=True)
-                f = open(f"./Analysis_Results/{d}/{cnt}/prompt.txt", "w")
+            if not os.path.exists(f"./Analysis_Results/{d}/with_docs/{cnt}/prompt.txt"):
+                os.makedirs(os.path.dirname(f"./Analysis_Results/{d}/with_docs/{cnt}/"), exist_ok=True)
+                f = open(f"./Analysis_Results/{d}/with_docs/{cnt}/prompt.txt", "w")
                 f.write(json.load(open(f"./Prompts/{fl}", "r", encoding="utf-8")))
                 f.close()
             if overwrite:
-                f = open(f"./Analysis_Results/{d}/{cnt}/prompt.txt", "w")
+                f = open(f"./Analysis_Results/{d}/with_docs/{cnt}/prompt.txt", "w")
                 f.write(json.load(open(f"./Prompts/{fl}", "r", encoding="utf-8")))
                 f.close()
-            files = [name for name in os.listdir(f"./Responses/{d}/{cnt}") if name != "prompt.txt"]
+            files = [name for name in os.listdir(f"./Responses/{d}/with_docs/{cnt}") if name != "prompt.txt"]
             #Self consistency
-            if not os.path.exists(f"./Analysis_Results/{d}/{cnt}/self_summary.txt") or overwrite:
-                f = open(f"./Analysis_Results/{d}/{cnt}/self_results.txt", 'w')
+            if not os.path.exists(f"./Analysis_Results/{d}/with_docs/{cnt}/self_summary.txt") or overwrite:
+                f = open(f"./Analysis_Results/{d}/with_docs/{cnt}/self_results.txt", 'w')
                 f.close()
-                f = open(f"./Analysis_Results/{d}/{cnt}/self_results.txt", 'a')
+                f = open(f"./Analysis_Results/{d}/with_docs/{cnt}/self_results.txt", 'a')
                 fin = [0, 0, 0, 0]
                 for i in range(len(files)):
                     for j in range(i + 1, len(files)):
-                        temp = compare(f"./Responses/{d}/{cnt}/pwquality{i}.conf", f"./Responses/{d}/{cnt}/pwquality{j}.conf")
-                        f.write(f"./Responses/{d}/{cnt}/pwquality{i}.conf")
-                        f.write(f"./Responses/{d}/{cnt}/pwquality{j}.conf")
+                        temp = compare(f"./Responses/{d}/with_docs/{cnt}/pwquality{i}.conf", f"./Responses/{d}/with_docs/{cnt}/pwquality{j}.conf")
+                        f.write(f"./Responses/{d}/with_docs/{cnt}/pwquality{i}.conf")
+                        f.write(f"./Responses/{d}/with_docs/{cnt}/pwquality{j}.conf")
                         print(fin, file=f)
                         # f.write(fin)
                         f.write("---------------------------------------")
@@ -127,25 +129,25 @@ elif mode == 'analyze':
                         fin[2] += temp[2]
                         fin[3] += temp[3]
                 f.close()
-                f = open(f"./Analysis_Results/{d}/{cnt}/self_summary.txt", 'w')
+                f = open(f"./Analysis_Results/{d}/with_docs/{cnt}/self_summary.txt", 'w')
                 sm = len(files)*((len(files)-1)/2)
                 print([fin[0]/(2*sm), fin[1]/sm, fin[2]/sm, fin[3]/sm], file=f)
                 f.close()
             
             #Cross consistency
             #Will take a decent bit longer
-            if not os.path.exists(f"./Analysis_Results/{d}/{cnt}/cross_summary.txt") or overwrite:
-                f = open(f"./Analysis_Results/{d}/{cnt}/cross_results.txt", 'w')
+            if not os.path.exists(f"./Analysis_Results/{d}/with_docs/{cnt}/cross_summary.txt") or overwrite:
+                f = open(f"./Analysis_Results/{d}/with_docs/{cnt}/cross_results.txt", 'w')
                 f.close()
-                f = open(f"./Analysis_Results/{d}/{cnt}/cross_results.txt", 'a')
+                f = open(f"./Analysis_Results/{d}/with_docs/{cnt}/cross_results.txt", 'a')
                 fin = [0, 0, 0, 0]
                 
                 for i in range(len(files)):
                     for nd in dirs:
                         for j in range(len(files)):
-                            temp = compare(f"./Responses/{d}/{cnt}/pwquality{i}.conf", f"./Responses/{nd}/{cnt}/pwquality{j}.conf")
-                            f.write(f"./Responses/{d}/{cnt}/pwquality{i}.conf")
-                            f.write(f"./Responses/{nd}/{cnt}/pwquality{j}.conf")
+                            temp = compare(f"./Responses/{d}/with_docs/{cnt}/pwquality{i}.conf", f"./Responses/{nd}/with_docs/{cnt}/pwquality{j}.conf")
+                            f.write(f"./Responses/{d}/with_docs/{cnt}/pwquality{i}.conf")
+                            f.write(f"./Responses/{nd}/with_docs/{cnt}/pwquality{j}.conf")
                             print(fin, file=f)
                             # f.write(fin)
                             f.write("---------------------------------------")
@@ -155,7 +157,7 @@ elif mode == 'analyze':
                             fin[2] += temp[2]
                             fin[3] += temp[3]
                 f.close()
-                f = open(f"./Analysis_Results/{d}/{cnt}/cross_summary.txt", 'w')
+                f = open(f"./Analysis_Results/{d}/with_docs/{cnt}/cross_summary.txt", 'w')
                 sm = len(files)*len(dirs)*len(files)
                 print([fin[0]/(2*sm), fin[1]/sm, fin[2]/sm, fin[3]/sm], file=f)
                 f.close()

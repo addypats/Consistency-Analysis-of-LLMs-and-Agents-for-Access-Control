@@ -1,0 +1,350 @@
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/Bloom/with_docs/1/pwquality0.conf[0, 0, 0, 0]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/Bloom/with_docs/1/pwquality1.conf[2, 15, 0.7142857142857143, 0.7894736842105263]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/Bloom/with_docs/1/pwquality2.conf[4, 30, 1.4285714285714286, 1.5789473684210527]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/Bloom/with_docs/1/pwquality3.conf[6, 45, 2.142857142857143, 2.3684210526315788]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/Bloom/with_docs/1/pwquality4.conf[8, 60, 2.857142857142857, 3.1578947368421053]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/Cohere/with_docs/1/pwquality0.conf[10, 75, 3.5714285714285716, 3.947368421052632]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/Cohere/with_docs/1/pwquality1.conf[21, 89, 4.238095238095238, 4.684210526315789]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/Cohere/with_docs/1/pwquality2.conf[41, 99, 4.714285714285714, 5.2105263157894735]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/Cohere/with_docs/1/pwquality3.conf[49, 109, 5.190476190476191, 5.7368421052631575]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/Cohere/with_docs/1/pwquality4.conf[63, 121, 5.761904761904762, 6.315789473684211]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/DeepSeek/with_docs/1/pwquality0.conf[139, 131, 6.238095238095238, 6.842105263157895]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/DeepSeek/with_docs/1/pwquality1.conf[141, 152, 7.238095238095238, 7.842105263157895]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/DeepSeek/with_docs/1/pwquality2.conf[145, 171, 8.142857142857142, 8.736842105263158]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/DeepSeek/with_docs/1/pwquality3.conf[148, 187, 8.904761904761905, 9.526315789473683]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/DeepSeek/with_docs/1/pwquality4.conf[151, 202, 9.619047619047619, 10.26315789473684]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/Gemini/with_docs/1/pwquality0.conf[154, 215, 10.238095238095237, 10.894736842105262]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/Gemini/with_docs/1/pwquality1.conf[159, 228, 10.857142857142856, 11.526315789473683]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/Gemini/with_docs/1/pwquality2.conf[164, 243, 11.57142857142857, 12.26315789473684]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/Gemini/with_docs/1/pwquality3.conf[172, 259, 12.333333333333332, 13.052631578947366]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/Gemini/with_docs/1/pwquality4.conf[177, 269, 12.809523809523808, 13.578947368421051]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/GPT 4o-Mini/with_docs/1/pwquality0.conf[183, 283, 13.476190476190474, 14.315789473684209]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/GPT 4o-Mini/with_docs/1/pwquality1.conf[185, 297, 14.14285714285714, 15.052631578947366]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/GPT 4o-Mini/with_docs/1/pwquality2.conf[187, 311, 14.809523809523807, 15.789473684210524]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/GPT 4o-Mini/with_docs/1/pwquality3.conf[189, 325, 15.476190476190473, 16.52631578947368]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/GPT 4o-Mini/with_docs/1/pwquality4.conf[191, 340, 16.190476190476186, 17.26315789473684]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/GPT o3-Mini/with_docs/1/pwquality0.conf[194, 355, 16.9047619047619, 17.999999999999996]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/GPT o3-Mini/with_docs/1/pwquality1.conf[196, 368, 17.523809523809522, 18.684210526315788]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/GPT o3-Mini/with_docs/1/pwquality2.conf[199, 383, 18.238095238095237, 19.421052631578945]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/GPT o3-Mini/with_docs/1/pwquality3.conf[201, 398, 18.952380952380953, 20.210526315789473]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/GPT o3-Mini/with_docs/1/pwquality4.conf[203, 413, 19.666666666666668, 20.94736842105263]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/Llama3/with_docs/1/pwquality0.conf[205, 428, 20.380952380952383, 21.736842105263158]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/Llama3/with_docs/1/pwquality1.conf[209, 442, 21.04761904761905, 22.473684210526315]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/Llama3/with_docs/1/pwquality2.conf[220, 457, 21.761904761904766, 23.263157894736842]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/Llama3/with_docs/1/pwquality3.conf[226, 472, 22.47619047619048, 24.05263157894737]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/Llama3/with_docs/1/pwquality4.conf[231, 485, 23.095238095238102, 24.73684210526316]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/Bloom/with_docs/1/pwquality0.conf[237, 500, 23.809523809523817, 25.52631578947369]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/Bloom/with_docs/1/pwquality1.conf[241, 516, 24.50517598343686, 26.368421052631582]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/Bloom/with_docs/1/pwquality2.conf[245, 532, 25.200828157349903, 27.210526315789476]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/Bloom/with_docs/1/pwquality3.conf[249, 548, 25.896480331262946, 28.05263157894737]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/Bloom/with_docs/1/pwquality4.conf[253, 564, 26.59213250517599, 28.894736842105264]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/Cohere/with_docs/1/pwquality0.conf[257, 580, 27.287784679089032, 29.736842105263158]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/Cohere/with_docs/1/pwquality1.conf[270, 595, 27.93995859213251, 30.526315789473685]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/Cohere/with_docs/1/pwquality2.conf[292, 606, 28.418219461697728, 31.105263157894736]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/Cohere/with_docs/1/pwquality3.conf[302, 617, 28.896480331262946, 31.684210526315788]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/Cohere/with_docs/1/pwquality4.conf[318, 629, 29.418219461697728, 32.26315789473684]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/DeepSeek/with_docs/1/pwquality0.conf[396, 640, 29.896480331262946, 32.8421052631579]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/DeepSeek/with_docs/1/pwquality1.conf[400, 659, 30.722567287784685, 33.73684210526316]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/DeepSeek/with_docs/1/pwquality2.conf[404, 682, 31.722567287784685, 34.73684210526316]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/DeepSeek/with_docs/1/pwquality3.conf[409, 699, 32.461697722567294, 35.578947368421055]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/DeepSeek/with_docs/1/pwquality4.conf[414, 715, 33.15734989648034, 36.36842105263158]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/Gemini/with_docs/1/pwquality0.conf[418, 730, 33.80952380952382, 37.05263157894737]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/Gemini/with_docs/1/pwquality1.conf[425, 744, 34.41821946169773, 37.73684210526316]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/Gemini/with_docs/1/pwquality2.conf[432, 760, 35.11387163561078, 38.526315789473685]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/Gemini/with_docs/1/pwquality3.conf[442, 777, 35.85300207039339, 39.36842105263158]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/Gemini/with_docs/1/pwquality4.conf[449, 788, 36.331262939958606, 39.94736842105264]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/GPT 4o-Mini/with_docs/1/pwquality0.conf[457, 803, 36.98343685300208, 40.736842105263165]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/GPT 4o-Mini/with_docs/1/pwquality1.conf[461, 819, 37.67908902691513, 41.57894736842106]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/GPT 4o-Mini/with_docs/1/pwquality2.conf[465, 834, 38.331262939958606, 42.36842105263159]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/GPT 4o-Mini/with_docs/1/pwquality3.conf[469, 849, 38.98343685300208, 43.15789473684212]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/GPT 4o-Mini/with_docs/1/pwquality4.conf[473, 865, 39.67908902691513, 43.947368421052644]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/GPT o3-Mini/with_docs/1/pwquality0.conf[478, 881, 40.374741200828176, 44.73684210526317]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/GPT o3-Mini/with_docs/1/pwquality1.conf[482, 895, 40.98343685300209, 45.47368421052633]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/GPT o3-Mini/with_docs/1/pwquality2.conf[487, 912, 41.7225672877847, 46.31578947368423]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/GPT o3-Mini/with_docs/1/pwquality3.conf[491, 928, 42.418219461697745, 47.157894736842124]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/GPT o3-Mini/with_docs/1/pwquality4.conf[495, 944, 43.11387163561079, 47.94736842105265]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/Llama3/with_docs/1/pwquality0.conf[499, 960, 43.80952380952384, 48.78947368421055]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/Llama3/with_docs/1/pwquality1.conf[505, 975, 44.461697722567315, 49.578947368421076]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/Llama3/with_docs/1/pwquality2.conf[518, 991, 45.15734989648036, 50.42105263157897]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/Llama3/with_docs/1/pwquality3.conf[526, 1007, 45.85300207039341, 51.26315789473687]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/Llama3/with_docs/1/pwquality4.conf[533, 1021, 46.46169772256732, 52.00000000000003]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/Bloom/with_docs/1/pwquality0.conf[541, 1037, 47.15734989648037, 52.842105263157926]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/Bloom/with_docs/1/pwquality1.conf[543, 1052, 47.871635610766084, 53.63157894736845]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/Bloom/with_docs/1/pwquality2.conf[545, 1067, 48.5859213250518, 54.42105263157898]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/Bloom/with_docs/1/pwquality3.conf[547, 1082, 49.300207039337515, 55.21052631578951]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/Bloom/with_docs/1/pwquality4.conf[549, 1097, 50.01449275362323, 56.000000000000036]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/Cohere/with_docs/1/pwquality0.conf[551, 1112, 50.728778467908946, 56.78947368421056]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/Cohere/with_docs/1/pwquality1.conf[562, 1126, 51.39544513457561, 57.52631578947372]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/Cohere/with_docs/1/pwquality2.conf[582, 1136, 51.871635610766084, 58.052631578947405]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/Cohere/with_docs/1/pwquality3.conf[590, 1146, 52.34782608695656, 58.57894736842109]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/Cohere/with_docs/1/pwquality4.conf[604, 1157, 52.871635610766084, 59.105263157894775]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/DeepSeek/with_docs/1/pwquality0.conf[680, 1167, 53.34782608695656, 59.63157894736846]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/DeepSeek/with_docs/1/pwquality1.conf[683, 1183, 54.10973084886132, 60.42105263157899]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/DeepSeek/with_docs/1/pwquality2.conf[688, 1200, 54.91925465838513, 61.263157894736885]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/DeepSeek/with_docs/1/pwquality3.conf[690, 1221, 55.91925465838513, 62.263157894736885]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/DeepSeek/with_docs/1/pwquality4.conf[694, 1236, 56.63354037267084, 63.00000000000004]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/Gemini/with_docs/1/pwquality0.conf[697, 1249, 57.252587991718464, 63.63157894736846]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/Gemini/with_docs/1/pwquality1.conf[702, 1262, 57.871635610766084, 64.26315789473688]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/Gemini/with_docs/1/pwquality2.conf[707, 1277, 58.5859213250518, 65.00000000000004]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/Gemini/with_docs/1/pwquality3.conf[715, 1293, 59.34782608695656, 65.78947368421056]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/Gemini/with_docs/1/pwquality4.conf[720, 1303, 59.82401656314703, 66.31578947368425]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/GPT 4o-Mini/with_docs/1/pwquality0.conf[726, 1317, 60.4906832298137, 67.05263157894741]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/GPT 4o-Mini/with_docs/1/pwquality1.conf[728, 1332, 61.20496894409941, 67.84210526315793]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/GPT 4o-Mini/with_docs/1/pwquality2.conf[730, 1346, 61.87163561076608, 68.5789473684211]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/GPT 4o-Mini/with_docs/1/pwquality3.conf[732, 1360, 62.53830227743274, 69.31578947368426]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/GPT 4o-Mini/with_docs/1/pwquality4.conf[734, 1375, 63.25258799171846, 70.05263157894743]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/GPT o3-Mini/with_docs/1/pwquality0.conf[737, 1390, 63.96687370600417, 70.78947368421059]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/GPT o3-Mini/with_docs/1/pwquality1.conf[739, 1403, 64.58592132505179, 71.47368421052639]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/GPT o3-Mini/with_docs/1/pwquality2.conf[742, 1419, 65.34782608695654, 72.2631578947369]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/GPT o3-Mini/with_docs/1/pwquality3.conf[744, 1434, 66.06211180124225, 73.05263157894743]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/GPT o3-Mini/with_docs/1/pwquality4.conf[746, 1449, 66.77639751552796, 73.78947368421059]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/Llama3/with_docs/1/pwquality0.conf[748, 1464, 67.49068322981367, 74.57894736842111]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/Llama3/with_docs/1/pwquality1.conf[753, 1478, 68.15734989648034, 75.31578947368428]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/Llama3/with_docs/1/pwquality2.conf[764, 1493, 68.87163561076605, 76.1052631578948]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/Llama3/with_docs/1/pwquality3.conf[770, 1508, 69.58592132505176, 76.89473684210532]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/Llama3/with_docs/1/pwquality4.conf[775, 1521, 70.20496894409938, 77.57894736842111]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/Bloom/with_docs/1/pwquality0.conf[781, 1536, 70.91925465838509, 78.36842105263163]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/Bloom/with_docs/1/pwquality1.conf[784, 1554, 71.7374364765669, 79.31578947368426]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/Bloom/with_docs/1/pwquality2.conf[787, 1572, 72.55561829474871, 80.26315789473689]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/Bloom/with_docs/1/pwquality3.conf[790, 1590, 73.37380011293052, 81.21052631578952]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/Bloom/with_docs/1/pwquality4.conf[793, 1608, 74.19198193111234, 82.15789473684215]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/Cohere/with_docs/1/pwquality0.conf[796, 1626, 75.01016374929415, 83.10526315789478]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/Cohere/with_docs/1/pwquality1.conf[808, 1645, 75.87380011293051, 84.10526315789478]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/Cohere/with_docs/1/pwquality2.conf[829, 1660, 76.5556182947487, 84.8947368421053]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/Cohere/with_docs/1/pwquality3.conf[838, 1675, 77.23743647656688, 85.68421052631582]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/Cohere/with_docs/1/pwquality4.conf[853, 1690, 77.91925465838507, 86.42105263157899]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/DeepSeek/with_docs/1/pwquality0.conf[930, 1705, 78.60107284020326, 87.21052631578951]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/DeepSeek/with_docs/1/pwquality1.conf[933, 1720, 79.28289102202145, 87.94736842105267]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/DeepSeek/with_docs/1/pwquality2.conf[938, 1736, 80.01016374929418, 88.7368421052632]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/DeepSeek/with_docs/1/pwquality3.conf[942, 1751, 80.69198193111237, 89.47368421052636]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/DeepSeek/with_docs/1/pwquality4.conf[945, 1773, 81.69198193111237, 90.47368421052636]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/Gemini/with_docs/1/pwquality0.conf[949, 1789, 82.4192546583851, 91.26315789473688]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/Gemini/with_docs/1/pwquality1.conf[955, 1805, 83.14652738565783, 92.0526315789474]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/Gemini/with_docs/1/pwquality2.conf[961, 1823, 83.96470920383965, 92.94736842105266]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/Gemini/with_docs/1/pwquality3.conf[970, 1842, 84.828345567476, 93.89473684210529]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/Gemini/with_docs/1/pwquality4.conf[976, 1857, 85.5101637492942, 94.68421052631581]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/GPT 4o-Mini/with_docs/1/pwquality0.conf[983, 1874, 86.28289102202146, 95.57894736842107]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/GPT 4o-Mini/with_docs/1/pwquality1.conf[986, 1892, 87.10107284020327, 96.5263157894737]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/GPT 4o-Mini/with_docs/1/pwquality2.conf[989, 1911, 87.96470920383963, 97.5263157894737]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/GPT 4o-Mini/with_docs/1/pwquality3.conf[992, 1930, 88.82834556747599, 98.5263157894737]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/GPT 4o-Mini/with_docs/1/pwquality4.conf[995, 1950, 89.7374364765669, 99.5263157894737]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/GPT o3-Mini/with_docs/1/pwquality0.conf[999, 1970, 90.6465273856578, 100.5263157894737]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/GPT o3-Mini/with_docs/1/pwquality1.conf[1002, 1988, 91.46470920383962, 101.47368421052633]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/GPT o3-Mini/with_docs/1/pwquality2.conf[1006, 2007, 92.32834556747598, 102.42105263157896]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/GPT o3-Mini/with_docs/1/pwquality3.conf[1009, 2024, 93.10107284020324, 103.31578947368422]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/GPT o3-Mini/with_docs/1/pwquality4.conf[1012, 2044, 94.01016374929415, 104.31578947368422]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/Llama3/with_docs/1/pwquality0.conf[1015, 2062, 94.82834556747596, 105.26315789473685]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/Llama3/with_docs/1/pwquality1.conf[1020, 2081, 95.69198193111232, 106.26315789473685]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/Llama3/with_docs/1/pwquality2.conf[1032, 2099, 96.51016374929414, 107.21052631578948]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/Llama3/with_docs/1/pwquality3.conf[1039, 2117, 97.32834556747595, 108.15789473684211]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/Llama3/with_docs/1/pwquality4.conf[1045, 2133, 98.05561829474868, 109.0]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/Bloom/with_docs/1/pwquality0.conf[1052, 2151, 98.8738001129305, 109.94736842105263]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/Bloom/with_docs/1/pwquality1.conf[1054, 2165, 99.54046677959717, 110.6842105263158]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/Bloom/with_docs/1/pwquality2.conf[1056, 2179, 100.20713344626384, 111.42105263157896]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/Bloom/with_docs/1/pwquality3.conf[1058, 2193, 100.87380011293051, 112.15789473684212]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/Bloom/with_docs/1/pwquality4.conf[1060, 2207, 101.54046677959718, 112.89473684210529]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/Cohere/with_docs/1/pwquality0.conf[1062, 2221, 102.20713344626385, 113.63157894736845]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/Cohere/with_docs/1/pwquality1.conf[1073, 2236, 102.92141916054956, 114.42105263157897]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/Cohere/with_docs/1/pwquality2.conf[1093, 2247, 103.44522868435908, 115.00000000000003]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/Cohere/with_docs/1/pwquality3.conf[1101, 2258, 103.9690382081686, 115.57894736842108]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/Cohere/with_docs/1/pwquality4.conf[1115, 2269, 104.49284773197812, 116.10526315789477]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/DeepSeek/with_docs/1/pwquality0.conf[1191, 2280, 105.01665725578763, 116.68421052631582]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/DeepSeek/with_docs/1/pwquality1.conf[1194, 2293, 105.63570487483526, 117.31578947368425]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/DeepSeek/with_docs/1/pwquality2.conf[1198, 2308, 106.34999058912096, 118.00000000000004]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/DeepSeek/with_docs/1/pwquality3.conf[1201, 2321, 106.96903820816858, 118.63157894736847]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/DeepSeek/with_docs/1/pwquality4.conf[1205, 2337, 107.73094297007334, 119.42105263157899]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/Gemini/with_docs/1/pwquality0.conf[1207, 2358, 108.73094297007334, 120.42105263157899]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/Gemini/with_docs/1/pwquality1.conf[1212, 2370, 109.30237154150191, 121.00000000000004]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/Gemini/with_docs/1/pwquality2.conf[1217, 2384, 109.96903820816858, 121.68421052631584]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/Gemini/with_docs/1/pwquality3.conf[1225, 2399, 110.68332392245429, 122.421052631579]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/Gemini/with_docs/1/pwquality4.conf[1230, 2410, 111.20713344626381, 123.00000000000006]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/GPT 4o-Mini/with_docs/1/pwquality0.conf[1236, 2423, 111.82618106531143, 123.68421052631585]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/GPT 4o-Mini/with_docs/1/pwquality1.conf[1238, 2437, 112.4928477319781, 124.42105263157902]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/GPT 4o-Mini/with_docs/1/pwquality2.conf[1240, 2452, 113.20713344626381, 125.21052631578954]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/GPT 4o-Mini/with_docs/1/pwquality3.conf[1242, 2467, 113.92141916054952, 126.00000000000006]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/GPT 4o-Mini/with_docs/1/pwquality4.conf[1244, 2483, 114.68332392245428, 126.78947368421058]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/GPT o3-Mini/with_docs/1/pwquality0.conf[1247, 2499, 115.44522868435904, 127.5789473684211]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/GPT o3-Mini/with_docs/1/pwquality1.conf[1249, 2514, 116.15951439864475, 128.36842105263162]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/GPT o3-Mini/with_docs/1/pwquality2.conf[1252, 2529, 116.87380011293045, 129.10526315789477]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/GPT o3-Mini/with_docs/1/pwquality3.conf[1254, 2542, 117.49284773197807, 129.78947368421055]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/GPT o3-Mini/with_docs/1/pwquality4.conf[1256, 2558, 118.25475249388283, 130.57894736842107]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/Llama3/with_docs/1/pwquality0.conf[1258, 2572, 118.9214191605495, 131.31578947368422]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/Llama3/with_docs/1/pwquality1.conf[1263, 2587, 119.63570487483521, 132.10526315789474]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/Llama3/with_docs/1/pwquality2.conf[1274, 2601, 120.30237154150188, 132.8421052631579]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/Llama3/with_docs/1/pwquality3.conf[1280, 2615, 120.96903820816856, 133.57894736842104]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality4.conf./Responses/Llama3/with_docs/1/pwquality4.conf[1285, 2628, 121.58808582721618, 134.26315789473682]
+---------------------------------------

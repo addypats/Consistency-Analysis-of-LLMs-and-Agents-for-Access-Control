@@ -1,0 +1,350 @@
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/Bloom/with_docs/3/pwquality0.conf[0, 0, 0, 0]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/Bloom/with_docs/3/pwquality1.conf[1, 18, 0.9, 0.9473684210526315]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/Bloom/with_docs/3/pwquality2.conf[2, 36, 1.8, 1.894736842105263]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/Bloom/with_docs/3/pwquality3.conf[3, 54, 2.7, 2.8421052631578947]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/Bloom/with_docs/3/pwquality4.conf[4, 72, 3.6, 3.789473684210526]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/Cohere/with_docs/3/pwquality0.conf[5, 90, 4.5, 4.7368421052631575]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/Cohere/with_docs/3/pwquality1.conf[8, 107, 5.35, 5.63157894736842]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/Cohere/with_docs/3/pwquality2.conf[9, 125, 6.25, 6.578947368421052]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/Cohere/with_docs/3/pwquality3.conf[10, 143, 7.15, 7.526315789473684]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/Cohere/with_docs/3/pwquality4.conf[11, 161, 8.05, 8.473684210526315]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/DeepSeek/with_docs/3/pwquality0.conf[12, 179, 8.950000000000001, 9.421052631578947]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/DeepSeek/with_docs/3/pwquality1.conf[13, 198, 9.9, 10.421052631578947]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/DeepSeek/with_docs/3/pwquality2.conf[14, 217, 10.85, 11.421052631578947]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/DeepSeek/with_docs/3/pwquality3.conf[15, 236, 11.799999999999999, 12.421052631578947]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/DeepSeek/with_docs/3/pwquality4.conf[16, 255, 12.749999999999998, 13.421052631578947]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/Gemini/with_docs/3/pwquality0.conf[17, 274, 13.699999999999998, 14.421052631578947]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/Gemini/with_docs/3/pwquality1.conf[22, 288, 14.399999999999997, 15.157894736842104]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/Gemini/with_docs/3/pwquality2.conf[28, 301, 15.049999999999997, 15.842105263157894]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/Gemini/with_docs/3/pwquality3.conf[30, 318, 15.899999999999997, 16.736842105263158]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/Gemini/with_docs/3/pwquality4.conf[32, 335, 16.749999999999996, 17.63157894736842]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf[34, 349, 17.449999999999996, 18.36842105263158]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf[35, 369, 18.449999999999996, 19.36842105263158]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf[36, 389, 19.449999999999996, 20.36842105263158]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf[37, 408, 20.399999999999995, 21.31578947368421]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf[38, 428, 21.399999999999995, 22.31578947368421]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/GPT o3-Mini/with_docs/3/pwquality0.conf[39, 448, 22.399999999999995, 23.31578947368421]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/GPT o3-Mini/with_docs/3/pwquality1.conf[40, 468, 23.399999999999995, 24.31578947368421]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/GPT o3-Mini/with_docs/3/pwquality2.conf[41, 488, 24.399999999999995, 25.31578947368421]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/GPT o3-Mini/with_docs/3/pwquality3.conf[42, 508, 25.399999999999995, 26.31578947368421]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/GPT o3-Mini/with_docs/3/pwquality4.conf[43, 527, 26.349999999999994, 27.26315789473684]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/Llama3/with_docs/3/pwquality0.conf[44, 546, 27.299999999999994, 28.26315789473684]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/Llama3/with_docs/3/pwquality1.conf[50, 562, 28.099999999999994, 29.105263157894733]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/Llama3/with_docs/3/pwquality2.conf[58, 578, 28.899999999999995, 29.947368421052627]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/Llama3/with_docs/3/pwquality3.conf[62, 594, 29.699999999999996, 30.78947368421052]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf./Responses/Llama3/with_docs/3/pwquality4.conf[66, 607, 30.349999999999994, 31.47368421052631]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/Bloom/with_docs/3/pwquality0.conf[68, 620, 30.999999999999993, 32.1578947368421]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/Bloom/with_docs/3/pwquality1.conf[69, 638, 31.89999999999999, 33.10526315789473]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/Bloom/with_docs/3/pwquality2.conf[70, 656, 32.79999999999999, 34.05263157894736]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/Bloom/with_docs/3/pwquality3.conf[71, 674, 33.69999999999999, 34.99999999999999]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/Bloom/with_docs/3/pwquality4.conf[72, 692, 34.59999999999999, 35.94736842105262]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/Cohere/with_docs/3/pwquality0.conf[73, 710, 35.499999999999986, 36.89473684210525]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/Cohere/with_docs/3/pwquality1.conf[76, 727, 36.34999999999999, 37.78947368421051]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/Cohere/with_docs/3/pwquality2.conf[77, 745, 37.249999999999986, 38.73684210526314]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/Cohere/with_docs/3/pwquality3.conf[78, 763, 38.149999999999984, 39.68421052631577]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/Cohere/with_docs/3/pwquality4.conf[79, 781, 39.04999999999998, 40.6315789473684]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/DeepSeek/with_docs/3/pwquality0.conf[80, 799, 39.94999999999998, 41.578947368421034]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/DeepSeek/with_docs/3/pwquality1.conf[81, 818, 40.899999999999984, 42.578947368421034]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/DeepSeek/with_docs/3/pwquality2.conf[82, 837, 41.84999999999999, 43.578947368421034]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/DeepSeek/with_docs/3/pwquality3.conf[83, 856, 42.79999999999999, 44.578947368421034]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/DeepSeek/with_docs/3/pwquality4.conf[84, 875, 43.74999999999999, 45.578947368421034]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/Gemini/with_docs/3/pwquality0.conf[85, 894, 44.699999999999996, 46.578947368421034]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/Gemini/with_docs/3/pwquality1.conf[90, 908, 45.4, 47.31578947368419]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/Gemini/with_docs/3/pwquality2.conf[96, 921, 46.05, 47.99999999999998]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/Gemini/with_docs/3/pwquality3.conf[98, 938, 46.9, 48.89473684210524]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/Gemini/with_docs/3/pwquality4.conf[100, 955, 47.75, 49.7894736842105]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf[102, 969, 48.45, 50.52631578947366]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf[103, 989, 49.45, 51.52631578947366]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf[104, 1009, 50.45, 52.52631578947366]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf[105, 1028, 51.400000000000006, 53.47368421052629]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf[106, 1048, 52.400000000000006, 54.47368421052629]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/GPT o3-Mini/with_docs/3/pwquality0.conf[107, 1068, 53.400000000000006, 55.47368421052629]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/GPT o3-Mini/with_docs/3/pwquality1.conf[108, 1088, 54.400000000000006, 56.47368421052629]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/GPT o3-Mini/with_docs/3/pwquality2.conf[109, 1108, 55.400000000000006, 57.47368421052629]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/GPT o3-Mini/with_docs/3/pwquality3.conf[110, 1128, 56.400000000000006, 58.47368421052629]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/GPT o3-Mini/with_docs/3/pwquality4.conf[111, 1147, 57.35000000000001, 59.42105263157892]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/Llama3/with_docs/3/pwquality0.conf[112, 1166, 58.30000000000001, 60.42105263157892]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/Llama3/with_docs/3/pwquality1.conf[118, 1182, 59.10000000000001, 61.263157894736814]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/Llama3/with_docs/3/pwquality2.conf[126, 1198, 59.900000000000006, 62.10526315789471]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/Llama3/with_docs/3/pwquality3.conf[130, 1214, 60.7, 62.94736842105261]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf./Responses/Llama3/with_docs/3/pwquality4.conf[134, 1227, 61.35, 63.631578947368396]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/Bloom/with_docs/3/pwquality0.conf[136, 1240, 62.0, 64.31578947368419]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/Bloom/with_docs/3/pwquality1.conf[137, 1257, 62.85, 65.21052631578945]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/Bloom/with_docs/3/pwquality2.conf[138, 1274, 63.7, 66.10526315789471]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/Bloom/with_docs/3/pwquality3.conf[139, 1291, 64.55, 66.99999999999997]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/Bloom/with_docs/3/pwquality4.conf[140, 1308, 65.39999999999999, 67.89473684210523]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/Cohere/with_docs/3/pwquality0.conf[141, 1325, 66.24999999999999, 68.78947368421049]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/Cohere/with_docs/3/pwquality1.conf[144, 1341, 67.04999999999998, 69.63157894736838]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/Cohere/with_docs/3/pwquality2.conf[145, 1358, 67.89999999999998, 70.52631578947364]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/Cohere/with_docs/3/pwquality3.conf[146, 1375, 68.74999999999997, 71.4210526315789]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/Cohere/with_docs/3/pwquality4.conf[147, 1392, 69.59999999999997, 72.31578947368416]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/DeepSeek/with_docs/3/pwquality0.conf[148, 1409, 70.44999999999996, 73.21052631578942]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/DeepSeek/with_docs/3/pwquality1.conf[149, 1427, 71.34999999999997, 74.15789473684205]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/DeepSeek/with_docs/3/pwquality2.conf[150, 1445, 72.24999999999997, 75.10526315789468]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/DeepSeek/with_docs/3/pwquality3.conf[151, 1463, 73.14999999999998, 76.05263157894731]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/DeepSeek/with_docs/3/pwquality4.conf[152, 1481, 74.04999999999998, 76.99999999999994]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/Gemini/with_docs/3/pwquality0.conf[153, 1499, 74.94999999999999, 77.94736842105257]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/Gemini/with_docs/3/pwquality1.conf[158, 1512, 75.6, 78.63157894736837]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/Gemini/with_docs/3/pwquality2.conf[164, 1524, 76.19999999999999, 79.26315789473679]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/Gemini/with_docs/3/pwquality3.conf[166, 1540, 76.99999999999999, 80.10526315789468]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/Gemini/with_docs/3/pwquality4.conf[168, 1556, 77.79999999999998, 80.94736842105257]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf[170, 1569, 78.44999999999999, 81.63157894736837]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf[171, 1588, 79.39999999999999, 82.578947368421]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf[172, 1607, 80.35, 83.52631578947363]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf[173, 1627, 81.35, 84.52631578947363]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf[174, 1646, 82.3, 85.47368421052626]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/GPT o3-Mini/with_docs/3/pwquality0.conf[175, 1665, 83.25, 86.42105263157889]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/GPT o3-Mini/with_docs/3/pwquality1.conf[176, 1684, 84.2, 87.36842105263152]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/GPT o3-Mini/with_docs/3/pwquality2.conf[177, 1703, 85.15, 88.31578947368415]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/GPT o3-Mini/with_docs/3/pwquality3.conf[178, 1722, 86.10000000000001, 89.26315789473678]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/GPT o3-Mini/with_docs/3/pwquality4.conf[179, 1741, 87.05000000000001, 90.21052631578941]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/Llama3/with_docs/3/pwquality0.conf[180, 1759, 87.95000000000002, 91.15789473684204]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/Llama3/with_docs/3/pwquality1.conf[186, 1774, 88.70000000000002, 91.94736842105256]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/Llama3/with_docs/3/pwquality2.conf[194, 1789, 89.45000000000002, 92.73684210526308]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/Llama3/with_docs/3/pwquality3.conf[198, 1805, 90.25000000000001, 93.57894736842097]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf./Responses/Llama3/with_docs/3/pwquality4.conf[202, 1817, 90.85000000000001, 94.2105263157894]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/Bloom/with_docs/3/pwquality0.conf[204, 1829, 91.45, 94.84210526315782]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/Bloom/with_docs/3/pwquality1.conf[205, 1847, 92.35000000000001, 95.78947368421045]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/Bloom/with_docs/3/pwquality2.conf[206, 1865, 93.25000000000001, 96.73684210526308]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/Bloom/with_docs/3/pwquality3.conf[207, 1883, 94.15000000000002, 97.68421052631571]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/Bloom/with_docs/3/pwquality4.conf[208, 1901, 95.05000000000003, 98.63157894736834]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/Cohere/with_docs/3/pwquality0.conf[209, 1919, 95.95000000000003, 99.57894736842097]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/Cohere/with_docs/3/pwquality1.conf[212, 1936, 96.80000000000003, 100.47368421052623]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/Cohere/with_docs/3/pwquality2.conf[213, 1954, 97.70000000000003, 101.42105263157886]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/Cohere/with_docs/3/pwquality3.conf[214, 1972, 98.60000000000004, 102.36842105263149]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/Cohere/with_docs/3/pwquality4.conf[215, 1990, 99.50000000000004, 103.31578947368412]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/DeepSeek/with_docs/3/pwquality0.conf[216, 2008, 100.40000000000005, 104.26315789473675]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/DeepSeek/with_docs/3/pwquality1.conf[217, 2027, 101.35000000000005, 105.26315789473675]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/DeepSeek/with_docs/3/pwquality2.conf[218, 2046, 102.30000000000005, 106.26315789473675]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/DeepSeek/with_docs/3/pwquality3.conf[219, 2065, 103.25000000000006, 107.26315789473675]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/DeepSeek/with_docs/3/pwquality4.conf[220, 2084, 104.20000000000006, 108.26315789473675]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/Gemini/with_docs/3/pwquality0.conf[221, 2103, 105.15000000000006, 109.26315789473675]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/Gemini/with_docs/3/pwquality1.conf[226, 2117, 105.85000000000007, 109.99999999999991]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/Gemini/with_docs/3/pwquality2.conf[232, 2130, 106.50000000000007, 110.68421052631571]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/Gemini/with_docs/3/pwquality3.conf[234, 2147, 107.35000000000007, 111.57894736842097]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/Gemini/with_docs/3/pwquality4.conf[236, 2164, 108.20000000000006, 112.47368421052623]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf[238, 2178, 108.90000000000006, 113.2105263157894]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf[239, 2198, 109.90000000000006, 114.2105263157894]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf[240, 2218, 110.90000000000006, 115.2105263157894]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf[241, 2237, 111.85000000000007, 116.15789473684202]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf[242, 2257, 112.85000000000007, 117.15789473684202]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/GPT o3-Mini/with_docs/3/pwquality0.conf[243, 2277, 113.85000000000007, 118.15789473684202]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/GPT o3-Mini/with_docs/3/pwquality1.conf[244, 2297, 114.85000000000007, 119.15789473684202]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/GPT o3-Mini/with_docs/3/pwquality2.conf[245, 2317, 115.85000000000007, 120.15789473684202]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/GPT o3-Mini/with_docs/3/pwquality3.conf[246, 2337, 116.85000000000007, 121.15789473684202]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/GPT o3-Mini/with_docs/3/pwquality4.conf[247, 2356, 117.80000000000007, 122.10526315789465]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/Llama3/with_docs/3/pwquality0.conf[248, 2375, 118.75000000000007, 123.10526315789465]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/Llama3/with_docs/3/pwquality1.conf[254, 2391, 119.55000000000007, 123.94736842105254]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/Llama3/with_docs/3/pwquality2.conf[262, 2407, 120.35000000000007, 124.78947368421044]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/Llama3/with_docs/3/pwquality3.conf[266, 2423, 121.15000000000006, 125.63157894736833]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf./Responses/Llama3/with_docs/3/pwquality4.conf[270, 2436, 121.80000000000007, 126.31578947368412]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/Bloom/with_docs/3/pwquality0.conf[272, 2449, 122.45000000000007, 126.99999999999991]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/Bloom/with_docs/3/pwquality1.conf[273, 2467, 123.35000000000008, 127.94736842105254]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/Bloom/with_docs/3/pwquality2.conf[274, 2485, 124.25000000000009, 128.89473684210517]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/Bloom/with_docs/3/pwquality3.conf[275, 2503, 125.15000000000009, 129.8421052631578]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/Bloom/with_docs/3/pwquality4.conf[276, 2521, 126.0500000000001, 130.78947368421044]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/Cohere/with_docs/3/pwquality0.conf[277, 2539, 126.9500000000001, 131.73684210526307]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/Cohere/with_docs/3/pwquality1.conf[280, 2556, 127.8000000000001, 132.63157894736833]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/Cohere/with_docs/3/pwquality2.conf[281, 2574, 128.7000000000001, 133.57894736842096]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/Cohere/with_docs/3/pwquality3.conf[282, 2592, 129.6000000000001, 134.52631578947359]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/Cohere/with_docs/3/pwquality4.conf[283, 2610, 130.5000000000001, 135.47368421052622]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/DeepSeek/with_docs/3/pwquality0.conf[284, 2628, 131.40000000000012, 136.42105263157885]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/DeepSeek/with_docs/3/pwquality1.conf[285, 2647, 132.3500000000001, 137.42105263157885]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/DeepSeek/with_docs/3/pwquality2.conf[286, 2666, 133.3000000000001, 138.42105263157885]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/DeepSeek/with_docs/3/pwquality3.conf[287, 2685, 134.25000000000009, 139.42105263157885]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/DeepSeek/with_docs/3/pwquality4.conf[288, 2704, 135.20000000000007, 140.42105263157885]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/Gemini/with_docs/3/pwquality0.conf[289, 2723, 136.15000000000006, 141.42105263157885]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/Gemini/with_docs/3/pwquality1.conf[294, 2737, 136.85000000000005, 142.157894736842]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/Gemini/with_docs/3/pwquality2.conf[300, 2750, 137.50000000000006, 142.84210526315778]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/Gemini/with_docs/3/pwquality3.conf[302, 2767, 138.35000000000005, 143.73684210526304]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/Gemini/with_docs/3/pwquality4.conf[304, 2784, 139.20000000000005, 144.6315789473683]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/GPT 4o-Mini/with_docs/3/pwquality0.conf[306, 2798, 139.90000000000003, 145.36842105263145]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/GPT 4o-Mini/with_docs/3/pwquality1.conf[307, 2818, 140.90000000000003, 146.36842105263145]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/GPT 4o-Mini/with_docs/3/pwquality2.conf[308, 2838, 141.90000000000003, 147.36842105263145]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/GPT 4o-Mini/with_docs/3/pwquality3.conf[309, 2857, 142.85000000000002, 148.31578947368408]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf[310, 2877, 143.85000000000002, 149.31578947368408]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/GPT o3-Mini/with_docs/3/pwquality0.conf[311, 2897, 144.85000000000002, 150.31578947368408]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/GPT o3-Mini/with_docs/3/pwquality1.conf[312, 2917, 145.85000000000002, 151.31578947368408]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/GPT o3-Mini/with_docs/3/pwquality2.conf[313, 2937, 146.85000000000002, 152.31578947368408]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/GPT o3-Mini/with_docs/3/pwquality3.conf[314, 2957, 147.85000000000002, 153.31578947368408]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/GPT o3-Mini/with_docs/3/pwquality4.conf[315, 2976, 148.8, 154.2631578947367]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/Llama3/with_docs/3/pwquality0.conf[316, 2995, 149.75, 155.2631578947367]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/Llama3/with_docs/3/pwquality1.conf[322, 3011, 150.55, 156.1052631578946]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/Llama3/with_docs/3/pwquality2.conf[330, 3027, 151.35000000000002, 156.9473684210525]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/Llama3/with_docs/3/pwquality3.conf[334, 3043, 152.15000000000003, 157.78947368421038]
+---------------------------------------
+./Responses/GPT 4o-Mini/with_docs/3/pwquality4.conf./Responses/Llama3/with_docs/3/pwquality4.conf[338, 3056, 152.80000000000004, 158.47368421052616]
+---------------------------------------

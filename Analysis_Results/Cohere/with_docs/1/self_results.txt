@@ -1,0 +1,20 @@
+./Responses/Cohere/with_docs/1/pwquality0.conf./Responses/Cohere/with_docs/1/pwquality1.conf[0, 0, 0, 0]
+---------------------------------------
+./Responses/Cohere/with_docs/1/pwquality0.conf./Responses/Cohere/with_docs/1/pwquality2.conf[25, 16, 0.5714285714285714, 0.7894736842105263]
+---------------------------------------
+./Responses/Cohere/with_docs/1/pwquality0.conf./Responses/Cohere/with_docs/1/pwquality3.conf[38, 31, 1.1071428571428572, 1.5789473684210527]
+---------------------------------------
+./Responses/Cohere/with_docs/1/pwquality0.conf./Responses/Cohere/with_docs/1/pwquality4.conf[60, 45, 1.6071428571428572, 2.3157894736842106]
+---------------------------------------
+./Responses/Cohere/with_docs/1/pwquality1.conf./Responses/Cohere/with_docs/1/pwquality2.conf[143, 60, 2.142857142857143, 3.105263157894737]
+---------------------------------------
+./Responses/Cohere/with_docs/1/pwquality1.conf./Responses/Cohere/with_docs/1/pwquality3.conf[167, 79, 2.6563706563706564, 4.105263157894737]
+---------------------------------------
+./Responses/Cohere/with_docs/1/pwquality1.conf./Responses/Cohere/with_docs/1/pwquality4.conf[198, 97, 3.142857142857143, 5.052631578947369]
+---------------------------------------
+./Responses/Cohere/with_docs/1/pwquality2.conf./Responses/Cohere/with_docs/1/pwquality3.conf[290, 116, 3.6563706563706564, 6.052631578947369]
+---------------------------------------
+./Responses/Cohere/with_docs/1/pwquality2.conf./Responses/Cohere/with_docs/1/pwquality4.conf[307, 136, 4.456370656370656, 7.000000000000001]
+---------------------------------------
+./Responses/Cohere/with_docs/1/pwquality3.conf./Responses/Cohere/with_docs/1/pwquality4.conf[385, 157, 5.296370656370656, 8.0]
+---------------------------------------

@@ -1,0 +1,20 @@
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/DeepSeek/with_docs/1/pwquality1.conf[0, 0, 0, 0]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/DeepSeek/with_docs/1/pwquality2.conf[4, 19, 0.9047619047619048, 0.8947368421052632]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/DeepSeek/with_docs/1/pwquality3.conf[7, 35, 1.6666666666666665, 1.6842105263157894]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality0.conf./Responses/DeepSeek/with_docs/1/pwquality4.conf[10, 50, 2.380952380952381, 2.4210526315789473]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/DeepSeek/with_docs/1/pwquality2.conf[13, 63, 3.0, 3.052631578947368]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/DeepSeek/with_docs/1/pwquality3.conf[18, 80, 3.7391304347826084, 3.894736842105263]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality1.conf./Responses/DeepSeek/with_docs/1/pwquality4.conf[23, 96, 4.434782608695652, 4.684210526315789]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/DeepSeek/with_docs/1/pwquality3.conf[27, 111, 5.086956521739131, 5.368421052631579]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality2.conf./Responses/DeepSeek/with_docs/1/pwquality4.conf[31, 126, 5.801242236024845, 6.105263157894736]
+---------------------------------------
+./Responses/DeepSeek/with_docs/1/pwquality3.conf./Responses/DeepSeek/with_docs/1/pwquality4.conf[34, 139, 6.420289855072465, 6.7368421052631575]
+---------------------------------------

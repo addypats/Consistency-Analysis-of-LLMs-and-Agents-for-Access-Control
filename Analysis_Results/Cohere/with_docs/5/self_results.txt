@@ -1,0 +1,20 @@
+./Responses/Cohere/with_docs/5/pwquality0.conf./Responses/Cohere/with_docs/5/pwquality1.conf[0, 0, 0, 0]
+---------------------------------------
+./Responses/Cohere/with_docs/5/pwquality0.conf./Responses/Cohere/with_docs/5/pwquality2.conf[27, 19, 0.59375, 0.7368421052631579]
+---------------------------------------
+./Responses/Cohere/with_docs/5/pwquality0.conf./Responses/Cohere/with_docs/5/pwquality3.conf[54, 38, 1.1875, 1.4736842105263157]
+---------------------------------------
+./Responses/Cohere/with_docs/5/pwquality0.conf./Responses/Cohere/with_docs/5/pwquality4.conf[78, 53, 1.65625, 2.263157894736842]
+---------------------------------------
+./Responses/Cohere/with_docs/5/pwquality1.conf./Responses/Cohere/with_docs/5/pwquality2.conf[108, 71, 2.21875, 3.0]
+---------------------------------------
+./Responses/Cohere/with_docs/5/pwquality1.conf./Responses/Cohere/with_docs/5/pwquality3.conf[127, 109, 3.21875, 4.0]
+---------------------------------------
+./Responses/Cohere/with_docs/5/pwquality1.conf./Responses/Cohere/with_docs/5/pwquality4.conf[157, 122, 3.5608552631578947, 4.684210526315789]
+---------------------------------------
+./Responses/Cohere/with_docs/5/pwquality2.conf./Responses/Cohere/with_docs/5/pwquality3.conf[191, 147, 4.21875, 5.684210526315789]
+---------------------------------------
+./Responses/Cohere/with_docs/5/pwquality2.conf./Responses/Cohere/with_docs/5/pwquality4.conf[221, 160, 4.560855263157895, 6.368421052631579]
+---------------------------------------
+./Responses/Cohere/with_docs/5/pwquality3.conf./Responses/Cohere/with_docs/5/pwquality4.conf[255, 185, 5.21875, 7.368421052631579]
+---------------------------------------

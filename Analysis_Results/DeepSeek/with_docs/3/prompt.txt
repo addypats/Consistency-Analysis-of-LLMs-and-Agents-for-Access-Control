@@ -1,0 +1,6 @@
+There must be at least 1 character in the new password that isn't in the old password.
+The password must be at least 8 characters long.
+Cannot contain words in the cracklib directory.
+Cannot contain the username in any form.
+Must be enforced by the PAM module.
+Allows the user 3 retries before returning an error
