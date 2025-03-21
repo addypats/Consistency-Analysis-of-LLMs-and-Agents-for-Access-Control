@@ -33,7 +33,8 @@ def average_numbers_in_directory(dir_path):
             if os.path.isdir(subdir_path):
                 # Find .txt files in this numeric subdirectory
                 for filename in os.listdir(subdir_path):
-                    if filename == "self_summary.txt":
+                    # if filename == "self_summary.txt":
+                    if filename == "correctness_summary.txt":
                         file_path = os.path.join(subdir_path, filename)
                         try:
                             with open(file_path, 'r') as f:
@@ -71,7 +72,7 @@ def without_doc():
             averages = average_numbers_in_directory(dir_path)
             if averages is not None:
                 # Write to avg.json as JSON
-                output_file = os.path.join(dir_path, "avg_without_docs.json")
+                output_file = os.path.join(dir_path, "avg_correctness_without_docs.json")
                 with open(output_file, 'w') as out:
                     json.dump({"average": averages}, out, indent=2)
                 print(f"Averages written to {output_file}: {averages}")
@@ -107,7 +108,7 @@ def with_doc():
             averages = average_numbers_in_directory(top_with_docs_dir)
             if averages is not None:
                 # Write to avg.json as JSON
-                output_file = os.path.join(top_with_docs_dir, "avg_with_docs.json")
+                output_file = os.path.join(top_with_docs_dir, "avg_correctness_with_docs.json")
                 with open(output_file, 'w') as out:
                     json.dump({"average": averages}, out, indent=2)
                 print(f"Averages written to {output_file}: {averages}")
