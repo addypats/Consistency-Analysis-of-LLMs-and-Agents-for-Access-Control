@@ -1,7 +1,0 @@
-{
-    "file1": "./Responses\\Cohere\\3\\pwquality0.conf",
-    "file2": "./Responses\\Cohere\\3\\pwquality1.conf",
-    "match_percentage": 0,
-    "matches": {},
-    "mismatches": {}
-}
