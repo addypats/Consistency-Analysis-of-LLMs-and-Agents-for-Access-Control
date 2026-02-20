@@ -5,6 +5,10 @@ import json
 
 dirs = [name for name in os.listdir("./Responses") if os.path.isdir(os.path.join("./Responses", name))]
 results = defaultdict(list)
+#{"LLM":[[File...]...]}
+# d[LLM][Prompt (from 0 to 6, found under prompts)][File (from 0 to 4)]
+# Each file has it's own array:
+# File array structure: [File Path, H, I, C, C, Soundness (all 4 weighted equally)]
 # docs = "/"
 docs = "/with_docs/"
 for d in dirs:
@@ -26,9 +30,7 @@ for d in dirs:
 
             arr = compare(f"./Supervision_Benchmarks/pwquality_{i}.conf",f)
             Cor = arr[3]
-            # d[LLM][Prompt][File]
-            #File array structure: [File Path, H, I, C, C, Soundness (1 - all 4 weighted equally)]
-            results[d][i].append([f, Hal, Inc, Con, Cor, 1-((Hal+Inc+Con+Cor)/4)])
+            results[d][i].append([f, Hal, Inc, Con, Cor, ((Hal+Inc+Con+Cor)/4)])
 # with open('zero_shot.json', 'w') as jsf:
 with open('in_context_learning.json', 'w') as jsf:
     json.dump(results, jsf, indent=4)
