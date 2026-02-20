@@ -3,3 +3,5 @@
 .gitignore~
 ..env.un~
 .env~
+test.py
+/Responses_old/

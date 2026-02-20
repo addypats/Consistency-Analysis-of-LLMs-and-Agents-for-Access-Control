@@ -15,10 +15,10 @@ load_dotenv()
 
 #ChatGPT o3 Mini
 def generate_response_chato3m(prompt):
-    Api_key = os.getenv("Chat_GPT_API_Key")
+    Api_key = os.getenv("OPENAI_KEY")
     client = openai.OpenAI(api_key=Api_key)
     completion = client.chat.completions.create(
-        model="o3-mini",
+        model="gpt-5.2-2025-12-11",
         messages=[
             {
                 "role": "user",
@@ -29,7 +29,7 @@ def generate_response_chato3m(prompt):
     return completion.choices[0].message.content
 
 def generate_response_deepseek(prompt):
-    Api_key = os.getenv("DeepSeek_API_Key")
+    Api_key = os.getenv("DEEPSEEK_KEY")
     client = openai.OpenAI(api_key=Api_key, base_url="https://api.deepseek.com")
 
     response = client.chat.completions.create(
@@ -92,8 +92,8 @@ def generate_response_bloom(prompt):
 def generate_response_gemini(prompt):
         
     prompt = prompt
-    genai.configure(api_key=os.getenv("Google_Gemini_API_Key"))
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    genai.configure(api_key=os.getenv("GEMINI_KEY"))
+    model = genai.GenerativeModel('gemini-2.5-flash')
     response = model.generate_content(prompt)
     message = response.text
     
@@ -101,7 +101,7 @@ def generate_response_gemini(prompt):
 
 #ChatGPT 4o Mini
 def generate_response_chat4om(prompt):
-    Api_key = os.getenv("Chat_GPT_API_Key")
+    Api_key = os.getenv("OPENAI_KEY")
     client = openai.OpenAI(api_key=Api_key)
     completion = client.chat.completions.create(
         model="o3-mini",
@@ -118,7 +118,7 @@ def generate_response_Cohere(prompt):
         Api_key = os.getenv("Cohere_API_Key")
         co = cohere.ClientV2(Api_key)
         response = co.chat(
-            model="command-r7b-12-2024",
+            model="command-a-03-2025",
             messages=[{"role": "user", "content": prompt}]
         )
         print(response.message.content[0].text)
@@ -151,7 +151,7 @@ def generate_response_Cohere(prompt):
 #Ran out of tokens, so running Llama3 locally with Ollama
 #Download Ollama and run ollama pull Llama3
 def generate_response_Llama(prompt):
-    response = ollama.chat(model='llama3', messages=[
+    response = ollama.chat(model='llama3.2', messages=[
         {
             'role': 'user',
             'content': prompt,

@@ -4,11 +4,12 @@ from Response_Generation.generate_response import *
 from file_compare import *
 import os
 from dotenv import load_dotenv
+import base64
 load_dotenv()
 #Keeps track of whether we're generating or analyzing, maybe make interactive later.
 
-# mode = 'generate'
-mode = 'analyze'
+mode = 'generate'
+# mode = 'analyze'
 
 overwrite = False
 dirs = [name for name in os.listdir("./Responses") if os.path.isdir(os.path.join("./Responses", name))]
@@ -17,6 +18,10 @@ pfiles = [name for name in os.listdir("./Prompts")]
 #Keeps track of all policies
 #Generate some number of responses for each LLM and save as JSON files
 if mode == 'generate':
+    # guideline_file = ""
+    # with open("./Response_Generation/NIST /Special Publication 800-63B.pdf", 'rb') as pdf:
+    #     guideline_file = base64.b64encode(pdf.read()).decode('utf-8')
+
     #make more interactive later on, for now just pull all the prompts from prompt.json and generate responses
     
     #In the future check it with a file that keeps track of prompts we've already generated responses for
@@ -36,20 +41,21 @@ if mode == 'generate':
         # p = str(open(f"./Prompts/{fl}", 'r').read())
         # print(p)
         policies.append(p)
-        # prompt = "Generate me a /etc/security/pwquality.conf file with the following password policy rules (reply with just the contents of the file):\n" + p
-        prompt = "Using the documentation at: https://man.archlinux.org/man/pwquality.conf.5.en,\nGenerate me a /etc/security/pwquality.conf file with the following password policy rules (reply with just the contents of the file):\n" + p
+        prompt = "Generate me a /etc/security/pwquality.conf file with the following password policy rules (reply with just the contents of the file):\n" + p
+        # prompt = "Generate me a /etc/security/pwquality.conf file with the following password policy rules (reply with just the contents of the file):\n" + p + "\nhttps://pages.nist.gov/800-63-4/sp800-63b.html"
+        # prompt = "Using the documentation at: https://man.archlinux.org/man/pwquality.conf.5.en,\nGenerate me a /etc/security/pwquality.conf file with the following password policy rules (reply with just the contents of the file):\n" + p
         for d in dirs:
             
             #idk what to call the folders, so for now I'll just number them and store the prompt in a txt file inside
             #cnt refers to which policy. It'll be 0 for prompt_0, 1 for prompt_1, etc.
             #Next time I should store the path in some kind of variable so I don't have to keep writing it/modify many lines
-            if not os.path.exists(f"./Responses/{d}/with_docs/{cnt}/prompt.txt"):
-                os.makedirs(os.path.dirname(f"./Responses/{d}/with_docs/{cnt}/"), exist_ok=True)
-                f = open(f"./Responses/{d}/with_docs/{cnt}/prompt.txt", "w")
+            if not os.path.exists(f"./Responses/{d}/{cnt}/prompt.txt"):
+                os.makedirs(os.path.dirname(f"./Responses/{d}/{cnt}/"), exist_ok=True)
+                f = open(f"./Responses/{d}/{cnt}/prompt.txt", "w")
                 f.write(prompt)
                 f.close()
             if overwrite:
-                f = open(f"./Responses/{d}/with_docs/{cnt}/prompt.txt", "w")
+                f = open(f"./Responses/{d}/{cnt}/prompt.txt", "w")
                 f.write(prompt)
                 f.close()
                 
@@ -61,7 +67,7 @@ if mode == 'generate':
                 
                 #Fault tolerance
                 
-                if os.path.exists(f"./Responses/{d}/with_docs/{cnt}/pwquality{i}.conf") and overwrite == False:
+                if os.path.exists(f"./Responses/{d}/{cnt}/pwquality{i}.conf") and overwrite == False:
                     continue
                 resp = ""
                 
@@ -83,7 +89,7 @@ if mode == 'generate':
                     resp = generate_response_Llama(prompt)
                     
                     
-                f = open(f"./Responses/{d}/with_docs/{cnt}/pwquality{i}.conf", "w", encoding="utf-8")
+                f = open(f"./Responses/{d}/{cnt}/pwquality{i}.conf", "w", encoding="utf-8")
                 f.write(resp)
                 f.close()
         cnt+=1

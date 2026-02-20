@@ -1,4 +1,3 @@
-Using the documentation at: https://man.archlinux.org/man/pwquality.conf.5.en,
 Generate me a /etc/security/pwquality.conf file with the following password policy rules (reply with just the contents of the file):
 Always change vendor-supplied defaults (passwords and settings) and remove or disable unnecessary default accounts before installing a system on the network (see 2.1).
 Remove/disable inactive user accounts within 90 days (see 8.1.4).
@@ -16,3 +15,4 @@ Individuals are not allowed to submit a new password/passphrase that is the same
 Change passwords/passphrases if there is any suspicion or knowledge that the password/passphrases have been compromised. (See 8.3.8)
 Implement and enforce MFA across all access into the CDE and for all remote access and document all MFA access (8.4.1 to 8.5.1)
 Passwords must not be hardcoded on scripts and must be periodically changed (8.6.2,8.6.3)
+https://pages.nist.gov/800-63-4/sp800-63b.html
