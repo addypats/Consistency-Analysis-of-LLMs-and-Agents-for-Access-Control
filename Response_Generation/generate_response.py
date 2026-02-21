@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-#ChatGPT o3 Mini
+#ChatGPT 5.2
 def generate_response_chato3m(prompt):
     Api_key = os.getenv("OPENAI_KEY")
     client = openai.OpenAI(api_key=Api_key)
@@ -99,7 +99,7 @@ def generate_response_gemini(prompt):
     
     return message
 
-#ChatGPT 4o Mini
+#ChatGPT o3 Mini
 def generate_response_chat4om(prompt):
     Api_key = os.getenv("OPENAI_KEY")
     client = openai.OpenAI(api_key=Api_key)

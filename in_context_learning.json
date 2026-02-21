@@ -1183,7 +1183,7 @@
             ]
         ]
     ],
-    "GPT 4o-Mini": [
+    "GPT o3-Mini": [
         [
             [
                 "./Responses/GPT 4o-Mini/with_docs/0/pwquality0.conf",
@@ -1479,7 +1479,7 @@
             ]
         ]
     ],
-    "GPT o3-Mini": [
+    "GPT 5.2": [
         [
             [
                 "./Responses/GPT o3-Mini/with_docs/0/pwquality0.conf",

@@ -152,6 +152,8 @@ def run_charts(results, prefix, title_suffix):
 
     # ----- Chart type 1: Per-LLM best / mid / worst -----
     llms = sorted(flattened.keys())
+    # print(llms)
+    #Hotfix due to my mistake
     n_llms = len(llms)
     n_cols = 2
     n_rows = (n_llms + n_cols - 1) // n_cols
